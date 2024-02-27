@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20180720T093000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3ca590b3ffa639bbbce82265e5135db1
+CATEGORIES:Coaching
+CREATED:20190612T125015
+SUMMARY:Playboat Session
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>This session is&nbsp;<strong>at the club</strong>.</p><p>Local long-hair
+ ed legend Sam Heaton will be sharing his playboating experience with Club m
+ embers in a series of sessions this summer.&nbsp; Playboating is (possibly)
+  the most fun you can have on flat water - let Sam help you to throw enders
+ , blunts, Mcnasties and&nbsp;phonic monkeys (none of these are made up).</p
+ ><p>You can book on as many or as few sessions as you want.&nbsp; Session d
+ ates are:</p><table><tbody><tr><td><a href="https://www.maidstonecanoeclub.
+ net/joomla/index.php/calendar-side/eventdetail/4753/-/playboat-session">13t
+ h July</a></td><td>Pool</td></tr><tr><td><a href="https://www.maidstonecano
+ eclub.net/joomla/index.php/calendar-side/eventdetail/4730/-/playboat-sessio
+ n">21st July</a></td><td>Club</td></tr><tr><td><a href="https://www.maidsto
+ necanoeclub.net/joomla/index.php/calendar-side/eventdetail/4750/-/playboat-
+ session">28th July</a></td><td>Club</td></tr><tr><td><a href="https://www.m
+ aidstonecanoeclub.net/joomla/index.php/calendar-side/eventdetail/4752/-/pla
+ yboat-session">7th September</a></td><td>Pool</td></tr><tr><td><a href="htt
+ ps://www.maidstonecanoeclub.net/joomla/index.php/calendar-side/eventdetail/
+ 4751/-/playboat-session">22nd September </a></td><td>Club</td></tr></tbody>
+ </table><p>&nbsp;</p><p>Cost is £5 for Sam's time - <strong>please book in 
+ advance</strong>.&nbsp; You will need a rudimentary roll to get the most ou
+ t of this session.&nbsp; There may be demo boats available for some session
+ s - please check in advance if this is of interest.</p>
+CONTACT:lee@maidstonecanoeclub.net
+DTSTAMP:20230907T143327Z
+DTSTART;TZID=Europe/London:20190721T093000
+DTEND;TZID=Europe/London:20190721T120000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

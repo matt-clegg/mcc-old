@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20211111T143000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bce6c384800db154bce8cf9cb978bbfc
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20221006T140747
+SUMMARY:Annual Maidstone to Rochester Cruising Club
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nThis is a peer paddle for competent paddlers. Ideal boats are crossover
+ s or even sea boats.\n\n\nOn the water at MCC at 14:30hrs then paddle throu
+ gh Allington Lock into the tidal estuary and on to Rochester Cruising Club 
+ (RCC).\n\n\nPlease be on time as the tide will not wait for you! The trip s
+ hould take around 4 hours.\n\n\nWe will be going down towards Rochester wit
+ h the outgoing tide so should be pretty easy.\n\n\nDrivers can Park at RCC 
+ at 1pm. Please share cars to keep car parking to a minimum.\n\n\nAfter the 
+ paddle we can socialise and hopefully eat in the RCC bar.\n\n\nThe paddle i
+ s about 13 miles and it will be dark half way through so be prepared with g
+ low lights (not the kiddy ones or fair ground type)\n\n\nArrange your own s
+ huttles back to the club after the fun.\n\n\nI will add you to a Whatsapp g
+ roup to make arrangements easier.\n\n\nMessage me if you need anything.&nbs
+ p;\n
+CONTACT:Alan Nevard 07384 836480
+DTSTAMP:20230907T102821Z
+DTSTART;TZID=Europe/London:20221112T143000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

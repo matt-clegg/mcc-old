@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20210601T000000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2aeb75cea2d19ffa82b06d2c1b4e4118
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20220322T095524
+SUMMARY:Peer Paddling trip and wild camping at “Studen Kladenets” reservoir in Bulgaria.
+LOCATION:Bulgaria\, Studen Kladenets reservoir.
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p><img src="https://rila.ws/wp-content/uploads/2021/07/00592-Bulgaria-Iazo
+ vir-Studen-kladenets.jpg" alt="" /></p><h1 style="text-align: justify;">Pee
+ r Paddling trip and wild camping at “Studen Kladenets” reservoir in Bulgari
+ a.</h1><h4 style="text-align: justify;">02 - 05 June 2022 (Queen’s jubilee 
+ bank holidays)</h4><h3 style="text-align: justify;">- 2nd of June</h3><p st
+ yle="text-align: justify;"><strong>Traveling to Bulgaria -</strong> From Lo
+ ndon Gatwick to Sofia airport. From there we will have a shuttle to the cam
+ psite with a stop for lunch at some local restaurant and also shopping some
+  snacks drinks and other necessities. The estimated shuttle time is around 
+ 4h so we are supposed to be at the camp around 7:00 pm.</p><p style="text-a
+ lign: justify;"><strong>Camping</strong>: We will set up our camp on the sh
+ ore in the middle of the large water reservoir, we could explore a differen
+ t direction every day. We are camping in nature with access only to some wa
+ ter fountains. All activities are done with respect to the environment, inc
+ luding trash collection, going to the toilet etc. There is a chance that we
+  may set our camp next to a hunting hut. In that case, there may be some ex
+ tras like a wooden shelter in which we could eat.</p><h3 style="text-align:
+  justify;">- 3rd of June</h3><h3 style="text-align: justify;"><img src="htt
+ ps://www.theoldnest.com/userfiles/images/Kayaci_StudenKladenec.jpg" alt="" 
+ /></h3><p style="text-align: justify;">We will have a chance to paddle and 
+ visit a small chapel and a hidden pond with a waterfall. On the way back we
+  could stop for a late lunch at a local tavern and hopefully enjoy some fis
+ h or grilled meat and cold drinks.</p><h3 style="text-align: justify;">- 4t
+ h of June<br /><img src="https://rodopski-hroniki.com/wp-content/uploads/20
+ 20/11/yumruka_202.jpg" alt="" /></h3><p style="text-align: justify;">We wil
+ l go in the opposite direction and visit some more nice sites and visit ano
+ ther tavern for lunch.</p><h3 style="text-align: justify; text-indent: -36p
+ t;">- 5th of June<br /><img src="https://www.historyhit.com/app/uploads/fly
+ -images/5160696/Perperikon-1-788x537.jpg" alt="" /></h3><p style="text-alig
+ n: justify;">We will visit the ancient&nbsp;Thracian&nbsp;city of Perperiko
+ n&nbsp;and also the oldest city in Europe, Plovdiv. From Plovdiv we are fly
+ ing back to the UK and we suppose to arrive back at Gatwick airport same da
+ y.</p><p style="text-align: justify;"><strong>Important</strong>: We are ab
+ out to join an event organised by a local adventure club “Biala Zvezda” and
+  there may be other participants, including families. The lake gives a chan
+ ce to enjoy unique sights and a rich natural environment. We set-up a stati
+ onary camp in a picturesque area with a lot of wildlife. We could meet roe 
+ deer, hinds and stags, hares. If we look up, we often see circling vultures
+  and their nesting places.</p><h3 style="text-align: justify;">The cost of 
+ the trip:</h3><p><strong>&nbsp;£150 which covers:<br /></strong>- The shutt
+ les from and to the airptorts<strong><br /> </strong>- Breakfast and dinner
+  for 3 days<br /> - All camping gear like tents, tables, chairs ect. (Every
+ one must bring their own sleeping bag and mat.) <br /> - All Gear required 
+ for paddling.<br /><br /> <strong>Additional costs that everyone must cover
+ : </strong><br /> - Flights tickets<br /> - Lunch and drinks at the venues 
+ (prices are very fair in BG)<br />- Drinks and Snacks<br />- Travel insuran
+ ce</p><p>If you are interested in joining that trip please contact me for m
+ ore information.</p>
+CONTACT:georgi@hebar.co.uk
+X-EXTRAINFO:https://www.youtube.com/watch?v=1qgzE_fRLA0&ab_channel=AlexMarkov
+DTSTAMP:20230907T145532Z
+DTSTART;TZID=Europe/London;VALUE=DATE:20220602
+DTEND;TZID=Europe/London;VALUE=DATE:20220606
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

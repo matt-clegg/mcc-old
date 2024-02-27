@@ -1,0 +1,223 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20160422T103000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:427addffa89f5c9bb6810d380e06c417
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20170417T110100
+SUMMARY:Kentish Stour
+LOCATION:Grove Ferry
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Tim Harlow of Maridian CC is organising the trip below and has invited a
+ nyone from Maidstone to join them, if you would like to go please get in to
+ uch with Tim to let him know   Tim Harlow <<a href="mailto:tjharlow@hotmail
+ .com&gt;">tjharlow@hotmail.com></a>;</p><p><span style="margin: 0px; color:
+  black; font-family: 'Calibri',sans-serif;"><span style="font-size: small;"
+ >we are doing The Kentish Stour this Sunday the 23rd April.</span></span></
+ p><p><span style="background: #e1ebf2; margin: 0px; color: #333333; font-fa
+ mily: 'Calibri',sans-serif;"><span style="font-size: small;">Meet at Grove 
+ Ferry Car Park (CT3 4BP) 10.15.</span></span><span style="margin: 0px; colo
+ r: #333333; font-family: 'Trebuchet MS',sans-serif; font-size: 10pt;"><br /
+ > </span><span style="background: #e1ebf2; margin: 0px; color: #333333; fon
+ t-family: 'Calibri',sans-serif;"><span style="font-size: small;">There is a
+  £2 parking charge, toilets and changing rooms.</span></span><span style="m
+ argin: 0px; color: #333333; font-family: 'Trebuchet MS',sans-serif; font-si
+ ze: 10pt;"><br /> </span><span style="background: #e1ebf2; margin: 0px; col
+ or: #333333; font-family: 'Calibri',sans-serif;"><span style="font-size: sm
+ all;">Launch by 10.30.</span></span><span style="margin: 0px; color: #33333
+ 3; font-family: 'Trebuchet MS',sans-serif; font-size: 10pt;"><br /> </span>
+ <span style="background: #e1ebf2; margin: 0px; color: #333333; font-family:
+  'Calibri',sans-serif;"><span style="font-size: small;">HW Grove Ferry 12:5
+ 6</span></span><span style="margin: 0px; color: #333333; font-family: 'Treb
+ uchet MS',sans-serif; font-size: 10pt;"><br /> </span><span style="backgrou
+ nd: #e1ebf2; margin: 0px; color: #333333; font-family: 'Calibri',sans-serif
+ ;"><span style="font-size: small;">Paddle 4 miles to arrive at Fordwich 12:
+ 15</span></span><span style="margin: 0px; color: #333333; font-family: 'Tre
+ buchet MS',sans-serif; font-size: 10pt;"><br /> </span><span style="backgro
+ und: #e1ebf2; margin: 0px; color: #333333; font-family: 'Calibri',sans-seri
+ f;"><span style="font-size: small;">We will either have lunch in The Fordwi
+ ch Arms if numbers are small or packed lunch if higher. </span></span><span
+  style="margin: 0px; color: #333333; font-family: 'Trebuchet MS',sans-serif
+ ; font-size: 10pt;"><br /> </span><span style="background: #e1ebf2; margin:
+  0px; color: #333333; font-family: 'Calibri',sans-serif;"><span style="font
+ -size: small;">I predict tide will turn during this time.</span></span><spa
+ n style="margin: 0px; color: #333333; font-family: 'Trebuchet MS',sans-seri
+ f; font-size: 10pt;"><br /> </span><span style="background: #e1ebf2; margin
+ : 0px; color: #333333; font-family: 'Calibri',sans-serif;"><span style="fon
+ t-size: small;">Leave 13:30</span></span><span style="margin: 0px; color: #
+ 333333; font-family: 'Trebuchet MS',sans-serif; font-size: 10pt;"><br /> </
+ span><span style="background: #e1ebf2; margin: 0px; color: #333333; font-fa
+ mily: 'Calibri',sans-serif;"><span style="font-size: small;">Return to Grov
+ e Ferry 15:30</span></span><span style="margin: 0px; color: #333333; font-f
+ amily: 'Trebuchet MS',sans-serif; font-size: 10pt;"><br /> </span><span sty
+ le="background: #e1ebf2; margin: 0px; color: #333333; font-family: 'Calibri
+ ',sans-serif;"><span style="font-size: small;">Leave 16:00</span></span></p
+ ><p><span style="background: #e1ebf2; margin: 0px; color: #333333; font-fam
+ ily: 'Calibri',sans-serif;"><span style="font-size: small;">Full details at
+ :-</span></span></p><p><span style="background: #e1ebf2; margin: 0px; color
+ : #333333; font-family: 'Calibri',sans-serif;"><a href="http://www.meridian
+ canoeclub.com/phpBB3/viewtopic.php?f=4&t=1559"><span style="color: #0000ff;
+  font-size: small;">http://www.meridiancanoeclub.com/phpBB3/viewtopic.php?f
+ =4&t=1559</span></a></span></p><p><span style="margin: 0px; color: black; f
+ ont-family: 'Calibri',sans-serif;"><span style="font-size: small;"></span><
+ /span></p><p><span style="background: #e1ebf2; margin: 0px; color: #333333;
+  font-family: 'Trebuchet MS',sans-serif; font-size: 10pt;">Could you let me
+  know numbers?</span></p><p><span style="background: #e1ebf2; margin: 0px; 
+ color: #333333; font-family: 'Trebuchet MS',sans-serif; font-size: 10pt;">T
+ he pub gets busy at lunch time so a packed lunch is probably a better idea.
+ </span></p><p><span style="margin: 0px; color: black; font-family: 'Calibri
+ ',sans-serif;"><span style="font-size: small;"></span></span></p><p><span s
+ tyle="margin: 0px; color: black; font-family: 'Calibri',sans-serif;"><span 
+ style="font-size: small;">Tim Harlow</span></span></p><p> </p>
+CONTACT:Tim Harlow
+DTSTAMP:20230907T124441Z
+DTSTART;TZID=Europe/London:20170423T103000
+DTEND;TZID=Europe/London:20170423T153000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

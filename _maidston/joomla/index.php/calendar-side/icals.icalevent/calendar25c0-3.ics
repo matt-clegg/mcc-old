@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20220517T080000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:154557c8b2b330e9ee1da5d813dd518e
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20230128T225847
+SUMMARY:Scottish Sea Paddle 
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>This year's Scottish Sea Paddle is from the 18th to 26th May 2023. The p
+ lan is to travel to Scotland on the Thursday stay in a Premier Inn and star
+ t the paddle on the Friday from Arisaig. It is weather dependant and may ch
+ ange it the weather conditions are not suitable for the location. Inland La
+ kes may be used.</p><p>We will be wild camping and using sea kayaks. The cl
+ ub does have some spare kayaks if you do not have your own. The is a memora
+ ble paddle that the club does each year, usually 8 to 12 paddlers, sharing 
+ transport and working very much as a team.&nbsp;</p><p>If you are not sure 
+ about this paddle talk to Catherine D. Geoff or Mike we will be glad to exp
+ lain what is involved and help you develop the skills to join this exciting
+  annual tour.</p><p>Contact Mike Lambourne 07949184250</p>
+DTSTAMP:20230907T135951Z
+DTSTART;TZID=Europe/London:20230518T080000
+DTEND;TZID=Europe/London:20230526T170000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

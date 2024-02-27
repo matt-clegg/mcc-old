@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20231124T093000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:20210809T124539
+SUMMARY:Regular Club Paddle for New and Experienced Members
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nOur regular weekly paddle sessions for members both new and experienced
+ . &nbsp;\n\n\nIf you're a newer member or would like some support on the wa
+ ter, please use the booking form below and one of our PAAs will meet you fo
+ r a paddle. &nbsp;If you're confident in your ability to paddle independent
+ ly with the main group, please&nbsp;don't use the booking form - just turn 
+ up - and leave the spaces for those who need it.\n\n\n&nbsp;\n\n\nBooking o
+ pens 2 weeks in advance.\n
+DTSTAMP:20230907T153858Z
+DTSTART;TZID=Europe/London:20241124T093000
+DTEND;TZID=Europe/London:20241124T113000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

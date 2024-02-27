@@ -1,0 +1,327 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20130329T090000
+RDATE:20130331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20131027T010000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20141026T010000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20130331T020000
+RDATE:20131027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20141026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:da9bb61833ffc307987f58676274e092
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20140317T093625
+SUMMARY:Medway Estuary Paddle 
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Paddle from the Strand to the Russian Sub at Strood organised by Tim Har
+ low of Maridian CC. Unfortunately I will not be able to make this one as I 
+ am sea paddling that weekend but details are below  Geoff</p><p style="back
+ ground-color: white;"><span style="font-family: Tahoma, sans-serif;">with w
+ inter as good as gone I am eager to start some Medway Estuary trips and loo
+ king through the tide tables we can fit one in on Sunday 30th March based o
+ n one of the Discover Your Estuary Trails</span><span style="font-family: H
+ elvetica, sans-serif;"></span></p><p style="background-color: white;"><span
+  style="text-decoration: underline;"><span style="font-family: Tahoma, sans
+ -serif; color: navy;"><a href="http://www.discoveryourestuary.com/canoetrai
+ ls/canoetrailfour.html"></a><a href="http://www.discoveryourestuary.com/can
+ oetrails/canoetrailfour.html">http://www.discoveryourestuary.com/canoetrail
+ s/canoetrailfour.html</a></span></span><span style="font-family: Helvetica,
+  sans-serif;"></span></p><p style="background-color: white;"><span style="f
+ ont-family: Tahoma, sans-serif;"><a href="http://www.discoveryourestuary.co
+ m/CanoeTrail-4.pdf" target="_blank" saprocessedanchor="true"></a><a href="h
+ ttp://www.discoveryourestuary.com/CanoeTrail-4.pdf">http://www.discoveryour
+ estuary.com/CanoeTrail-4.pdf</a></span><span style="font-family: Helvetica,
+  sans-serif;"></span></p><p style="background-color: white;"><span style="f
+ ont-family: Tahoma, sans-serif;">except we will not visit Nor Marsh or Darn
+ ett Island as we hope to visit them later this year on other trips but will
+  extend this trip to the submarine.</span></p><p style="background-color: w
+ hite;"><span style="font-family: Tahoma, sans-serif;">Meet at The Strand Ca
+ r Park, Gillingham, ME7 1TT at 10.15 and launch by 11. (High Water 13.27.)<
+ /span><span style="font-family: Helvetica, sans-serif;"></span></p><p style
+ ="background-color: white;"><span style="font-size: 13.5pt; font-family: Ta
+ homa, sans-serif;">A chart of the trip is at </span><span style="text-decor
+ ation: underline;"><span style="font-size: 13.5pt; font-family: Tahoma, san
+ s-serif; color: navy;"><a href="http://www.visitmyharbour.com/harbours/nort
+ h-kent-swale-medway/medway-marinas/chart/1FFF5C48AE531/medway-gillingham-an
+ d-rochester-2012-chart"></a><a href="http://www.visitmyharbour.com/harbours
+ /north-kent-swale-medway/medway-marinas/chart/1FFF5C48AE531/medway-gillingh
+ am-and-rochester-2012-chart">http://www.visitmyharbour.com/harbours/north-k
+ ent-swale-medway/medway-marinas/chart/1FFF5C48AE531/medway-gillingham-and-r
+ ochester-2012-chart</a></span></span><span style="font-family: Helvetica, s
+ ans-serif;"></span></p><p style="background-color: white;"><span style="fon
+ t-family: Helvetica, sans-serif;"> </span></p><p style="background-color: w
+ hite;"><span style="font-family: Tahoma, sans-serif;">We will cross the shi
+ pping lane and paddle (for 1.5 miles) across and against the tide to Folly 
+ Point by Hoo Fort on Hoo Salt Marsh.</span><span style="font-family: Helvet
+ ica, sans-serif;"></span></p><p style="background-color: white;"><span styl
+ e="font-family: Tahoma, sans-serif;">With the tide now with us, we head nor
+ th then east behind Hoo Salt Marsh to Hoo (Port Werburgh) Marina where we r
+ ejoin the Medway and continue following the north shore up river to Upnor a
+ nd its castle and on to Chatham where the Medway does a sharp U-bend and he
+ ads north to Rochester then Strood where the submarine is moored (just befo
+ re Rochester Bridge).</span><span style="font-family: Helvetica, sans-serif
+ ;"></span></p><p style="background-color: white;"><span style="font-family:
+  Tahoma, sans-serif;">This is 8.5 miles from The Strand.</span><span style=
+ "font-family: Helvetica, sans-serif;"></span></p><p style="background-color
+ : white;"><span style="font-family: Helvetica, sans-serif;"> </span></p><p 
+ style="background-color: white;"><span style="font-family: Tahoma, sans-ser
+ if;">We will get out on the north shore and eat our packed lunches. High Wa
+ ter is at 13.22 so we will start the return trip about 14.00. As soon it is
+  safe to do so, we will cross the river and follow the south shore back to 
+ The Strand, Gillingham, a distance of 5.5 miles.</span><span style="font-fa
+ mily: Helvetica, sans-serif;"></span></p><p style="background-color: white;
+ "><span style="font-family: Helvetica, sans-serif;"> </span></p><p style="b
+ ackground-color: white;"><span style="font-family: Tahoma, sans-serif;">The
+  total trip is 14 miles.</span><span style="font-family: Helvetica, sans-se
+ rif;"></span></p><p style="background-color: white;"><span style="font-fami
+ ly: Tahoma, sans-serif;">I plan to return to The Strand by 16.00.</span><sp
+ an style="font-family: Helvetica, sans-serif;"></span></p><p style="backgro
+ und-color: white;"><span style="font-family: Tahoma, sans-serif;">Paddlers 
+ should be of a 2* standard for this trip.</span></p><p align="center" style
+ ="text-align: center; background-color: white;"><b><span style="font-family
+ : Tahoma, sans-serif;">Important.</span></b><span style="font-family: Helve
+ tica, sans-serif;"></span></p><p style="background-color: white;"><span sty
+ le="font-family: Tahoma, sans-serif;">This Sunday is the day after <b>the c
+ locks have moved forward one hour </b>for BST so please take note and set y
+ our alarms accordingly.</span><span style="font-family: Helvetica, sans-ser
+ if;"></span></p><p align="center" style="text-align: center; background-col
+ or: white;"><i><span style="font-family: Tahoma, sans-serif;">British Summe
+ r Time and tide wait for no man!</span></i><span style="font-size: 13px; fo
+ nt-family: Helvetica, sans-serif;"> </span></p><p style="background-color: 
+ white;"><span style="font-family: Tahoma, sans-serif;">Could you check my c
+ heck my tide calculations?</span><span style="font-family: Helvetica, sans-
+ serif;"></span></p><p style="background-color: white;"><span style="font-fa
+ mily: Tahoma, sans-serif;">Rochester tide table</span><span style="font-fam
+ ily: Helvetica, sans-serif;"></span></p><p style="background-color: white;"
+ ><span style="text-decoration: underline;"><span style="font-family: Tahoma
+ , sans-serif; color: navy;"><a href="http://www.visitmyharbour.com/tides/79
+ /uk-tables/rochester-stroodpier-tide-tables"></a><a href="http://www.visitm
+ yharbour.com/tides/79/uk-tables/rochester-stroodpier-tide-tables">http://ww
+ w.visitmyharbour.com/tides/79/uk-tables/rochester-stroodpier-tide-tables</a
+ ></span></span></p><p style="background-color: white;"><span style="font-fa
+ mily: Tahoma, sans-serif;">Chatham Tide tables (Subtract 2 minutes for Gill
+ ingham)</span><span style="font-family: Helvetica, sans-serif;"></span></p>
+ <p style="background-color: white;"><span style="font-family: Helvetica, sa
+ ns-serif;"><a href="http://www.visitmyharbour.com/tides/78/uk-tables/chatha
+ m-lockapproaches-tide-tables" target="_blank" saprocessedanchor="true"><spa
+ n style="font-family: Tahoma, sans-serif;"></span></a><a href="http://www.v
+ isitmyharbour.com/tides/78/uk-tables/chatham-lockapproaches-tide-tables">ht
+ tp://www.visitmyharbour.com/tides/78/uk-tables/chatham-lockapproaches-tide-
+ tables</a></span></p><p style="background-color: white;"><span style="font-
+ family: Tahoma, sans-serif;">The trip can be shortened by 2.88 miles by pad
+ dling directly north from The Strand to Hoo (Port Werburgh) Marina thus avo
+ iding going around Hoo Salt Marsh.</span><span style="font-family: Helvetic
+ a, sans-serif;"></span></p><p style="background-color: white;"><span style=
+ "font-family: Tahoma, sans-serif;">Something to consider if we have bad wea
+ ther on the day.</span><span style="font-family: Helvetica, sans-serif;"></
+ span></p><p style="background-color: white;"><span style="font-family: Taho
+ ma, sans-serif;">I have posted details of this trip on the Meridian website
+  at</span><span style="font-family: Helvetica, sans-serif;"></span></p><p s
+ tyle="background-color: white;"><span style="font-family: Helvetica, sans-s
+ erif;"><a href="#p4873" target="_blank" saprocessedanchor="true"><span styl
+ e="font-family: Tahoma, sans-serif;"></span></a><a href="#p4873">http://www
+ .meridiancanoeclub.com/phpBB3/viewtopic.php?f=4&t=1255&p=4873#p4873</a></sp
+ an></p><p style="background-color: white;"><span style="font-family: Helvet
+ ica, sans-serif;"> </span></p><p style="background-color: white;"><span sty
+ le="font-family: Tahoma, sans-serif;">If you have any questions, please get
+  back to me.</span><span style="font-family: Helvetica, sans-serif;"></span
+ ></p><p style="background-color: white;"><span style="font-family: Tahoma, 
+ sans-serif;">Tim Harlow</span><span style="font-family: Helvetica, sans-ser
+ if;"></span></p><p style="background-color: white;"><span style="font-famil
+ y: Tahoma, sans-serif;">Meridian Canoe Club</span><span style="font-family:
+  Helvetica, sans-serif;"></span></p><p style="background-color: white;"><sp
+ an style="font-family: Helvetica, sans-serif;"> </span></p>
+DTSTAMP:20230907T122000Z
+DTSTART;TZID=Europe/London:20140330T100000
+DTEND;TZID=Europe/London:20140330T160000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

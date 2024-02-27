@@ -1,0 +1,19 @@
+/* 
+    Document   : jevcustom
+    Created on : 22-Apr-2013, 14:12:51
+    Author     : Tony Partridge - GWE Systems Ltd
+    Description: To allow customisation of CSS Strings where they can never be lost.
+    Purpose of the stylesheet follows.
+*/
+
+body {position: static !important;}
+body > .jevbootstrap > div {z-index: 9999999 !important;}
+
+/* Fix for modals being off screen due to template CSS */
+body .jevbootstrap div.modal:not(.jeviso-modal) {
+    margin-top: 0;
+}
+/* Fix for top menu overlapping modals */
+body #myEditModal.modal:not(.jeviso-modal), body .jevmodal.modal, body .jevmodal-full.modal {
+  z-index: 999999;
+}

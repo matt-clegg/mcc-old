@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20220501T180000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f1a280387d30cbe338eec08d55c8cde8
+CATEGORIES:Coaching
+CREATED:20230325T183150
+SUMMARY:Paddle Safer Course
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter’s St\, Maidstone
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nThis coached course gives new and novice paddlers the opportunity to de
+ velop their safety skills when taking to the water.&nbsp;\n\n\nThe Go Paddl
+ ing Paddle Safer course is designed for those new to paddling or relatively
+  experienced to paddling wanting to gain knowledge and raise their awarenes
+ s of paddling safely in a sheltered water environment, in or on the craft t
+ hey paddle. Typical craft would include kayak, canoe, sit on top, inflatabl
+ e, and stand up paddleboard.\n\n\nMore information, including a short video
+ , is available here:\n\n\n&nbsp;\n\n\nhttps://www.britishcanoeingawarding.o
+ rg.uk/paddle-safer/\n\n\nFor those who already have some rescue training an
+ d want a refresher before the summer paddling season, the Rescue Refresher 
+ &amp; Games session would probably be more suitable.&nbsp;\n
+CONTACT:Alan Nevard, alan.nevard@maidstonecanoeclub.net
+DTSTAMP:20230907T103407Z
+DTSTART;TZID=Europe/London:20230502T180000
+DTEND;TZID=Europe/London:20230502T200000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

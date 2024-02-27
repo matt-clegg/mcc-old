@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20210606T193000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3c52eef1a5a39bffaa661be134282eed
+CATEGORIES:Pool Sessions
+CREATED:20220118T130838
+SUMMARY: Pool Session
+LOCATION:THE WEALD SPORTS CENTRE  Angley Rd\, Cranbrook\, TN17 2PN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nWarm water, friendly faces, practice your braces, warm water, work on y
+ our roll, capsize practice ... did I mention the warm water?!\n\n\nIf you h
+ aven't been to a pool session before - and especially if you have - please 
+ read the below carefully. &nbsp;\n\n - The pool is at the Weald Sports Cent
+ re, Cranbrook&nbsp;\n - Numbers are strictly limited. &nbsp;Please don't co
+ me if you haven't pre-booked and paid using the form below!&nbsp;\n - You'l
+ l need to bring a boat, either your own or from the Club. &nbsp;You'll need
+  to arrange this yourself.\n - The pool is 25m x 10m and is likely to be pr
+ etty full. &nbsp;If you're bringing a huge boat (canoe, sea kayak), or a pl
+ ayboater working on tricks, please be considerate of others.\n - There will
+  always be a couple of coaches and experienced paddlers doing their own pra
+ ctice but who will be happy about to offer advice. If you'd like some coach
+ ing, please let me know in advance and I'll arrange someone to help you wit
+ h a 30-minute session (the rest of the time will be for free practice)\n - 
+ Boats must be cleaned inside and out! &nbsp;All boats will be inspected pri
+ or to entry and you won't be able to paddle if your boat hasn't been cleane
+ d. &nbsp;(If you're bringing a Club boat, you can use the hosepipe in the d
+ ownstairs toilet to wash the boat)\n - Sessions are currently running on al
+ ternate Tuesdays, and booking opens 5 weeks before each session. &nbsp;\n -
+  Session starts at 7:30pm and finishes at 9:30pm. &nbsp;Please arrive 15 mi
+ nutes before.
+CONTACT:Mark Corti, mark@maidstonecanoeclub.net
+DTSTAMP:20230907T082824Z
+DTSTART;TZID=Europe/London:20220607T193000
+DTEND;TZID=Europe/London:20220607T213000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

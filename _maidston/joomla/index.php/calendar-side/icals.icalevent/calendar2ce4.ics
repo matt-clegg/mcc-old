@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20211005T000000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2203c7e5ec226a6cd173bb7e958ca110
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20220517T103524
+SUMMARY:Peer Paddling Trip to Lefkada and Meganisi island, Greece
+LOCATION:Greece
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:Peer Sea Paddling Trip to Lefkada and Meganisi island, Greece06 – 09 Octobe
+ r 2022Schedule:Thursday 6 Oct:\n\nArrival day. We settled into our accommod
+ ation at the sea shore. Our base will be at Dessimi and every day we will s
+ tart and finish our kayaking trips there. In the evenings we can visit some
+  nice taverns or prepare our own dinner on a barbeque by the beach.\n\n\n&n
+ bsp;\nFriday 7 Oct:\n\nFirst kayaking day. Possible itinerary: Dessimi – Me
+ ganisi island. Lunch at a tavern on the island. Return to Dessimi\n\nSaturd
+ ay 8 Oct:\n\nSecond kayaking day. Possible itinerary: We head North by the 
+ Scorpio, Scorpidi, Maduri islands. We head inside the large bay of Nidri. L
+ unch at a tavern in Gheni. Return to Dessimi.\n\n\n&nbsp;\nSunday 9 Oct: &n
+ bsp;\n\nThird kayaking day. Possible itinerary: we head south towards the d
+ eep underwater caves of Lefcas. We could go under the rocks with the kayaks
+  and explore some caverns.We will enter the deep bays of Micros Gialos or S
+ ivota. We will have lunch in a tavern near the hotel and after that we will
+  have time to shower and pack for our flight home.\n\n\n\n\nAround Lefkas t
+ here are several possible routes for kayaking, depending on the weather, an
+ d the sea, as well as the abilities and wishes of the group participants. W
+ e could visit some interesting caverns, desolate beaches, rock walls, and b
+ eautiful bays. Part of the pleasure is in visiting different taverns with t
+ he kayaks – for lunch and for refreshing drinks.\nCost of the trip:\n\nOpti
+ on 1 - Camping - £195A tent could be provided by the club, but you have to 
+ bring your own sleeping bag and mat. Camping - non electric green tent pitc
+ h with all facilities.Option 2 - Shared hotel room - £285You will be suited
+  in a double or triple hotel room.Option 3 - Private hotel room - £360\nWha
+ t is included in the price is the option you choose plus:\n\n- All local fe
+ es.- Boats (tandem kayaks) + all gear required for paddling such as, paddle
+ s, buoyancy aids and dry bags.- Trip leader/guide- The shuttles from and to
+  Aktion International Airport.\nAdditional costs that everyone must cover:\
+ n\n- Flights tickets - please make sure that you booked yourself a tickets 
+ for these flights, they are chosen to fit to our travel plan:FR2902London (
+ Stansted) to Aktion International Airport (PVK)Thu, 06 Oct 22Departure time
+  - 09:45Arrival time - 15:00(STN) - (PVK)FR2903Aktion International Airport
+  (PVK) to London (Stansted)Sun, 09 Oct 22Departure time - 21:55Arrival time
+  - 23:20(PVK) - (STN)- Food and drinks at the venues- Drinks and Snacks- Tr
+ avel insurance- All paperwork needed for travel to greece.- Suitable clothi
+ ng for this paddling such as:Swimming suits or some fast drying layerWindst
+ opper or waterproof jacket.Swimming shoes or flip flops.\nSpare set of dry 
+ clothes and shoes for our breaks for dinner.\n&nbsp;&nbsp;If you are intere
+ sted in joining that trip please contact me for more information.\n\n&nbsp;
+ \n
+CONTACT:georgi@hebar.co.uk
+DTSTAMP:20230907T102651Z
+DTSTART;TZID=Europe/London;VALUE=DATE:20221006
+DTEND;TZID=Europe/London;VALUE=DATE:20221010
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

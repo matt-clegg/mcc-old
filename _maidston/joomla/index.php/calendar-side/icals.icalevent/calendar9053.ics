@@ -1,0 +1,135 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20220616T080000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:13c44d055b97fcbf6ec14f0375d31900
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20230125T134856
+SUMMARY:PEER Paddle Kayaking Trip in Lycia
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<h1>Kayaking Trip in Lycia</h1><p><img src="images/lik.jpg" alt="lik" width
+ ="900" height="675" /></p><h3>Türkiye’s Azure Coast</h3><h2>17 – 24 June 20
+ 23</h2><p>The dates may shift by a day, depending on flight availability.</
+ p><h2>Day 1:</h2><p>Flight to Antalya. Prearranged transfer form Antalya to
+  Olympos in a van. Accommodation in treehouses and bungalows.</p><h2>Day 2:
+ </h2><p>A Day at Olympus. Time to view the ancient town; Beach time; Free t
+ ime; Optional visit to the eternal fires of Chimaera. Accommodation in the 
+ bungalows.</p><h2>Day 3:</h2><p>Transfer to Demre. Our kayaking tour starts
+  in the town vicinity. Kayaking to<br />Kekova. Overnight at Uçağız.</p><h2
+ >Day 4:</h2><p>Long kayaking day in Kekova. Transfer to Kaş and accommodati
+ on there.</p><h2>Day 5:</h2><p>Kayaking in Kaş.&nbsp;Overnight in Kaş.</p><
+ h2>Day 6:</h2><p>Sightseeing day. Visit Xanthos and Saklıkent (The Lost Cit
+ y),&nbsp;transfer to Kayakoy. Visit Kayakoy and overnight there.</p><h2>Day
+  7:</h2><p>Paddle in Oludeniz (The Blue Lagoon) and the Butterfly Valley. O
+ vernight in Kayakoy. Final party.</p><h2>Day 8:</h2><p>Transfer to Antalya 
+ and flight home.</p><h5>In case of bad weather and rough seas, the kayaking
+  itinerary may be altered. Some<br />of the sightseeing destination may be 
+ swapped or replaced.</h5><h2>Participation cost:</h2><h4>650 GBP</h4><p>Thi
+ s does not include airfare and taxes. Below you will find a detailed descri
+ ption what is included in this cost and what not.</p><h2>What is included i
+ n the participation cost:</h2><p>All land transfers described in the progra
+ mme; all sightseeing visits; all accommodation; some of the meals at some a
+ ccommodations; the sea kayaking trips; specialised kayaking gear: kayaks, p
+ addles, BA’s; the compulsory local kayaking and tour guides; a tour coordin
+ ator from the club.At Olympus we will have&nbsp; breakfasts and dinners inc
+ luded. We expect that most accommodations will include breakfasts. After we
+  have the exact group size and members, we will determine the exact accommo
+ dation venues and details about what meals can be included.</p><h2>What is 
+ NOT covered by the participation cost:</h2><p>Flight tickets and taxes; ins
+ urance; meals that are not already specified as included; all drinks; entra
+ nce fees to sightseeing sites; the visit to Chimaera; personal gear and equ
+ ipment, proper clothing, footwear, headwear, sunscreen etc.</p><h2>Accommod
+ ation:</h2><p>The lodging will not be luxurious, but we will try to select 
+ it to be nice and comfortable. Accommodation will be in rooms for 2 and 3 p
+ eople. Single occupancy<br />would cost extra. We will be staying in some c
+ osy family-run hotels and guesthouses. In Olympos we will be staying in spe
+ cial tree-house complexes. Olympos is a touristy village with a hippie vibe
+ . We will be staying in a closed resort of sorts, with green gardens, treeh
+ ouses, bungalows, tea and dining area.</p><h2>Food:</h2><p>Breakfast and so
+ me of the dinners will be at the places we stay for the night. The local cu
+ isine is various and attractive. We will have the chance to visit some<br /
+ >interesting local pubs and restaurants. Lunches will be decided on the spo
+ t, according to availability.&nbsp;</p><p><strong>If someone has dietary re
+ strictions: allergies, special diets like vegetarian,&nbsp;</strong><strong
+ >vegan, etc. it is compulsory to inform in advance, so that the host can be
+ &nbsp;</strong><strong>prepared.</strong></p><h2>Paddling:</h2><p>The kayak
+ ing tours are at sea, with incredibly beautiful and various scenery. We wil
+ l<br />have the chance to visit historical remains, bays and beaches. The l
+ ength of the<br />tours will be different day by day and will be determined
+  according to the conditions<br />of the sea and the group.</p><p><strong s
+ tyle="font-weight: bold; font-size: 14px; color: #414141; font-family: Aria
+ l, Helvetica, sans-serif; font-style: normal; letter-spacing: normal; orpha
+ ns: 2; text-align: left; text-indent: 0px; text-transform: none; white-spac
+ e: normal; widows: 2; word-spacing: 0px; background-color: #ffffff;">If you
+  want to come along or&nbsp;&nbsp;if you need more information contact Geor
+ gi:&nbsp;<a href="mailto:georgi@hebar.co.uk" style="color: inherit; text-de
+ coration: none;"></a><a href="mailto:georgi@hebar.co.uk">georgi@hebar.co.uk
+ </a></strong></p>
+CONTACT:georgi@hebar.co.uk
+DTSTAMP:20230907T140123Z
+DTSTART;TZID=Europe/London:20230617T080000
+DTEND;TZID=Europe/London:20230624T170000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

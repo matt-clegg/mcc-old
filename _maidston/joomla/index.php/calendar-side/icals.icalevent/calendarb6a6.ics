@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20220616T080000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:13c44d055b97fcbf6ec14f0375d31900
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20230125T134856
+SUMMARY:PEER Paddle Kayaking Trip in Lycia
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:Kayaking Trip in Lycia\n\n\nTürkiye’s Azure Coast17 – 24 June 2023\n\nThe d
+ ates may shift by a day, depending on flight availability.\nDay 1:\n\nFligh
+ t to Antalya. Prearranged transfer form Antalya to Olympos in a van. Accomm
+ odation in treehouses and bungalows.\nDay 2:\n\nA Day at Olympus. Time to v
+ iew the ancient town; Beach time; Free time; Optional visit to the eternal 
+ fires of Chimaera. Accommodation in the bungalows.\nDay 3:\n\nTransfer to D
+ emre. Our kayaking tour starts in the town vicinity. Kayaking to\nKekova. O
+ vernight at Uçağız.\nDay 4:\n\nLong kayaking day in Kekova. Transfer to Kaş
+  and accommodation there.\nDay 5:\n\nKayaking in Kaş.&nbsp;Overnight in Kaş
+ .\nDay 6:\n\nSightseeing day. Visit Xanthos and Saklıkent (The Lost City),&
+ nbsp;transfer to Kayakoy. Visit Kayakoy and overnight there.\nDay 7:\n\nPad
+ dle in Oludeniz (The Blue Lagoon) and the Butterfly Valley. Overnight in Ka
+ yakoy. Final party.\nDay 8:\n\nTransfer to Antalya and flight home.\nIn cas
+ e of bad weather and rough seas, the kayaking itinerary may be altered. Som
+ e\nof the sightseeing destination may be swapped or replaced.Participation 
+ cost:650 GBP\n\nThis does not include airfare and taxes. Below you will fin
+ d a detailed description what is included in this cost and what not.\nWhat 
+ is included in the participation cost:\n\nAll land transfers described in t
+ he programme; all sightseeing visits; all accommodation; some of the meals 
+ at some accommodations; the sea kayaking trips; specialised kayaking gear: 
+ kayaks, paddles, BA’s; the compulsory local kayaking and tour guides; a tou
+ r coordinator from the club.At Olympus we will have&nbsp; breakfasts and di
+ nners included. We expect that most accommodations will include breakfasts.
+  After we have the exact group size and members, we will determine the exac
+ t accommodation venues and details about what meals can be included.\nWhat 
+ is NOT covered by the participation cost:\n\nFlight tickets and taxes; insu
+ rance; meals that are not already specified as included; all drinks; entran
+ ce fees to sightseeing sites; the visit to Chimaera; personal gear and equi
+ pment, proper clothing, footwear, headwear, sunscreen etc.\nAccommodation:\
+ n\nThe lodging will not be luxurious, but we will try to select it to be ni
+ ce and comfortable. Accommodation will be in rooms for 2 and 3 people. Sing
+ le occupancy\nwould cost extra. We will be staying in some cosy family-run 
+ hotels and guesthouses. In Olympos we will be staying in special tree-house
+  complexes. Olympos is a touristy village with a hippie vibe. We will be st
+ aying in a closed resort of sorts, with green gardens, treehouses, bungalow
+ s, tea and dining area.\nFood:\n\nBreakfast and some of the dinners will be
+  at the places we stay for the night. The local cuisine is various and attr
+ active. We will have the chance to visit some\ninteresting local pubs and r
+ estaurants. Lunches will be decided on the spot, according to availability.
+ &nbsp;\n\n\nIf someone has dietary restrictions: allergies, special diets l
+ ike vegetarian,&nbsp;vegan, etc. it is compulsory to inform in advance, so 
+ that the host can be&nbsp;prepared.\nPaddling:\n\nThe kayaking tours are at
+  sea, with incredibly beautiful and various scenery. We will\nhave the chan
+ ce to visit historical remains, bays and beaches. The length of the\ntours 
+ will be different day by day and will be determined according to the condit
+ ions\nof the sea and the group.\n\n\nIf you want to come along or&nbsp;&nbs
+ p;if you need more information contact Georgi:&nbsp;georgi@hebar.co.uk\n
+CONTACT:georgi@hebar.co.uk
+DTSTAMP:20230907T140122Z
+DTSTART;TZID=Europe/London:20230617T080000
+DTEND;TZID=Europe/London:20230624T170000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20210809T180000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:923315ccf1b850c4e0a34dd6bbd220f3
+CATEGORIES:Coaching
+CREATED:20220531T212536
+SUMMARY:Explore Award - Independent Paddling
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nThe Explore Award is a step&nbsp;up from the Beginner Course.&nbsp; It 
+ replaces the old 2* award, and is suitable for anyone who's done the old 1*
+ , Discover Award, or Beginner Course - and has had a bit of paddle time sin
+ ce to gain some experience.&nbsp; The focus of this is to build the skills 
+ needed to paddle independently and to be a confident member of a paddling g
+ roup.&nbsp; It will also provide the foundations to progress in other paddl
+ e disciplines - whether that's sea kayaking, touring, white water, or anyth
+ ing else. &nbsp;\n\n\nWe'll talk about:\n\n - planning a trip, taking into 
+ account the weather, environment, and water conditions\n - new skills and p
+ addle strokes for new situations\n - efficient paddling to prepare you for 
+ longer journeys\n - basic rescue skills (these can be done in a pool if the
+  river is too cold)\n - and lots more!\n\nPart of the assessment for this a
+ ward is for the group to plan and paddle a short journey. &nbsp;It's usuall
+ y good to spend some time practicing between the training and assessment, a
+ nd even if you think you're not at the level quite yet it's still worth doi
+ ng the training now. &nbsp;You'll learn loads, have fun, and can do the ass
+ essment journey later when you've had the opportunity for a bit more practi
+ ce!\n\n\nTo get the most out of this award, you should:\n\n - be confident 
+ wearing a spraydeck (and capsizing with one!)\n - be able to paddle compete
+ ntly in a straight line\n - have a chat with a PAA or river leader who has 
+ done the award\n\nTime: This course will run on Wednesday &nbsp;evenings (6
+ :00pm on the water) throughout August, with assessment on the final session
+ .&nbsp; If you can't make one or more of the sessions then we can try to ar
+ range another time.\n\n\nCost: British Canoeing charge £6 for this course -
+  please pay via Paypal below. &nbsp;Coaching is always free at Maidstone Ca
+ noe Club!\n
+CONTACT:Mark Corti, mark@maidstonecanoeclub.net
+DTSTAMP:20230907T145811Z
+DTSTART;TZID=Europe/London:20220810T180000
+DTEND;TZID=Europe/London:20220810T203000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

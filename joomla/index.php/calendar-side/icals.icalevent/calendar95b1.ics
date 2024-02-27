@@ -1,0 +1,154 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20180628T180000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a94dcb703cdbafc085e9b26e4fd1baf7
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20190621T142601
+SUMMARY:Lee Valley Legacy Course Private Hire - with Cuckmere CC
+LOCATION:Lee Valley White Water Centre\, Station Road\, Waltham Cross\, Hertfordshir
+ e\, EN9 1AB
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>We've been invited by Cuckmere Canoe Club to join them at Lee Valley.&nb
+ sp; Dave Marchant from Cuckmere writes:</p><p>Cuckmere Valley Canoe Club ha
+ ve booked Lee Valley Legacy from 1800-2000 on Saturday 29th June and have a
+  number of spaces still available - if anyone is interested we’d love for y
+ ou to come along.<br /><br />Session is 18.00-20.00 but arrive by 17.30 to 
+ get changed and sorted. There will be a safety briefing at 17.45 which all 
+ paddlers (and spectators) are expected to attend. (No need to sign up if yo
+ u are only spectating)<br /><br />Cost is £15 paid direct to the club. Plea
+ se sign up through Eventbrite and then make payment straight away (details 
+ on the event).<br /><br /><a href="https://www.eventbrite.co.uk/e/lee-valle
+ y-tickets-48584601852" target="_blank" rel="nofollow noopener" data-lynx-mo
+ de="hover">https://www.eventbrite.co.uk/e/lee-valley-tickets-48584601852</a
+ > <br /><br />If you intend to come please sign up as soon as to guarantee 
+ a place. <br /><br />You need to be of 2* standard. If you don’t have your 
+ 2* please message me with your experience so we can take a view on whether 
+ you are of a required standard to be safe on this course.<br /><br />N.B. A
+ ll paddlers need to bring their own boats, BAs, Helmets etc... <br /><br />
+ We’ve also just been offered free use of Demo boats from Above and Below (t
+ he on-site shop). If you want to take advantage of this call Matt Edwards o
+ n 07851 239184 or message Above and Below via Facebook.</p>
+DTSTAMP:20230907T143254Z
+DTSTART;TZID=Europe/London:20190629T180000
+DTEND;TZID=Europe/London:20190629T200000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

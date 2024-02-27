@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20170705T180000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ae2294445fcc52d183fb854175ea5407
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20171212T091902
+SUMMARY:Estuary BBQ
+LOCATION:Strand
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Paddle from the Strand to Darnet Island, set up camp, light BBQs, light 
+ bonfire, eat and drink, chat and then bed, more details below. Also see det
+ ails about parking overnight at the strand here<span style="color: #ff00ff;
+ "> <a style="color: #ff00ff;" href="http://www.maidstonecanoeclub.net/jooml
+ a/images/jevents/5b184d001a38b8.62210877.pdf">Parking Notice</a></span> &nb
+ sp; &nbsp; &nbsp; &nbsp; that you will need to print off fill in and place 
+ on your dash with <span style="color: #ff0000;">two</span> tickets &nbsp; &
+ nbsp; &nbsp; &nbsp; &nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+ &nbsp; MAIDSTONE CANO CLUB</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
+ sp;&nbsp;&nbsp;&nbsp; Proudly presents our annual :-</p><p><strong>&nbsp;</
+ strong></p><p><strong>THE MEDWAY ESTUARY </strong><strong>BARBEQUE</strong>
+ </p><p><strong>&nbsp;</strong></p><h1>Friday 6th July 2018</h1><p><strong>P
+ lease Note: </strong>We will need a<strong> sharp <span style="text-decorat
+ ion: underline;">6:45pm</span> get-away </strong>from Gillingham Strand.</p
+ ><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Also – The
+  car Park is now Pay and Display. <span style="text-decoration: underline;"
+ >Needs checking out</span>.</p><p>Arrangements:-</p><p><strong>Meet at the 
+ Strand Car Park, Gillingham from 6.00pm. (18:00) onwards.</strong></p><p>At
+  6:45pm sharp …Paddle across to one of the Estuary Islands on a long summer
+  evening and cook your Bangers and Burgers on an open driftwood fire. Bivou
+ ac overnight under the stars and return the next day.</p><p>All paddlers wi
+ th some experience are welcome, just bring your own food and drink, somethi
+ ng to paddle over in and some warm clothing (just in case!).</p><p>Note: Be
+  prepared for <strong>Muddy portages</strong> at get out (Fri) and put-in (
+ Sat) although this will be minimised by arriving and leaving near high tide
+ s.</p><p><strong><span style="text-decoration: underline;">Proposed departu
+ re from Strand 6.45pm (18:45) Friday</span></strong></p><p><strong>…. and r
+ eturn 08:00 Sat morning. </strong></p><p>Please remember that <strong>EVERY
+ THING</strong> you take (camping things, cooking things, clothing etc) <str
+ ong>MUST FIT INSIDE YOUR CANOE/KAYAK!</strong></p><p>&nbsp;&nbsp;&nbsp;&nbs
+ p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
+ nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
+ p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
+ nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
+ p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
+ nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
+ p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>Note: &nbsp;&nbsp;&nbsp;&nbsp;
+  HIGH TIDE (Fri 06/07/18)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 19:30 approx.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LOW TIDE (Sat 07/07/18)&nbsp;&nbsp;&nbsp;&nb
+ sp;&nbsp;&nbsp; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 02:30 approx.</
+ p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HIGH TIDE (Sat 
+ 07/07/18)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
+ p;&nbsp; 08:00 approx</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+ ;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>For fur
+ ther information please contact Norman Brooks on Tel. No. 01634 241350,</p>
+ <p>e-mail: <a href="mailto:normanwbrooks@yahoo.co.uk">normanwbrooks@yahoo.c
+ o.uk</a>&nbsp; or contact any MCC Committee Member</p>
+CONTACT:Norman normanwbrooks@yahoo.co.uk 
+DTSTAMP:20230907T152358Z
+DTSTART;TZID=Europe/London:20180706T180000
+DTEND;TZID=Europe/London:20180707T100000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

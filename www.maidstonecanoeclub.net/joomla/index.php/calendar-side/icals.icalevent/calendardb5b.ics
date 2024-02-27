@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20190825T173000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:31c90f1c9652f293dbc78e2421a813d5
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20200812T101953
+SUMMARY:New Members paddle with Lee & Jacob 
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p style="margin: 0px 0px 10px; color: #414141; font-family: Arial, Helveti
+ ca, sans-serif; font-size: 11px;">Hosts:&nbsp; &nbsp;Lee &amp; Jacob&nbsp;&
+ nbsp;</p><p style="margin: 0px 0px 10px; color: #414141; font-family: Arial
+ , Helvetica, sans-serif; font-size: 11px;">Participants: so far&nbsp; &nbsp
+ ;A bit full now&nbsp;</p><p>&nbsp;<span style="font-size: 11pt; font-family
+ : Calibri, sans-serif; color: #3366ff;">Resha.&nbsp; &nbsp; &nbsp; &nbsp; &
+ nbsp; &nbsp; &nbsp;Erin&nbsp;&nbsp;</span></p><p>&nbsp;<span style="color: 
+ #000000; font-family: -apple-system, HelveticaNeue; font-size: 16px;">Hazel
+  Perrett</span></p><p>Jon Riches</p><p>Jonathan Powlson</p><div>&nbsp;Emma 
+ Norton&nbsp;</div><p>&nbsp;Sam G</p><div>Andrea G</div><div>&nbsp;</div><di
+ v>&nbsp;</div><p><span style="color: #414141; font-family: Arial, Helvetica
+ , sans-serif; font-size: 11px; background-color: inherit;">contacts:&nbsp;<
+ /span><span style="color: #414141; font-family: Arial, Helvetica, sans-seri
+ f; font-size: 11px; background-color: inherit;"></span><a href="mailto:lee@
+ maidstonecanoeclub.net" style="font-family: Arial, Helvetica, sans-serif; f
+ ont-size: 11px; background-color: inherit; color: #606f79;"></a><a href="ma
+ ilto:lee@maidstonecanoeclub.net">lee@maidstonecanoeclub.net</a><span style=
+ "color: #414141; font-family: Arial, Helvetica, sans-serif; font-size: 11px
+ ; background-color: inherit;">&nbsp; &nbsp;or&nbsp;&nbsp;</span><a href="ma
+ ilto:jacob.kaelan@gmail.com" style="font-family: Arial, Helvetica, sans-ser
+ if; font-size: 11px; background-color: inherit; color: #606f79;"></a><a hre
+ f="mailto:jacob.kaelan@gmail.com">jacob.kaelan@gmail.com</a></p>
+DTSTAMP:20230907T144122Z
+DTSTART;TZID=Europe/London:20200825T173000
+DTEND;TZID=Europe/London:20200825T193000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

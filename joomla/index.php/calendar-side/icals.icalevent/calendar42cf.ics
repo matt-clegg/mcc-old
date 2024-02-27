@@ -1,0 +1,224 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20180921T080000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6f54c5d6e2b520c81860ff672c2152e6
+CATEGORIES:Regular Club Paddles
+CREATED:20190716T144608
+SUMMARY:Short trip aimed at those new to the club.
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p class="p1" style="margin: 0px; font-style: normal; font-weight: normal; 
+ font-size: 18.9px; line-height: normal; font-family: '.SF UI Text'; color: 
+ #454545; letter-spacing: normal; text-align: start; text-indent: 0px; text-
+ transform: none; white-space: normal; word-spacing: 0px; text-decoration: n
+ one;"><span class="s1" style="font-family: '.SFUIText'; font-weight: normal
+ ; font-style: normal; font-size: 18.9pt;">This trip is aimed at those who h
+ ave not long been paddling, but of course more experienced paddlers also we
+ lcome, it is in the same mould as Annie’s trips.</span></p><p class="p1" st
+ yle="margin: 0px; font-style: normal; font-weight: normal; font-size: 18.9p
+ x; line-height: normal; font-family: '.SF UI Text'; color: #454545; letter-
+ spacing: normal; text-align: start; text-indent: 0px; text-transform: none;
+  white-space: normal; word-spacing: 0px; text-decoration: none;"><span clas
+ s="s1" style="font-family: '.SFUIText'; font-weight: normal; font-style: no
+ rmal; font-size: 18.9pt;">So will be at the pace of the slowest Paddler.</s
+ pan></p><p class="p1" style="margin: 0px; font-style: normal; font-weight: 
+ normal; font-size: 18.9px; line-height: normal; font-family: '.SF UI Text';
+  color: #454545; letter-spacing: normal; text-align: start; text-indent: 0p
+ x; text-transform: none; white-space: normal; word-spacing: 0px; text-decor
+ ation: none;"><span class="s1" style="font-family: '.SFUIText'; font-weight
+ : normal; font-style: normal; font-size: 18.9pt;">Assemble at the club at 0
+ 8:00 Leaving the club at 9:00.</span></p><p class="p1" style="margin: 0px; 
+ font-style: normal; font-weight: normal; font-size: 18.9px; line-height: no
+ rmal; font-family: '.SF UI Text'; color: #454545; letter-spacing: normal; t
+ ext-align: start; text-indent: 0px; text-transform: none; white-space: norm
+ al; word-spacing: 0px; text-decoration: none;"><span class="s1" style="font
+ -family: '.SFUIText'; font-weight: normal; font-style: normal; font-size: 1
+ 8.9pt;">The trip is from Tonbridge .</span></p><p class="p1" style="margin:
+  0px; font-style: normal; font-weight: normal; font-size: 18.9px; line-heig
+ ht: normal; font-family: '.SF UI Text'; color: #454545; letter-spacing: nor
+ mal; text-align: start; text-indent: 0px; text-transform: none; white-space
+ : normal; word-spacing: 0px; text-decoration: none;"><span class="s1" style
+ ="font-family: '.SFUIText'; font-weight: normal; font-style: normal; font-s
+ ize: 18.9pt;">We start at Lower castle car park , The Slade Tonbridge ( nea
+ r the swimming pool)</span></p><p class="p1" style="margin: 0px; font-style
+ : normal; font-weight: normal; font-size: 18.9px; line-height: normal; font
+ -family: '.SF UI Text'; color: #454545; letter-spacing: normal; text-align:
+  start; text-indent: 0px; text-transform: none; white-space: normal; word-s
+ pacing: 0px; text-decoration: none;"><span class="s1" style="font-family: '
+ .SFUIText'; font-weight: normal; font-style: normal; font-size: 18.9pt;">Ca
+ rpark is free on Sundays.</span></p><p class="p1" style="margin: 0px; font-
+ style: normal; font-weight: normal; font-size: 18.9px; line-height: normal;
+  font-family: '.SF UI Text'; color: #454545; letter-spacing: normal; text-a
+ lign: start; text-indent: 0px; text-transform: none; white-space: normal; w
+ ord-spacing: 0px; text-decoration: none;"><span class="s1" style="font-fami
+ ly: '.SFUIText'; font-weight: normal; font-style: normal; font-size: 18.9pt
+ ;">https://goo.gl/maps/mgGLY3ayGUoPiLnE9</span></p><p class="p1" style="mar
+ gin: 0px; font-style: normal; font-weight: normal; font-size: 18.9px; line-
+ height: normal; font-family: '.SF UI Text'; color: #454545; letter-spacing:
+  normal; text-align: start; text-indent: 0px; text-transform: none; white-s
+ pace: normal; word-spacing: 0px; text-decoration: none;"><span class="s1" s
+ tyle="font-family: '.SFUIText'; font-weight: normal; font-style: normal; fo
+ nt-size: 18.9pt;">51°11'48.3"N 0°16'12.5"E (TN9 1HF)</span></p><p class="p1
+ " style="margin: 0px; font-style: normal; font-weight: normal; font-size: 1
+ 8.9px; line-height: normal; font-family: '.SF UI Text'; color: #454545; let
+ ter-spacing: normal; text-align: start; text-indent: 0px; text-transform: n
+ one; white-space: normal; word-spacing: 0px; text-decoration: none;"><span 
+ class="s1" style="font-family: '.SFUIText'; font-weight: normal; font-style
+ : normal; font-size: 18.9pt;">Total length of the trip is around 4.5 Miles 
+ with options to shorten if necessary.</span></p><p class="p1" style="margin
+ : 0px; font-style: normal; font-weight: normal; font-size: 18.9px; line-hei
+ ght: normal; font-family: '.SF UI Text'; color: #454545; letter-spacing: no
+ rmal; text-align: start; text-indent: 0px; text-transform: none; white-spac
+ e: normal; word-spacing: 0px; text-decoration: none;"><span class="s1" styl
+ e="font-family: '.SFUIText'; font-weight: normal; font-style: normal; font-
+ size: 18.9pt;">From the bottom of the car park paddle upstream to the Leigh
+  Barrier, back along the same rout till the Island, round the back of the i
+ sland and on to Town Lock, anyone wanting to play on the Canoe pass can do,
+  it’s an easy portage back to the top so multiple runs possible, spray deck
+  if you want to do the canoe pass ( depending it may be possible without fi
+ lling the boat with water) and helmet recommended if you want to do the can
+ oe pass.</span></p><p class="p1" style="margin: 0px; font-style: normal; fo
+ nt-weight: normal; font-size: 18.9px; line-height: normal; font-family: '.S
+ F UI Text'; color: #454545; letter-spacing: normal; text-align: start; text
+ -indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px;
+  text-decoration: none;"><span class="s1" style="font-family: '.SFUIText'; 
+ font-weight: normal; font-style: normal; font-size: 18.9pt;">Back from town
+  lock to the car park where we started.</span></p><p class="p1" style="marg
+ in: 0px; font-style: normal; font-weight: normal; font-size: 18.9px; line-h
+ eight: normal; font-family: '.SF UI Text'; color: #454545; letter-spacing: 
+ normal; text-align: start; text-indent: 0px; text-transform: none; white-sp
+ ace: normal; word-spacing: 0px; text-decoration: none;"><span class="s1" st
+ yle="font-family: '.SFUIText'; font-weight: normal; font-style: normal; fon
+ t-size: 18.9pt;">Volunteers please with cars with space to take boats .</sp
+ an></p><p class="p1" style="margin: 0px; font-style: normal; font-weight: n
+ ormal; font-size: 18.9px; line-height: normal; font-family: '.SF UI Text'; 
+ color: #454545; letter-spacing: normal; text-align: start; text-indent: 0px
+ ; text-transform: none; white-space: normal; word-spacing: 0px; text-decora
+ tion: none;"><span class="s1" style="font-family: '.SFUIText'; font-weight:
+  normal; font-style: normal; font-size: 18.9pt;">Please contact ian at <a h
+ ref="mailto:ian.dann@maidstone Canoe">ian.dann@maidstone Canoe</a> Club.net
+  so we have an idea on numbers.</span></p>
+DTSTAMP:20230907T143558Z
+DTSTART;TZID=Europe/London:20190922T080000
+DTEND;TZID=Europe/London:20190922T123000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

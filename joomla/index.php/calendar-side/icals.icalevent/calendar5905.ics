@@ -1,0 +1,168 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20170421T084500
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b5c1350f1997d334adaf2d4ac7f67c85
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20180119T085939
+SUMMARY:River Mole
+LOCATION:Mole at Dorking
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:The trip is on the River Mole from Dorking to Fetcham, just past Letherhead
+ , about 10 mls and will take about 3-4 hours with a stop for lunch. The flo
+ w on the Mole depends on the rainfall prior to the trip but is normally fai
+ rly slow. There is a sloping weir just after the start that can normally be
+  shot but is easily portaged if necessary. The river passes by Box Hill and
+  is very scenic in places, there are a few more minor weirs and rapids but 
+ in normal conditions the water is not deep and if you do capsize you will b
+ e able to stand up (mostly). This is a good river for beginners to white wa
+ ter paddling; there will be plenty of safety cover.&nbsp; Remember to bring
+  Helmets and something for a lunch stop.\n\nThe trip will only go ahead if 
+ the water conditions are considered suitable, it may be too low or too high
+ .&nbsp; I will check on water levels on Saturday 21st &nbsp;&nbsp; and post
+  details on website home page.\nWe will need to shuffle cars prior to the s
+ tart and get as many cars to the finish as possible, but parking at the end
+  is a bit limited so it will be better to share transport as much as possib
+ le.&nbsp;\nmeet at Clubhouse 8:45am&nbsp; for 9:00am depart drive to Dorkin
+ g&nbsp; or&nbsp; 10:00am at Boxhill Road, turn right off Reigate Road onto 
+ Old Reigate Road about 1 mile before Dorking then left at end into Boxhill 
+ Road and go to end.&nbsp; Do not park in the Garden Centre, which is on the
+  other side of the river.&nbsp;&nbsp;&nbsp; OS TQ: 1826&nbsp; 5035 \n\n
+CONTACT:geofforford@gmail.com
+DTSTAMP:20230907T111424Z
+DTSTART;TZID=Europe/London:20180422T084500
+DTEND;TZID=Europe/London:20180422T160000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

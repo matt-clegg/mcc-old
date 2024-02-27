@@ -1,0 +1,14 @@
+Cufon.replace('h1.contentheading');
+Cufon.replace('.componentheading');
+Cufon.replace('#top-navigation-links li');
+Cufon.replace('table.contenttoc th');
+Cufon.replace('#col-left div.moduletable h3 span');
+Cufon.replace('#col-left div.moduletable_menu h3 span');
+Cufon.replace('#col-left div.moduletable_text h3 span');
+Cufon.replace('#bot-modules div.moduletable h3');
+Cufon.replace('h1');
+Cufon.replace('h2');
+Cufon.replace('h3');
+Cufon.replace('h4');
+Cufon.replace('h5');
+Cufon.replace('h6');

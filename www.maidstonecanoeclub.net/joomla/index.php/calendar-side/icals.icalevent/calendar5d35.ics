@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20210826T100000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d81eaab5367ac04a2cd3d394631108b2
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20220322T130339
+SUMMARY:Bradwell on Sea (Estuary Trip) Peer Paddle
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nPeer Paddle from Bradwell Waterside (Essex Outdoors) to explore the est
+ uary coastline.\n\n\nMeet at Essex Outdoors in Bradwell at 10am where they 
+ will allow us to use their car park and slipway. All enquiries go through A
+ lan Nevard.\n\n\nHigh tide (Spring) is approx 13:30hrs so according to the 
+ admiralty chart, we can put in at any time on the ramp. We'll aim for 10:30
+  on the water going with tide both ways.\n\n\nThis is for competent paddler
+ s who can handle their craft in a sea, flowing water environment.\n\n\nBrin
+ g lunch and ample drinks along with the usual safety and other spare kit.\n
+ \n\nWe will aim to keep to 4 vehicles so if we can have 3 people per car mi
+ nimum, that will allow 12 of us to paddle. I'll organise a Whatsapp group o
+ nce we have 11 people + myself on the trip.&nbsp;\n\n\nCrossover boats, tou
+ rers and sea boats should all be sufficient for the trip. This will go ahea
+ d only if conditions allow.&nbsp;\n\n\nThe coastline is pretty and full of 
+ interseting artifacts and wildlife so it promises to be an interesting and 
+ fun trip. See you there.\n\n\nSome paddlers have opted to stay the night be
+ fore in the Travelodge at Maldon about 13 miles away to avoid an early star
+ t.&nbsp; Link&nbsp;Travelodge | Maldon hotel - Maldon hotels\n
+CONTACT:alannevard@btinternet.com 07384 836480
+DTSTAMP:20230907T144736Z
+DTSTART;TZID=Europe/London:20220827T100000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

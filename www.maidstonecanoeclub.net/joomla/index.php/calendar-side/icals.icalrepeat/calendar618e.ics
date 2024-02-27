@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20220822T180000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1c208f9cf29d797bb8d621db9f4b9ee2
+CATEGORIES:Coaching
+CREATED:20230722T160653
+SUMMARY:Paddlesport Safety & Rescue Course PSRC (was FSRT)
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>The Paddlesport Safety &amp; Rescue Course - PSRC - is the replacement f
+ or the old FSRT course. &nbsp;</p><p>The course will give you a toolbox of 
+ rescue techniques to solve common problems encountered in the Sheltered Wat
+ er environment and to paddle safely with others in our local waters. &nbsp;
+ There will be plenty of time to practice techniques such as contact &amp; t
+ ows, self rescues, deepwater rescues, rescuing a swimmer, helping entrapped
+  paddlers, and much more. &nbsp;There is more information (including a hand
+ y video &amp; course documents) on the <a href="https://britishcanoeingawar
+ ding.org.uk/paddlesport-safety-and-rescue/">British Canoeing Awarding Body 
+ website here</a>.</p><p>This course runs over 3 weeks, and you need to atte
+ nd all sessions. &nbsp;It is suitable for paddlers of at least Explore Awar
+ d level, and can be taken in any craft (canoe, kayak, sit-on-top, SUP). &nb
+ sp;If you're thinking of doing it in a racing boat, please <a href="mailto:
+ mark@maidstonecanoeclub.net">drop me a line</a> first so we can make it wor
+ k for you.</p><p>We will be wet! &nbsp;Most of the time will be spent on or
+  in the water, so please dress appropriately - unless it's particularly war
+ m, 2 hours in the water will feel like a long time without a wetsuit, drysu
+ it, or other suitable clothing! &nbsp; Again, please <a href="mailto:mark@m
+ aidstonecanoeclub.net">drop me a line</a>&nbsp;if you're not sure.</p><p>Th
+ is course is a pre-requisite for Paddlesport Instructor and many other coac
+ hing &amp; leadership qualifications, as well as making you a popular and u
+ seful group member!</p>
+CONTACT:Mark Corti, mark@maidstonecanoeclub.net
+DTSTAMP:20230907T080754Z
+DTSTART;TZID=Europe/London:20230823T180000
+DTEND;TZID=Europe/London:20230823T203000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

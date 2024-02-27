@@ -1,0 +1,635 @@
+/*
+**************
+TO ADJUST THE MARGIN AND PADDING OF ANY IMAGES in the gallery html
+please see components/com_igallery/helpers/utility.php
+The margin and padding of the images are in percentages. These percentages are
+caculated in the php before the html is output.
+*****************
+*/
+
+/* GENERAL */
+    div.igallery_clear{
+    clear: both;
+    }
+
+/* SEARCH BIT */
+    div.igallery_search form{
+	float: right;
+	}
+	
+/* CATEGORY DESCRIPTION BIT */
+
+	/*this div holds the category description (that can be set to top or bottom position)*/
+	div.category_description{
+	margin: 10px 0px;
+	}
+
+
+/* CATEGORY CHILDREN PART */
+
+    /*this wraps all the menu images*/
+    .cat_child_wrapper{
+    }
+
+    /*each holds a category menu image */
+    div.cat_child{
+    float: left;
+    padding: 2px;
+    margin: 2px;
+    }
+
+    /*the menu image */
+    div.cat_child img{
+    padding: 3px;
+    }
+    
+    /*all the headings in the category view are h3s. If your templates h3 is not what
+    you want, you can style the gallery h3s here*/
+    h3.cat_child_h3{
+    margin-top: 10px !important;
+    }
+
+    
+    /* inside the h3's are a link (<a> tag) If your templates links are not what you want,
+    you can style the category view links here*/
+    a.cat_child_a{
+    }
+
+    div.cat_child_clear{
+    margin-bottom: 10px;
+    }
+
+
+/*MAIN IMAGES WRAPPER */
+
+	/*this wraps all the main images html (not the lightbox html)
+	its alignment is set inline, as there is a left/center/right option in the backend*/
+
+	div.main_images_wrapper{
+        width: 100%;
+	}
+
+
+/* MAIN GALLERY THUMBS BIT */
+
+    div.main_thumbs_arrow_wrapper{
+	float: left;
+    position: relative;
+	}
+
+	div.main_thumb_up_arrow_wrapper{
+	position: absolute;
+	width: 100%;
+	height: 12%;
+	max-height: 36px;
+	background-color: rgba(240,240,240,0.6);
+    border-bottom: 1px solid rgba(255,255,255,0.6);
+	display: none;
+	cursor: pointer;
+	z-index: 2;
+	}
+
+	div.main_thumb_up_arrow_child{
+	width: 100%;
+	height: 100%;
+	background: url('../images/up_arrow.png') no-repeat center center;
+	}
+
+	div.main_thumb_down_arrow_wrapper{
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+	height: 12%;
+	max-height: 36px;
+	background-color: rgba(240,240,240,0.6);
+	display: none;
+	cursor: pointer;
+	z-index: 2;
+    border-top: 1px solid rgba(255,255,255,0.6);
+	}
+
+	div.main_thumb_down_arrow_child{
+	width: 100%;
+	height: 100%;
+	background: url('../images/down_arrow.png') no-repeat center center;
+	}
+
+	div.main_thumb_left_arrow_wrapper{
+	position: absolute;
+	width: 12%;
+	height: 100%;
+	max-width: 36px;
+	background-color: rgba(240,240,240,0.6);
+	display: none;
+	cursor: pointer;
+	z-index: 2;
+	border-right: 1px solid rgba(255,255,255,0.6);
+	}
+
+	div.main_thumb_left_arrow_child{
+	width: 100%;
+	height: 100%;
+	background: url('../images/left_arrow.png') no-repeat center center;
+	}
+
+	div.main_thumb_right_arrow_wrapper{
+	position: absolute;
+	width: 12%;
+	height: 100%;
+	right: 0px;
+    max-width: 36px;
+	background-color: rgba(240,240,240,0.6);
+	display: none;
+	cursor: pointer;
+	z-index: 2;
+	border-left: 1px solid rgba(255,255,255,0.6);
+	}
+
+	div.main_thumb_right_arrow_child{
+	width: 100%;
+	height: 100%;
+	background: url('../images/right_arrow.png') no-repeat center center;
+	}
+
+	/*this div holds the main thumb table.
+	The main thumb table scrolls inside it*/
+	div.main_thumb_container{
+	direction: ltr;
+    min-height: 0%;
+	}
+
+	/*this table holds all the thumbs.*/
+	table.main_thumb_table{
+    max-width: none;
+	}
+
+    table.main_thumb_table_below{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    table.main_thumb_table_above{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+	/*these table cells hold one thumb each.*/
+	table.main_thumb_table td{
+	margin: 0px !important;
+    padding: 0px !important;
+    border: none;
+	}
+
+	/*the thumbnail image that is active*/
+	table.main_thumb_table td.active_thumb img{
+	}
+
+	/*the rest of the thumbs will have inactive as the class*/
+	table.main_thumb_table td.inactive_thumb img{
+	}
+
+	/*stop firefox putting a dotted border around the thumb, which gives it an overflow */
+	table.main_thumb_table td a{
+	outline: none;
+	}
+	
+	/*stop J17 defualt template from giving thumbs a blue background on hover */
+    table.main_thumb_table a:hover, table.main_thumb_table a:active, table.main_thumb_table a:focus{
+	background-color: transparent !important;
+	}
+
+	/*the thumbnail image*/
+	table.main_thumb_table td img{
+    display: block;
+	}
+
+	table.main_thumb_table td img:first-child{
+    display: block;
+	}
+
+
+/* MAIN IMAGE DESCRIPTIONS BIT */
+
+	/*the div that holds all the image description divs*/
+	div.main_des_container{
+    float: left;
+	}
+
+	div.des_container_right{
+	margin-left: 0.5%;
+	}
+
+	div.des_container_left{
+	margin-right: 0.5%;
+	}
+
+	div.des_container_above{
+	margin: 4px 0px 2px 0px;
+	}
+
+	div.des_container_below{
+	margin: 4px 0px 2px 0px;
+	}
+
+	/*each image description is wrapped in one of these*/
+	div.main_des_container div.grey-border-shadow{
+	margin: 5px;
+	}
+
+/* MAIN GALLERY LARGE IMAGE BIT */
+
+	/*this keeps the large image and slideshow buttons together*/
+	div.main_image_slideshow_wrapper{
+	float: left;
+	}
+
+	/*this is the div that houses the main image*/
+	div.main_large_image{
+    position: relative;
+    float: left;
+	}
+
+/* MAIN GALLERY SLIDESHOW BIT */
+
+
+	/*this holds the slideshow buttons*/
+	div.main_slideshow_buttons{
+	float: left;
+	margin: 5px 5px 0px 0px;
+	}
+
+	/*the three slideshow images*/
+    div.main_slideshow_buttons div{
+	cursor: pointer;
+	width: 30px;
+	height: 18px;
+	margin-right: 1px;
+	float: left;
+	border: 1px solid rgba(0, 0, 0, 0.17);
+    border-radius: 2px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+	}
+
+	div.main_slideshow_buttons div.ig_slideshow_rewind{
+	background: url('../images/rewind.png') no-repeat center center;
+	}
+
+	div.main_slideshow_buttons div.ig_slideshow_play{
+	background: url('../images/play.png') no-repeat center center;
+	}
+
+	div.main_slideshow_buttons div.ig_slideshow_pause{
+	background: url('../images/pause.png') no-repeat center center;
+	}
+
+	div.main_slideshow_buttons div.ig_slideshow_forward{
+	background: url('../images/forward.png') no-repeat center center;
+	}
+
+    /*left/right slideshow buttons*/
+	div.main_large_image span.left_overlay_slideshow_notmobile{
+    position: absolute;
+    display: block;
+    z-index: 500;
+    left: 1%;
+    cursor: pointer;
+    padding: 4%;
+    width: 32px;
+    height: 32px;
+    box-sizing: content-box;
+    background: url('../images/left-side-arrow.png') no-repeat center center;
+	}
+
+	div.main_large_image span.right_overlay_slideshow_notmobile{
+    position: absolute;
+    display: block;
+    z-index: 500;
+    right: 1%;
+    cursor: pointer;
+    padding: 4%;
+    width: 32px;
+    height: 32px;
+    box-sizing: content-box;
+    background: url('../images/right-side-arrow.png') no-repeat center center;
+	}
+
+    div.main_large_image span.left_overlay_slideshow_mobile{
+    position: absolute;
+    display: block;
+    z-index: 500;
+    left: 1%;
+    cursor: pointer;
+    padding: 5% 5% 5% 2%;
+    width: 64px;
+    height: 64px;
+    box-sizing: content-box;
+    background: url('../images/left-side-arrow-64.png') no-repeat center center;
+    }
+
+    div.main_large_image span.right_overlay_slideshow_mobile{
+    position: absolute;
+    display: block;
+    z-index: 500;
+    right: 1%;
+    cursor: pointer;
+    padding: 5% 2% 5% 5%;
+    width: 64px;
+    height: 64px;
+    box-sizing: content-box;
+    background: url('../images/right-side-arrow-64.png') no-repeat center center;
+    }
+	
+/* DOWNLOAD BUTTON BIT */
+
+	/*this holds the download button*/
+	div.main_download_button{
+	float: left;
+    cursor: pointer;
+	width: 30px;
+	height: 18px;
+	border: 1px solid rgba(0, 0, 0, 0.17);
+    border-radius: 2px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+    background: url('../images/download.png') no-repeat center center;
+    margin: 5px 5px 0px 0px;
+	}
+
+	div.main_download_button a{
+	display: block;
+	width: 30px;
+	height: 18px;
+	}
+
+	div.main_download_button a:hover{
+	background-color: transparent!important;
+	}
+	
+/*SHARE LIKE BIT*/
+	div.main_facebook_share{
+	float: left;
+    position: relative;
+	margin: 5px 5px 0px 0px;
+	height: 21px;
+    line-height: normal;
+	}
+
+    div.main_facebook_share iframe{
+    max-width: none !important;
+    }
+
+	
+/*PLUS ONE BIT*/
+	div.main_plus_one_div{
+	float: left;
+	margin: 5px 5px 0px 0px;
+    position:relative;
+    width: 62px;
+    height: 21px;
+    line-height: normal;
+	}
+
+    .plus_one_button_inj{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 62px !important;
+    }
+
+    .plus_one_button_inj iframe{
+        width: 62px !important;
+    }
+
+
+
+
+/*TWITTER BUTTON BIT*/
+div.main_twitter_button{
+    float: left;
+    position:relative;
+    margin: 5px 5px 0px 0px;
+    width: 82px;
+    height: 21px;
+    line-height: normal;
+}
+
+div.main_twitter_button iframe{
+    position: absolute!important;
+    top: 0px;
+    left: 0px;
+}
+
+/*PINTEREST BUTTON BIT*/
+div.main_pinterest{
+    float: left;
+    position:relative;
+    margin: 5px 5px 0px 0px;
+    width: 41px;
+    height: 21px;
+    line-height: normal;
+}
+	
+/*REPORT IMAGE BIT*/
+	div.main_report{
+	float: left;
+    font-size: 12px;
+    text-align: center;
+    padding: 1px 3px 0px 3px;
+	height: 17px;
+	border: 1px solid rgba(0, 0, 0, 0.17);
+    border-radius: 2px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+    margin: 5px 5px 0px 0px;
+	}
+
+	div.main_report a{
+    color: #6c6c6c;
+    text-decoration: none;
+    }
+	
+/*IMAGE NUMBERING BIT*/
+	div.main_img_numbering{
+	float: left;
+    font-size: 12px;
+    text-align: center;
+	width: 30px;
+	padding-top: 1px;
+	height: 17px;
+	border: 1px solid rgba(0, 0, 0, 0.17);
+    border-radius: 2px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+    margin: 5px 5px 0px 0px;
+    line-height: normal!important;
+    font-family: arial!important;
+	}
+
+/*IMAGE AUTHOR BIT*/
+div.main_image_author{
+    float: left;
+    font-size: 12px;
+    text-align: center;
+    padding: 1px 4px 0px 4px;
+    height: 17px;
+    border: 1px solid rgba(0, 0, 0, 0.17);
+    border-radius: 2px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+    margin: 5px 5px 0px 0px;
+    line-height: normal!important;
+    font-family: arial!important;
+}
+
+/*IMAGE HITS BIT*/
+div.main_image_hits{
+    float: left;
+    font-size: 12px;
+    text-align: center;
+    padding: 1px 4px 0px 4px;
+    height: 17px;
+    border: 1px solid rgba(0, 0, 0, 0.17);
+    border-radius: 2px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+    margin: 5px 5px 0px 0px;
+    line-height: normal!important;
+    font-family: arial!important;
+}
+
+/* TAGS BIT */
+
+	/*the div that holds all the tags divs*/
+	div.main_tags_container{
+	float: left;
+	margin: 5px 0px;
+	}
+
+	/*each tag block is wrapped in one of these*/
+	div.main_tags_container div.tags_div{
+
+	}
+
+/*FACEBOOK COMMENTS BIT*/
+	div.main_fbcomments{
+    position: relative;
+    clear: both;
+	}
+
+    div.main_fbcomments .fb_iframe_widget, div.main_fbcomments span:first-child, div.main_fbcomments .fb_iframe_widget span:first-child, div.main_fbcomments .fb_iframe_widget iframe{
+        width: 100% !important;
+    }
+
+    div.main_fbcomments_below{
+    padding-top: 5px;
+    }
+
+    div.main_fbcomments_left{
+    padding-right: 5px;
+    }
+
+    div.main_fbcomments_right{
+    padding-left: 5px;
+    }
+
+/*JCOMMENTS BIT*/
+	div.main_jcomments_wrapper{
+	float: left;
+}
+
+/*stop loading gif make comments jump up and down*/
+#jc .busy{
+    background-image: none !important;
+    height: 0px !important;
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+/*RATINGS BIT */
+.main_ratings_container{
+    float: left;
+    margin: 5px 5px 0px 0px;
+	overflow:hidden;
+}
+
+.rating_stars
+{
+    float: left;
+    overflow: hidden;
+    position: relative;
+	margin:0;
+	padding:0;
+	background-position:left top;
+	background:url(../images/star-blank.png) repeat-x !important;
+	width: 120px;
+    height:24px;
+}
+
+.ratings_current{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	overflow: hidden;
+	cursor: pointer;
+	z-index: 1;
+	margin: 0px;
+	padding: 0px;
+	height: 24px;
+	background:url(../images/star-on.png) repeat-x !important;
+}
+
+a.rating_star{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	overflow: hidden;
+	cursor: pointer !important;
+	height: 24px;
+	background: none !important;
+}
+
+
+.rating_stars a:hover{
+    background:url(../images/star-active.png) repeat-x !important;
+    background-position: 0 center !important;
+}
+
+.ratings_text{
+    font-size: 14px;
+	padding-left: 4px;
+	float:left;
+	line-height:24px;
+	height:24px;
+}
+
+.rating_loading_gif{
+	background:url("../images/loading.gif") no-repeat left center;
+	padding:0 0 0 3px;
+}
+
+.rating_message{
+padding: 5px;
+font-style: italic;
+max-width: 320px;
+}
+
+/* GREY BORDER SHADOW STYLE */
+.cat_child_wrapper_grey-border-shadow .cat_child img{
+    display: block;
+    box-shadow: 1px 1px 0 #cccccc, -1px 1px 0 #cccccc, 1px -1px 0 #cccccc, -1px -1px 0 #cccccc;
+}
+
+.main_images_wrapper_grey-border-shadow div.main_large_image .large_img{
+    display: block;
+    box-shadow: inset 1px 1px 0 #cccccc,inset -1px 1px 0 #cccccc, inset 1px -1px 0 #cccccc, inset -1px -1px 0 #cccccc;
+}
+
+.main_images_wrapper_grey-border-shadow table.main_thumb_table td img{
+    box-shadow: inset 1px 1px 0 #cccccc, inset -1px 1px 0 #cccccc, inset 1px -1px 0 #cccccc, inset -1px -1px 0 #cccccc, 4px 4px 4px rgba(202, 202, 202, 0.8);
+    border-collapse: separate;
+}
+
+.main_images_wrapper_grey-border-shadow .main_des_container{
+    background-color: rgba(230,230,230,0.2);
+    box-shadow: inset 1px 1px 0 #cccccc,inset -1px 1px 0 #cccccc, inset 1px -1px 0 #cccccc, inset -1px -1px 0 #cccccc;
+}
+
+/*PLAIN STYLE */
+.main_images_wrapper_plain table.main_thumb_table td:first-child img{
+    margin-left: 0px;
+}

@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20180406T090000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b588b7942553486a94a612bbd198efda
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20190325T130217
+SUMMARY:River Mole
+LOCATION:River Mole Dorking.  Put-in postcode KT20 7LF
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p style="margin: 4px 0px 0px;"><span style="margin: 0px; font-size: 12pt;"
+ >The trip is on the River Mole from Dorking to Fetcham, just past Letherhea
+ d, about 10 mls and will take about 3-4 hours with a stop for packed lunch.
+  The flow on the Mole depends on the rainfall prior to the trip but is norm
+ ally fairly slow. There is a sloping weir just after the start that can nor
+ mally be shot but is easily portaged if necessary. The river passes by Box 
+ Hill and is very scenic in places, there are a few more minor weirs and rap
+ ids but in normal conditions the water is not deep and if you do capsize yo
+ u will be able to stand up (mostly). This is a good river for beginners to 
+ white water paddling; there will be plenty of safety cover</span></p><p sty
+ le="margin: 4px 0px 0px;"><span style="margin: 0px; font-size: 12pt;">Meet 
+ at club 8:45 for 9:00 depart or 10:00 at start <span style="margin: 0px; fo
+ nt-family: 'Arial',sans-serif; font-size: 12pt;">at Boxhill Road, turn righ
+ t off Reigate Road onto Old Reigate Road about 1 mile before Dorking then l
+ eft at end into Boxhill Road and go to end. <span style="margin: 0px; font-
+ family: 'Arial',sans-serif; font-size: 12pt;">OS TQ: 1826<span style="margi
+ n: 0px;">&nbsp; </span>5035 </span></span></span></p><p style="margin: 4px 
+ 0px 0px;"><span style="margin: 0px; font-size: 12pt;"><span style="margin: 
+ 0px; font-family: 'Arial',sans-serif; font-size: 12pt;"><span style="margin
+ : 0px; font-family: 'Arial',sans-serif; font-size: 12pt;">I will be checkin
+ g for water levels on Sat 6th and will post on news page whether trip is a 
+ go.</span></span></span></p><p></p><p style="margin: 4px 0px 0px;"><span st
+ yle="margin: 0px; font-size: 12pt;">. </span></p><p></p><p>&nbsp;</p>
+CONTACT:Geoff  geofforford@gmail.com
+DTSTAMP:20230907T152843Z
+DTSTART;TZID=Europe/London:20190407T090000
+DTEND;TZID=Europe/London:20190407T150000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

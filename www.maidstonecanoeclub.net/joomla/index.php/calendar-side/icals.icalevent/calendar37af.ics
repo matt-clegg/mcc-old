@@ -1,0 +1,182 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20180601T083000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a0ce9fea109ff06b129ebb3184fbc729
+CATEGORIES:Coaching
+CREATED:19700101T010000
+SUMMARY:Explore Award - New! (Part 1)
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nThe Explore Award is the next step&nbsp;after&nbsp;the Beginner Course.
+ &nbsp; It replaces the old 2* award, and is suitable for anyone who's done 
+ the old 1*, Discover Award, or Beginner Course.&nbsp; The focus of this is 
+ to build the skills needed to paddle independently and to be a confident me
+ mber of a paddling group.&nbsp; It will also build the foundations for othe
+ r paddle disciplines - whether that's sea kayaking, touring, white water, o
+ r anything else.\n\n\nWe'll talk about:\n\n - planning a trip, taking into 
+ account the weather, environment, and water conditions\n - new skills and p
+ addle strokes for new situations\n - efficient paddling to prepare you for 
+ longer journeys\n - and lots more!\n\nTime: This is a two-day course, runni
+ ng on&nbsp;Sunday June 2nd and&nbsp;Sunday June 23rd.&nbsp; You'll need to 
+ come to both days to&nbsp;complete&nbsp;the course.\n\n\nCost: Free!&nbsp; 
+ We don't charge for our coaching to members at Maidstone Canoe Club.&nbsp; 
+ British Canoeing charge £6 to get the certificate, payable on the day.\n\n\
+ nFood: Please bring lunch with you, as well as a drink and snacks for on th
+ e water.\n
+CONTACT:Mark Corti, mark@maidstonecanoeclub.net or Annie Davis, annie.davis@maidstonecanoeclub.net
+DTSTAMP:20230907T143238Z
+DTSTART;TZID=Europe/London:20190602T083000
+DTEND;TZID=Europe/London:20190602T160000
+SEQUENCE:0
+RRULE:FREQ=WEEKLY;COUNT=2;INTERVAL=3;BYDAY=SU
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a0ce9fea109ff06b129ebb3184fbc729
+CATEGORIES:Coaching
+CREATED:20190313T140552
+SUMMARY:Explore Award - New! (Part 2)
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nThe Explore Award is the next step&nbsp;after&nbsp;the Beginner Course.
+ &nbsp; It replaces the old 2* award, and is suitable for anyone who's done 
+ the old 1*, Discover Award, or Beginner Course.&nbsp; The focus of this is 
+ to build the skills needed to paddle independently and to be a confident me
+ mber of a paddling group.&nbsp; It will also build the foundations for othe
+ r paddle disciplines - whether that's sea kayaking, touring, white water, o
+ r anything else.\n\n\nWe'll talk about:\n\n - planning a trip, taking into 
+ account the weather, environment, and water conditions\n - new skills and p
+ addle strokes for new situations\n - efficient paddling to prepare you for 
+ longer journeys\n - and lots more!\n\nTime: This is a two-day course, runni
+ ng on Saturday June 2nd and Saturday June 23rd.&nbsp; You'll need to come t
+ o both days to&nbsp;complete&nbsp;the course.\n\n\nCost: Free!&nbsp; We don
+ 't charge for our coaching to members at Maidstone Canoe Club.&nbsp; Britis
+ h Canoeing charge £6 to get the certificate, payable on the day.\n\n\nFood:
+  Please bring lunch with you, as well as a drink and snacks for on the wate
+ r.\n
+CONTACT:Mark Corti, mark@maidstonecanoeclub.net or Annie Davis, annie.davis@maidstonecanoeclub.net
+
+DTSTAMP:20230907T143238Z
+DTSTART;TZID=Europe/London:20190623T083000
+DTEND;TZID=Europe/London:20190623T160000
+RECURRENCE-ID;TZID=Europe/London:20190623T083000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

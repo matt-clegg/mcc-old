@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20151202T080000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0c3d4beb5b0f721bb0213ce4554a51cb
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20160824T134023
+SUMMARY:Adventure Paddlers Weekend
+LOCATION:River Dart Country Newton Abbot TQ13 7NP
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p style="text-align: center; margin-top: 0cm; margin-right: 0cm; margin-bo
+ ttom: 10pt;"><span style="line-height: 115%; font-size: 24pt;"><span style=
+ "font-family: Calibri;"></span></span></p><table width="111%" style="margin
+ : auto auto auto -27px; width: 111.14%; border-collapse: collapse;" border=
+ "0" cellspacing="0" cellpadding="0"><tbody><tr><td width="100%" valign="top
+ " style="padding: 0.75pt; border: #000000; width: 100%; background-color: t
+ ransparent;"><span style="font-family: Times New Roman; font-size: small;">
+  </span><p style="line-height: 19.8pt; margin-top: 0cm; margin-right: 0cm; 
+ margin-bottom: 10pt;"><span style="color: #414141; font-family: 'Times New 
+ Roman','serif'; font-size: 18pt;">This weekend is for intermediate to adven
+ ture paddlers who have paddled grade 3water before staying at the River dar
+ t country park £45 Bed and Breakfast staying in two dorms one 6 and an 12 w
+ hen you pay quote Maidstone Canoe Club reservation number </span><span styl
+ e="color: black; font-size: 18pt;"><span style="font-family: Calibri;">1695
+ 30</span></span></p><span style="font-family: Times New Roman; font-size: s
+ mall;"> </span><p style="line-height: 19.8pt; margin-top: 0cm; margin-right
+ : 0cm; margin-bottom: 10pt;"><span style="color: #414141; font-family: 'Tim
+ es New Roman','serif'; font-size: 18pt;"> Over this weekend there will be d
+ ifferent courses that you can do for a small fee </span><span style="color:
+  #414141; font-family: 'Times New Roman','serif'; font-size: 18pt;">Boofs &
+  Drops, Basic WW Safety & Rescue,4 and 5 Star WW Kayak Assessment</span><sp
+ an style="color: #414141; font-family: 'Times New Roman','serif'; font-size
+ : 18pt;"></span><span style="font-family: Calibri;"><span style="font-size:
+  16pt;">BCU 3 Star WW Kayak Training & Assessment Upper Dart Coaching </spa
+ n><span style="font-size: small;"></span></span><a href="http://www.gene17k
+ ayaking.com/"><span style="padding: 0cm; border: 1pt windowtext; color: #60
+ 6f79; font-family: 'Times New Roman','serif'; font-size: 18pt; text-decorat
+ ion: none;">www.gene17kayaking.com</span></a><span style="color: #414141; f
+ ont-family: 'Times New Roman','serif'; font-size: 18pt;"> for more informat
+ ion. </span><span style="font-family: 'Times New Roman','serif'; font-size:
+  18pt;">Demo boats & paddles from leading manufactures, plus product launch
+ es<span style="color: #414141;"> and films or just to get out on the water 
+ and paddle on a lovely river</span></span><span style="color: #414141; font
+ -size: 10pt;"><span style="font-family: Calibri;">.</span></span></p><span 
+ style="font-family: Times New Roman; font-size: small;"> </span><p style="l
+ ine-height: 19.8pt; margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt
+ ;"><span style="color: #414141; font-family: 'Times New Roman','serif'; fon
+ t-size: 18pt;">Can you let me known when you have paid the river dart count
+ ry park and I will put you down for the trip.18 Space </span></p><span styl
+ e="font-family: Times New Roman; font-size: small;"> </span><p style="line-
+ height: 19.8pt; margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt;"><
+ span style="color: #414141; font-family: 'Times New Roman','serif'; font-si
+ ze: 18pt;">On the water leader Bill and Niki </span></p><span style="font-f
+ amily: Times New Roman; font-size: small;"> </span><p style="line-height: 1
+ 9.8pt; margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt;"><span styl
+ e="color: #414141; font-family: 'Times New Roman','serif'; font-size: 18pt;
+ ">Off the water leader Lee Horton</span></p><span style="font-family: Times
+  New Roman; font-size: small;"> </span></td></tr></tbody></table><p><span s
+ tyle="font-family: Times New Roman; font-size: small;"> </span></p>
+CONTACT:lee@maidstonecanoeclub.net
+DTSTAMP:20230907T090429Z
+DTSTART;TZID=Europe/London:20161202T080000
+DTEND;TZID=Europe/London:20161204T170000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

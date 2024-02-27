@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20191102T180000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:aa2394957db554cb6f914d37ec7ddf25
+CATEGORIES:Social Events
+CREATED:19700101T010000
+SUMMARY:CANCELLED: Paddlefit - Fitness for Kayaking
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter’s St\, Maidstone
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Cancelled for the obvious reason.&nbsp; Please contact me if you want so
+ me suggested exercises to work through during lockdown 2.0.</p><p style="fo
+ nt-style: normal; font-weight: normal; letter-spacing: normal; text-align: 
+ start; text-indent: 0px; text-transform: none; white-space: normal; word-sp
+ acing: 0px; text-decoration: none; color: #444444; font-family: 'Helvetica 
+ Neue', Helvetica, Arial, sans-serif; font-size: 13px;">To get the most from
+  our kayaking, we need to keep reasonably fit - whether that's for a long s
+ ummer paddle on the Medway, an overnight trip in sea kayaks or a weekend bl
+ ast on whitewater. &nbsp;But it's hard to stay motivated during the winter 
+ months - so you should sign up for these Paddlefit Session!</p><p style="fo
+ nt-style: normal; font-weight: normal; letter-spacing: normal; text-align: 
+ start; text-indent: 0px; text-transform: none; white-space: normal; word-sp
+ acing: 0px; text-decoration: none; color: #444444; font-family: 'Helvetica 
+ Neue', Helvetica, Arial, sans-serif; font-size: 13px;">Each week, we'll do 
+ some stretches before getting in the boats and working through a series of 
+ exercises designed to build strength and stamina. &nbsp;We'll try to work a
+ t a pace which suits everyone - you won't get left behind - but you'll get 
+ the most out of the sessions if you've got some basic skills and are comfor
+ table edging the boat, paddling sideways, etc.&nbsp;<br />These sessions wi
+ ll particularly benefit paddlers in dynamic environments - whitewater, sea 
+ kayaking etc. - but are suitable for all disciplines.&nbsp;<br /><br /></p>
+ <p style="font-style: normal; font-weight: normal; letter-spacing: normal; 
+ text-align: start; text-indent: 0px; text-transform: none; white-space: nor
+ mal; word-spacing: 0px; text-decoration: none; color: #444444; font-family:
+  'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px;">Note thi
+ s is&nbsp;<strong>not</strong>&nbsp;a coached session. &nbsp;I'll have some
+  suggested exercises to work through, but I'm not a fitness coach.</p>
+CONTACT:Mark Corti, mark@maidstonecanoeclub.net
+DTSTAMP:20230907T144419Z
+DTSTART;TZID=Europe/London:20201102T180000
+DTEND;TZID=Europe/London:20201102T193000
+SEQUENCE:0
+RRULE:FREQ=WEEKLY;COUNT=6;INTERVAL=1;BYDAY=MO
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

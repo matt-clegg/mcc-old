@@ -1,0 +1,171 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20190508T080000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:250a981b1b03918f6386d58cc3611ffb
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20200314T094936
+SUMMARY:Lakes District trip
+LOCATION:Gillside Farm Glenridding ullswater Cumbria CA11 0QQ
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p style="margin: 0cm 0cm 10pt; text-align: center;"><strong><span style="t
+ ext-decoration: underline;"><span style="line-height: 115%; font-size: 18pt
+ ;">Programme for the lake Distinct weekend </span></span></strong></p><p st
+ yle="margin: 0cm 0cm 10pt;"><strong><span style="text-decoration: underline
+ ;"><span style="line-height: 115%; font-size: 18pt;">Description of trip </
+ span></span></strong></p><p style="margin: 0cm 0cm 0pt;"><span style="color
+ : black; line-height: 115%; font-size: 14pt;">This trip will be a touring t
+ rip to the Lake District in </span><span style="line-height: 115%; font-siz
+ e: 14pt;">Cumbria either travelling up on the Thursday or Friday we will be
+  paddleing at total distance of 36km over the weekend.</span></p><p style="
+ margin: 0cm 0cm 10pt;"><strong><span style="text-decoration: underline;"><s
+ pan style="line-height: 115%; font-size: 18pt;">We will be staying at </spa
+ n></span></strong></p><p style="margin: 0cm 0cm 0pt;"><span style="line-hei
+ ght: 115%; font-size: 14pt;">Gillside Farm</span></p><p style="margin: 0cm 
+ 0cm 0pt;"><span style="line-height: 115%; font-size: 14pt;"> Glenridding ul
+ lswater </span></p><p style="margin: 0cm 0cm 0pt;"><span style="line-height
+ : 115%; font-size: 14pt;">Cumbria </span></p><p style="margin: 0cm 0cm 0pt;
+ "><span style="line-height: 115%; font-size: 14pt;">CA11 0QQ</span></p><p s
+ tyle="margin: 0cm 0cm 0pt;"><span style="color: black; line-height: 115%; f
+ ont-size: 14pt;">£9 per person per night + £2 per tent + £1 per car per nig
+ ht.</span></p><p style="margin: 0cm 0cm 0pt;"><strong><span style="text-dec
+ oration: underline;"><span style="color: black; line-height: 115%; font-siz
+ e: 18pt;">Saturday Plan</span></span></strong></p><p style="margin: 0cm 0cm
+  0pt;"><span style="color: black; line-height: 115%; font-size: 14pt;">We w
+ ill paddleing Ullswater Getting in at Pooley Bridge getting out at Pooley B
+ ridge we will be padding a</span><span style="line-height: 115%; font-size:
+  14pt;"> total distance of 26km<span style="color: black;"> seeing same lov
+ ely countryside and wildlife. </span></span></p><p style="margin: 0cm 0cm 0
+ pt;"><strong><span style="text-decoration: underline;"><span style="color: 
+ black; line-height: 115%; font-size: 18pt;">Sunday Plan </span></span></str
+ ong></p><p style="margin: 0cm 0cm 0pt;"><span style="color: black; line-hei
+ ght: 115%; font-size: 14pt;">We will be paddleing Derwentwater getting in a
+ t Kettlewell getting out at Kettlewell we will be paddleing a</span><span s
+ tyle="line-height: 115%; font-size: 14pt;"> total distance of 10km<span sty
+ le="color: black;"> seeing same lovely countryside and wildlife stopping at
+  Keswick for lunch visiting St, Herbert’s island, Rampshholme island and Lo
+ rd’s island.</span></span></p><p style="margin: 0cm 0cm 0pt;"><strong><span
+  style="text-decoration: underline;"><span style="line-height: 115%; font-s
+ ize: 22pt;">Basic Kit list </span></span></strong></p><p style="margin: 0cm
+  0cm 0pt;"><span style="line-height: 115%; font-size: 14pt;">Paddleing kit,
+  Boat, Paddle, Camping kit, Clothes to be over the weekend, Money for the p
+ ub </span></p><p style="margin: 0cm 0cm 0pt;"><span style="line-height: 115
+ %; font-size: 14pt;">Basic First aid kit for yourself, Paddle snacks</span>
+ </p><p style="margin: 0cm 0cm 0pt;"><strong><span style="text-decoration: u
+ nderline;"><span style="line-height: 115%; font-size: 22pt;">Travelling</sp
+ an></span></strong></p><p style="margin: 0cm 0cm 0pt;"><span style="line-he
+ ight: 115%; font-size: 14pt;">Where possible share cars work out between yo
+ urself who travelling with who.</span></p><p style="margin: 0cm 0cm 0pt;"><
+ span style="line-height: 115%; font-size: 14pt;">This trip is a coach led t
+ rip have a max of 10 space got 3 spaces left on the trip this trip is for <
+ /span>Explore Award and above</p>
+CONTACT:lee@maidstonecanoeclub.net
+DTSTAMP:20230907T143805Z
+DTSTART;TZID=Europe/London:20200508T080000
+DTEND;TZID=Europe/London:20200510T170000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,272 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20131027T010000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20141026T010000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20130525T103000
+RDATE:20131027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20141026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e6efc56576ee6e508986e3c1291cd4c6
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20140519T095056
+SUMMARY:Tour of Hoo Island Salt Marsh - Inter club Paddle
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p style="background-color: white;"><span style="font-size: 13.5pt; color: 
+ #333333; background-color: #e1ebf2;">Tour of Hoo Salt Marsh Island.</span><
+ span style="font-size: 13.5pt;"><br /> </span><span style="font-size: 13.5p
+ t; color: #333333; background-color: #e1ebf2;">Bank Holiday Monday 26th May
+  2014</span><span style="font-size: 13.5pt; color: #333333;"><br /> <br /> 
+ <span style="background-color: #e1ebf2;">I am organising a trip to visit Ho
+ o Salt Marsh Island in the Medway estuary to see the Hoo Fort, abandoned wr
+ ecks, various wildlife and the newly restored Medway Queen paddle steamer,<
+ /span><br /> <br /> <span style="background-color: #e1ebf2;">Chart of the a
+ rea is here</span><br /> </span><span style="font-size: 13.5pt; font-family
+ : Helvetica, sans-serif;"><a href="http://www.visitmyharbour.com/harbours/n
+ orth-kent-swale-medway/medway-marinas/charts.asp?cattype=5" target="_blank"
+  saprocessedanchor="true"></a><a href="http://www.visitmyharbour.com/harbou
+ rs/north-kent-swale-medway/medway-marinas/charts.asp?cattype=5">http://www.
+ visitmyharbour.com/harbours/north-kent-swale-medway/medway-marinas/charts.a
+ sp?cattype=5</a></span><span style="font-size: 13.5pt; color: #333333;"><br
+  /> <span style="background-color: #e1ebf2;">This is a short trip of 5 mile
+ s but it does involve crossing the shipping lane twice and having the final
+  hour of the incoming tide against us.</span><br /> </span><span style="fon
+ t-size: 13.5pt; background-color: #e1ebf2;"><span style="color: #333333;">T
+ herefore paddlers should be of a 2* standard.</span></span><span style="fon
+ t-size: 13.5pt; color: #333333;"><br /> <span style="background-color: #e1e
+ bf2;">This is an inter-club trip with Meridian, Bewl Water and Maidstone Ca
+ noe Clubs.</span><br /> <br /> <br /> <span style="background-color: #e1ebf
+ 2;">Timetable.</span><br /> <br /> <span style="background-color: #e1ebf2;"
+ >Meet at The Strand Car Park, Gillingham, ME 7 1RJ (free parking with toile
+ ts and café) at 10.30.</span><br /> <span style="background-color: #e1ebf2;
+ ">Launch at 11.00.</span><br /> <span style="background-color: #e1ebf2;">Cr
+ oss shipping lane to south of Hoo Island and follow shore east and then to 
+ the north.</span><br /> <span style="background-color: #e1ebf2;">High Water
+  11.50.</span><br /> <span style="background-color: #e1ebf2;">Continue nort
+ h to the Medway shore at the remains of Cookham Fort for packed lunch at 12
+ .30.</span><br /> <span style="background-color: #e1ebf2;">Leave 13.00.</sp
+ an></span><span style="font-size: 13.5pt;"><br style="color: #333333;" /> <
+ /span><span style="font-size: 13.5pt; color: #333333; background-color: #e1
+ ebf2;">Return to west of Hoo Island then cross shipping lane to Corporation
+  Wharf, Chatham to view restoration of boats.</span><span style="font-size:
+  13.5pt; color: #333333;"><br /> <span style="background-color: #e1ebf2;">R
+ eturn to The Strand slipway by 15.00.</span><br /> <span style="background-
+ color: #e1ebf2;">Retire to café for those who want to.</span></span><span s
+ tyle="font-size: 13.5pt;"><br style="color: #333333;" /> </span><span style
+ ="font-size: 13.5pt; color: #333333; background-color: #e1ebf2;">Low water 
+ is at 18.07.</span><span style="font-family: Helvetica, sans-serif;"></span
+ ></p><p style="background-color: white;"><span style="font-family: Helvetic
+ a, sans-serif;"> </span></p><p style="background-color: white;"><span style
+ ="font-family: Helvetica, sans-serif;"> </span></p><p style="background-col
+ or: white;"><span style="font-family: Calibri, sans-serif;">I have posted d
+ etails on the Meridian website at:-</span><span style="font-family: Helveti
+ ca, sans-serif;"></span></p><p style="background-color: white;"><span style
+ ="font-family: Helvetica, sans-serif;"><a href="http://www.meridiancanoeclu
+ b.com/phpBB3/viewtopic.php?f=4&t=1277" target="_blank" saprocessedanchor="t
+ rue" original_target="http://www.meridiancanoeclub.com/phpbb3/viewtopic.php
+ ?f=4&t=1277"><span style="font-family: Calibri, sans-serif;"></span></a><a 
+ href="http://www.meridiancanoeclub.com/phpBB3/viewtopic.php?f=4&t=1277">htt
+ p://www.meridiancanoeclub.com/phpBB3/viewtopic.php?f=4&t=1277</a></span></p
+ ><p style="background-color: white;"><span style="font-family: Calibri, san
+ s-serif;">If you have any queries, please contact me.</span><span style="fo
+ nt-family: Helvetica, sans-serif;"></span></p><p style="background-color: w
+ hite;"><span style="font-family: Calibri, sans-serif;">Hope to see you ther
+ e.</span><span style="font-family: Helvetica, sans-serif;"></span></p><p st
+ yle="background-color: white;"><span style="font-family: Calibri, sans-seri
+ f;">Geoff, I haven't forgotton plans for the U-Boat trip, still working on 
+ them!</span><span style="font-family: Helvetica, sans-serif;"></span></p><p
+  style="background-color: white;"><span style="font-family: Helvetica, sans
+ -serif;"> </span></p><p style="background-color: white;"><span style="font-
+ family: Calibri, sans-serif;">Tim Harlow</span><span style="font-family: He
+ lvetica, sans-serif;"></span></p><p style="margin-bottom: 12pt; background-
+ color: white;"><span style="font-family: Calibri, sans-serif;">Meridian Can
+ oe Club<br /> <br /> </span><span style="font-family: Helvetica, sans-serif
+ ;"></span></p>
+DTSTAMP:20230907T084429Z
+DTSTART;TZID=Europe/London:20140526T103000
+DTEND;TZID=Europe/London:20140526T150000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

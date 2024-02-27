@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20201217T190000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5e08715339a695c80acdee590a267117
+CATEGORIES:Social Events
+CREATED:20211010T094331
+SUMMARY:Christmas party will go ahead
+LOCATION:Maidstone Canoe Club
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\n&nbsp;\n\n\nThe Christmas party i back!&nbsp; for club members and thei
+ r partners&nbsp;\n\n\nHere are the COVID precautions:\n\n - All those atten
+ ding must do a lateral flow test within 48 hours of the event\n - Do not at
+ tend if you test positive or have any of the familiar symptoms\n - Hand san
+ itiser will be available, please use it on entry\n - All windows and doors 
+ will be open and although the heating will be on it is likely to be cold so
+  please dress accordingly, if you have a Christmas Jumper then that would b
+ e good.\n - Masks will not be mandatory but feel free to wear one when not 
+ eating or drinking &nbsp;\n - Make sure you register with Geoff at the door
+  (also pay please, cards or cash)\n - If you are bringing your own drink pl
+ ease also bring your own glass\n - You might want to do a bit of dancing, i
+ f you can’t dance just move about a bit to keep warm no one will know the d
+ ifference\n\n7pm till it finishes\n\n\nBring your own beer etc, soft drinks
+  and food provided\n\n\nThere is a £5 charge to cover the food.\n\n\nPlease
+  sign up below, you will not be able to sign in non club members but please
+  let Catherine know they are comming so numbers can be judged.\n\n\n&nbsp;s
+ ecretary@maidstonecanoeclub.net&nbsp;\n
+DTSTAMP:20230907T103336Z
+DTSTART;TZID=Europe/London:20211218T190000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,405 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20221002T000000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a761709f1a0591113a5ba452119d698b
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20230517T100453
+SUMMARY:Peer Paddling Trip to Lefkada and Meganisi island, Greece
+LOCATION:Greece
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<h1><span style="color: #222222; font-family: Arial, Helvetica, sans-serif;
+  font-size: small; font-style: normal; font-weight: 400; letter-spacing: no
+ rmal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none
+ ; white-space: normal; widows: 2; word-spacing: 0px; background-color: #fff
+ fff; float: none;"><img src="https://www.maidstonecanoeclub.net/joomla/imag
+ es/viber_image_2021-10-01_13-31-13-650.jpg" alt="viber image 2021 10 01 13 
+ 31 13 650" width="900" height="675" />Peer Sea Paddling Trip to Lefkada and
+  Meganisi island, Greece</span></h1><h4><span style="color: #222222; font-f
+ amily: Arial, Helvetica, sans-serif; font-size: small; font-style: normal; 
+ font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; te
+ xt-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-
+ spacing: 0px; background-color: #ffffff; float: none;">03 – 07 October 2022
+ </span></h4><h2><span style="color: #222222; font-family: Arial, Helvetica,
+  sans-serif; font-size: small; font-style: normal; font-weight: 400; letter
+ -spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-tra
+ nsform: none; white-space: normal; widows: 2; word-spacing: 0px; background
+ -color: #ffffff; float: none;">Schedule:</span></h2><h4><span style="color:
+  #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; font
+ -style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-
+ align: start; text-indent: 0px; text-transform: none; white-space: normal; 
+ widows: 2; word-spacing: 0px; background-color: #ffffff; float: none;">3 Oc
+ t:</span></h4><p><span style="color: #222222; font-family: Arial, Helvetica
+ , sans-serif; font-size: small; font-style: normal; font-weight: 400; lette
+ r-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-tr
+ ansform: none; white-space: normal; widows: 2; word-spacing: 0px; backgroun
+ d-color: #ffffff; float: none;">Arrival day. We settled into our accommodat
+ ion at the sea shore. Our base will be at Dessimi and every day we will sta
+ rt and finish our kayaking trips there. In the evenings we can visit some n
+ ice taverns or prepare our own dinner on a barbeque by the beach.</span><br
+  style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-siz
+ e: small; font-style: normal; font-weight: 400; letter-spacing: normal; orp
+ hans: 2; text-align: start; text-indent: 0px; text-transform: none; white-s
+ pace: normal; widows: 2; word-spacing: 0px; background-color: #ffffff;" /><
+ /p><p>&nbsp;</p><h4><span style="color: #222222; font-family: Arial, Helvet
+ ica, sans-serif; font-size: small; font-style: normal; font-weight: 400; le
+ tter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text
+ -transform: none; white-space: normal; widows: 2; word-spacing: 0px; backgr
+ ound-color: #ffffff; float: none;">4 Oct:</span></h4><p><span style="color:
+  #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; font
+ -style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-
+ align: start; text-indent: 0px; text-transform: none; white-space: normal; 
+ widows: 2; word-spacing: 0px; background-color: #ffffff; float: none;">Firs
+ t kayaking day. Possible itinerary: Dessimi – Meganisi island. Lunch at a t
+ avern on the island. Return to Dessimi<br /><img src="https://www.maidstone
+ canoeclub.net/joomla/images/viber_image_2021-09-30_12-56-24-838.jpg" alt="v
+ iber image 2021 09 30 12 56 24 838" width="893" height="669" /></span><br s
+ tyle="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size:
+  small; font-style: normal; font-weight: 400; letter-spacing: normal; orpha
+ ns: 2; text-align: start; text-indent: 0px; text-transform: none; white-spa
+ ce: normal; widows: 2; word-spacing: 0px; background-color: #ffffff;" /></p
+ ><h4><span style="color: #222222; font-family: Arial, Helvetica, sans-serif
+ ; font-size: small; font-style: normal; font-weight: 400; letter-spacing: n
+ ormal; orphans: 2; text-align: start; text-indent: 0px; text-transform: non
+ e; white-space: normal; widows: 2; word-spacing: 0px; background-color: #ff
+ ffff; float: none;">5-6 Oct:</span></h4><p><span style="color: #222222; fon
+ t-family: Arial, Helvetica, sans-serif; font-size: small; font-style: norma
+ l; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start;
+  text-indent: 0px; text-transform: none; white-space: normal; widows: 2; wo
+ rd-spacing: 0px; background-color: #ffffff; float: none;">Possible itinerar
+ y: We head North by the Scorpio, Scorpidi, Maduri islands. We head inside t
+ he large bay of Nidri. Lunch at a tavern in Gheni. Return to Dessimi.</span
+ ><br style="color: #222222; font-family: Arial, Helvetica, sans-serif; font
+ -size: small; font-style: normal; font-weight: 400; letter-spacing: normal;
+  orphans: 2; text-align: start; text-indent: 0px; text-transform: none; whi
+ te-space: normal; widows: 2; word-spacing: 0px; background-color: #ffffff;"
+  /></p><p>&nbsp;</p><h4><span style="color: #222222; font-family: Arial, He
+ lvetica, sans-serif; font-size: small; font-style: normal; font-weight: 400
+ ; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; 
+ text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; ba
+ ckground-color: #ffffff; float: none;">7 Oct: &nbsp;</span></h4><p><span st
+ yle="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: 
+ small; font-style: normal; font-weight: 400; letter-spacing: normal; orphan
+ s: 2; text-align: start; text-indent: 0px; text-transform: none; white-spac
+ e: normal; widows: 2; word-spacing: 0px; background-color: #ffffff; float: 
+ none;">Possible itinerary: we head south towards the deep underwater caves 
+ of Lefcas. We could go under the rocks with the kayaks and explore some cav
+ erns.</span><br style="color: #222222; font-family: Arial, Helvetica, sans-
+ serif; font-size: small; font-style: normal; font-weight: 400; letter-spaci
+ ng: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform
+ : none; white-space: normal; widows: 2; word-spacing: 0px; background-color
+ : #ffffff;" /><span style="color: #222222; font-family: Arial, Helvetica, s
+ ans-serif; font-size: small; font-style: normal; font-weight: 400; letter-s
+ pacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-trans
+ form: none; white-space: normal; widows: 2; word-spacing: 0px; background-c
+ olor: #ffffff; float: none;">We will enter the deep bays of Micros Gialos o
+ r Sivota. We will have lunch in a tavern near the hotel and after that we w
+ ill have time to shower and pack for our flight home.<br /><img src="https:
+ //www.maidstonecanoeclub.net/joomla/images/PA134301.JPG" alt="PA134301" wid
+ th="900" height="675" /><br /></span></p><p><br style="color: #222222; font
+ -family: Arial, Helvetica, sans-serif; font-size: small; font-style: normal
+ ; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; 
+ text-indent: 0px; text-transform: none; white-space: normal; widows: 2; wor
+ d-spacing: 0px; background-color: #ffffff;" /><strong><span style="color: #
+ 222222; font-family: Arial, Helvetica, sans-serif; font-size: small; font-s
+ tyle: normal; letter-spacing: normal; orphans: 2; text-align: start; text-i
+ ndent: 0px; text-transform: none; white-space: normal; widows: 2; word-spac
+ ing: 0px; background-color: #ffffff; float: none;">Around Lefkas there are 
+ several possible routes for kayaking, depending on the weather, and the sea
+ , as well as the abilities and wishes of the group participants. We could v
+ isit some interesting caverns, desolate beaches, rock walls, and beautiful 
+ bays. Part of the pleasure is in visiting different taverns with the kayaks
+  – for lunch and for refreshing drinks.</span></strong><br style="color: #2
+ 22222; font-family: Arial, Helvetica, sans-serif; font-size: small; font-st
+ yle: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-ali
+ gn: start; text-indent: 0px; text-transform: none; white-space: normal; wid
+ ows: 2; word-spacing: 0px; background-color: #ffffff;" /></p><h2><span styl
+ e="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: sm
+ all; font-style: normal; font-weight: 400; letter-spacing: normal; orphans:
+  2; text-align: start; text-indent: 0px; text-transform: none; white-space:
+  normal; widows: 2; word-spacing: 0px; background-color: #ffffff; float: no
+ ne;">Cost of the trip:</span></h2><p><span style="color: #222222; font-fami
+ ly: Arial, Helvetica, sans-serif; font-size: small; font-style: normal; fon
+ t-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-
+ indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spa
+ cing: 0px; background-color: #ffffff; float: none;"><strong>Option 1</stron
+ g> - Camping - £230</span><br style="color: #222222; font-family: Arial, He
+ lvetica, sans-serif; font-size: small; font-style: normal; font-weight: 400
+ ; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; 
+ text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; ba
+ ckground-color: #ffffff;" /><span style="color: #222222; font-family: Arial
+ , Helvetica, sans-serif; font-size: small; font-style: normal; font-weight:
+  400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0
+ px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px
+ ; background-color: #ffffff; float: none;">A tent could be provided by the 
+ club, but you have to bring your own sleeping bag and mat. Camping - non el
+ ectric green tent pitch with all facilities.</span><br style="color: #22222
+ 2; font-family: Arial, Helvetica, sans-serif; font-size: small; font-style:
+  normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: 
+ start; text-indent: 0px; text-transform: none; white-space: normal; widows:
+  2; word-spacing: 0px; background-color: #ffffff;" /><br style="color: #222
+ 222; font-family: Arial, Helvetica, sans-serif; font-size: small; font-styl
+ e: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align
+ : start; text-indent: 0px; text-transform: none; white-space: normal; widow
+ s: 2; word-spacing: 0px; background-color: #ffffff;" /><span style="color: 
+ #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; font-
+ style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-a
+ lign: start; text-indent: 0px; text-transform: none; white-space: normal; w
+ idows: 2; word-spacing: 0px; background-color: #ffffff; float: none;"><stro
+ ng>Option 2</strong> - Shared hotel room - £341</span><br style="color: #22
+ 2222; font-family: Arial, Helvetica, sans-serif; font-size: small; font-sty
+ le: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-alig
+ n: start; text-indent: 0px; text-transform: none; white-space: normal; wido
+ ws: 2; word-spacing: 0px; background-color: #ffffff;" /><span style="color:
+  #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; font
+ -style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-
+ align: start; text-indent: 0px; text-transform: none; white-space: normal; 
+ widows: 2; word-spacing: 0px; background-color: #ffffff; float: none;">You 
+ will be suited in a double or triple hotel room.</span><br style="color: #2
+ 22222; font-family: Arial, Helvetica, sans-serif; font-size: small; font-st
+ yle: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-ali
+ gn: start; text-indent: 0px; text-transform: none; white-space: normal; wid
+ ows: 2; word-spacing: 0px; background-color: #ffffff;" /><br style="color: 
+ #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; font-
+ style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-a
+ lign: start; text-indent: 0px; text-transform: none; white-space: normal; w
+ idows: 2; word-spacing: 0px; background-color: #ffffff;" /><span style="col
+ or: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; f
+ ont-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; te
+ xt-align: start; text-indent: 0px; text-transform: none; white-space: norma
+ l; widows: 2; word-spacing: 0px; background-color: #ffffff; float: none;"><
+ strong>Option 3</strong> - Private hotel room - £451</span><br style="color
+ : #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; fon
+ t-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text
+ -align: start; text-indent: 0px; text-transform: none; white-space: normal;
+  widows: 2; word-spacing: 0px; background-color: #ffffff;" /></p><h2><span 
+ style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size
+ : small; font-style: normal; font-weight: 400; letter-spacing: normal; orph
+ ans: 2; text-align: start; text-indent: 0px; text-transform: none; white-sp
+ ace: normal; widows: 2; word-spacing: 0px; background-color: #ffffff; float
+ : none;">What is included in the price is the option you choose plus:</span
+ ></h2><p><span style="color: #222222; font-family: Arial, Helvetica, sans-s
+ erif; font-size: small; font-style: normal; font-weight: 400; letter-spacin
+ g: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform:
+  none; white-space: normal; widows: 2; word-spacing: 0px; background-color:
+  #ffffff; float: none;">- All local fees.</span><br style="color: #222222; 
+ font-family: Arial, Helvetica, sans-serif; font-size: small; font-style: no
+ rmal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: sta
+ rt; text-indent: 0px; text-transform: none; white-space: normal; widows: 2;
+  word-spacing: 0px; background-color: #ffffff;" /><span style="color: #2222
+ 22; font-family: Arial, Helvetica, sans-serif; font-size: small; font-style
+ : normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align:
+  start; text-indent: 0px; text-transform: none; white-space: normal; widows
+ : 2; word-spacing: 0px; background-color: #ffffff; float: none;">- Boats (t
+ andem kayaks) + all gear required for paddling such as, paddles, buoyancy a
+ ids and dry bags.</span><br style="color: #222222; font-family: Arial, Helv
+ etica, sans-serif; font-size: small; font-style: normal; font-weight: 400; 
+ letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; te
+ xt-transform: none; white-space: normal; widows: 2; word-spacing: 0px; back
+ ground-color: #ffffff;" /><span style="color: #222222; font-family: Arial, 
+ Helvetica, sans-serif; font-size: small; font-style: normal; font-weight: 4
+ 00; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px
+ ; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; 
+ background-color: #ffffff; float: none;">- Trip leader/guide</span><br styl
+ e="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: sm
+ all; font-style: normal; font-weight: 400; letter-spacing: normal; orphans:
+  2; text-align: start; text-indent: 0px; text-transform: none; white-space:
+  normal; widows: 2; word-spacing: 0px; background-color: #ffffff;" /><span 
+ style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size
+ : small; font-style: normal; font-weight: 400; letter-spacing: normal; orph
+ ans: 2; text-align: start; text-indent: 0px; text-transform: none; white-sp
+ ace: normal; widows: 2; word-spacing: 0px; background-color: #ffffff; float
+ : none;">- The shuttles from and to Aktion International Airport.</span><br
+  style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-siz
+ e: small; font-style: normal; font-weight: 400; letter-spacing: normal; orp
+ hans: 2; text-align: start; text-indent: 0px; text-transform: none; white-s
+ pace: normal; widows: 2; word-spacing: 0px; background-color: #ffffff;" /><
+ /p><h2><span style="color: #222222; font-family: Arial, Helvetica, sans-ser
+ if; font-size: small; font-style: normal; font-weight: 400; letter-spacing:
+  normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: n
+ one; white-space: normal; widows: 2; word-spacing: 0px; background-color: #
+ ffffff; float: none;">Additional costs that everyone must cover:</span><br 
+ style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size
+ : small; font-style: normal; font-weight: 400; letter-spacing: normal; orph
+ ans: 2; text-align: start; text-indent: 0px; text-transform: none; white-sp
+ ace: normal; widows: 2; word-spacing: 0px; background-color: #ffffff;" /></
+ h2><p><span style="color: #222222; font-family: Arial, Helvetica, sans-seri
+ f; font-size: small; font-style: normal; font-weight: 400; letter-spacing: 
+ normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: no
+ ne; white-space: normal; widows: 2; word-spacing: 0px; background-color: #f
+ fffff; float: none;">- Flights tickets - please make sure that you booked y
+ ourself a tickets for these flights, they are chosen to fit to our travel p
+ lan:</span><br style="color: #222222; font-family: Arial, Helvetica, sans-s
+ erif; font-size: small; font-style: normal; font-weight: 400; letter-spacin
+ g: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform:
+  none; white-space: normal; widows: 2; word-spacing: 0px; background-color:
+  #ffffff;" /><br style="color: #222222; font-family: Arial, Helvetica, sans
+ -serif; font-size: small; font-style: normal; font-weight: 400; letter-spac
+ ing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transfor
+ m: none; white-space: normal; widows: 2; word-spacing: 0px; background-colo
+ r: #ffffff;" />London Gatwick to Preveza<br />Flight Number EZY8247<br />De
+ parture<br />06:10 Tue 3rd Oct<br />Arrival<br />11:25<br style="color: #22
+ 2222; font-family: Arial, Helvetica, sans-serif; font-size: small; font-sty
+ le: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-alig
+ n: start; text-indent: 0px; text-transform: none; white-space: normal; wido
+ ws: 2; word-spacing: 0px; background-color: #ffffff;" /><br style="color: #
+ 222222; font-family: Arial, Helvetica, sans-serif; font-size: small; font-s
+ tyle: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-al
+ ign: start; text-indent: 0px; text-transform: none; white-space: normal; wi
+ dows: 2; word-spacing: 0px; background-color: #ffffff;" />Preveza to London
+  Gatwick<br />Flight Number EZY6476<br />Departure<br />22:10 Sat 7th Oct<b
+ r />Arrival<br />23:40<br style="color: #222222; font-family: Arial, Helvet
+ ica, sans-serif; font-size: small; font-style: normal; font-weight: 400; le
+ tter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text
+ -transform: none; white-space: normal; widows: 2; word-spacing: 0px; backgr
+ ound-color: #ffffff;" /><br style="color: #222222; font-family: Arial, Helv
+ etica, sans-serif; font-size: small; font-style: normal; font-weight: 400; 
+ letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; te
+ xt-transform: none; white-space: normal; widows: 2; word-spacing: 0px; back
+ ground-color: #ffffff;" /><span style="color: #222222; font-family: Arial, 
+ Helvetica, sans-serif; font-size: small; font-style: normal; font-weight: 4
+ 00; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px
+ ; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; 
+ background-color: #ffffff; float: none;">- Food and drinks at the venues</s
+ pan><br style="color: #222222; font-family: Arial, Helvetica, sans-serif; f
+ ont-size: small; font-style: normal; font-weight: 400; letter-spacing: norm
+ al; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; 
+ white-space: normal; widows: 2; word-spacing: 0px; background-color: #fffff
+ f;" /><span style="color: #222222; font-family: Arial, Helvetica, sans-seri
+ f; font-size: small; font-style: normal; font-weight: 400; letter-spacing: 
+ normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: no
+ ne; white-space: normal; widows: 2; word-spacing: 0px; background-color: #f
+ fffff; float: none;">- Drinks and Snacks</span><br style="color: #222222; f
+ ont-family: Arial, Helvetica, sans-serif; font-size: small; font-style: nor
+ mal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: star
+ t; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; 
+ word-spacing: 0px; background-color: #ffffff;" /><span style="color: #22222
+ 2; font-family: Arial, Helvetica, sans-serif; font-size: small; font-style:
+  normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: 
+ start; text-indent: 0px; text-transform: none; white-space: normal; widows:
+  2; word-spacing: 0px; background-color: #ffffff; float: none;">- Travel in
+ surance</span><br style="color: #222222; font-family: Arial, Helvetica, san
+ s-serif; font-size: small; font-style: normal; font-weight: 400; letter-spa
+ cing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transfo
+ rm: none; white-space: normal; widows: 2; word-spacing: 0px; background-col
+ or: #ffffff;" /><span style="color: #222222; font-family: Arial, Helvetica,
+  sans-serif; font-size: small; font-style: normal; font-weight: 400; letter
+ -spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-tra
+ nsform: none; white-space: normal; widows: 2; word-spacing: 0px; background
+ -color: #ffffff; float: none;">- All paperwork needed for travel to greece.
+ </span><br style="color: #222222; font-family: Arial, Helvetica, sans-serif
+ ; font-size: small; font-style: normal; font-weight: 400; letter-spacing: n
+ ormal; orphans: 2; text-align: start; text-indent: 0px; text-transform: non
+ e; white-space: normal; widows: 2; word-spacing: 0px; background-color: #ff
+ ffff;" /><span style="color: #222222; font-family: Arial, Helvetica, sans-s
+ erif; font-size: small; font-style: normal; font-weight: 400; letter-spacin
+ g: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform:
+  none; white-space: normal; widows: 2; word-spacing: 0px; background-color:
+  #ffffff; float: none;">- Suitable clothing for this paddling such as:</spa
+ n><br style="color: #222222; font-family: Arial, Helvetica, sans-serif; fon
+ t-size: small; font-style: normal; font-weight: 400; letter-spacing: normal
+ ; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; wh
+ ite-space: normal; widows: 2; word-spacing: 0px; background-color: #ffffff;
+ " /><span style="color: #222222; font-family: Arial, Helvetica, sans-serif;
+  font-size: small; font-style: normal; font-weight: 400; letter-spacing: no
+ rmal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none
+ ; white-space: normal; widows: 2; word-spacing: 0px; background-color: #fff
+ fff; float: none;">Swimming suits or some fast drying layer</span><br style
+ ="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: sma
+ ll; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 
+ 2; text-align: start; text-indent: 0px; text-transform: none; white-space: 
+ normal; widows: 2; word-spacing: 0px; background-color: #ffffff;" /><span s
+ tyle="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size:
+  small; font-style: normal; font-weight: 400; letter-spacing: normal; orpha
+ ns: 2; text-align: start; text-indent: 0px; text-transform: none; white-spa
+ ce: normal; widows: 2; word-spacing: 0px; background-color: #ffffff; float:
+  none;">Windstopper or waterproof jacket.</span><br style="color: #222222; 
+ font-family: Arial, Helvetica, sans-serif; font-size: small; font-style: no
+ rmal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: sta
+ rt; text-indent: 0px; text-transform: none; white-space: normal; widows: 2;
+  word-spacing: 0px; background-color: #ffffff;" /><span style="color: #2222
+ 22; font-family: Arial, Helvetica, sans-serif; font-size: small; font-style
+ : normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align:
+  start; text-indent: 0px; text-transform: none; white-space: normal; widows
+ : 2; word-spacing: 0px; background-color: #ffffff; float: none;">Swimming s
+ hoes or flip flops.<br /><span style="font-family: Arial, Helvetica, sans-s
+ erif;">Spare set of dry clothes and shoes for our breaks for dinner.</span>
+ </span></p><table class="contentpaneopen" style="max-width: 100%; backgroun
+ d-color: #ffffff; border-collapse: collapse; border-spacing: 0px; margin-bo
+ ttom: 10px; width: 601px; color: #414141; font-family: Arial, Helvetica, sa
+ ns-serif; font-size: 11px; font-style: normal; font-weight: 400; letter-spa
+ cing: normal; orphans: 2; text-align: start; text-transform: none; white-sp
+ ace: normal; widows: 2; word-spacing: 0px; border: 0px;"><tbody><tr style="
+ border: none; line-height: 1.65em; text-align: left;" valign="top"><td cols
+ pan="4" style="padding: 8px 10px; text-align: left; border: none; line-heig
+ ht: 1.65em;">&nbsp;</td></tr></tbody></table><h3>&nbsp;If you are intereste
+ d in joining that trip please contact me for more information.</h3><p>&nbsp
+ ;</p>
+CONTACT:georgi@hebar.co.uk
+DTSTAMP:20230907T105309Z
+DTSTART;TZID=Europe/London;VALUE=DATE:20231003
+DTEND;TZID=Europe/London;VALUE=DATE:20231008
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

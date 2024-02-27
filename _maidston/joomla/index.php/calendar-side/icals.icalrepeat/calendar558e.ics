@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20220822T180000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1c208f9cf29d797bb8d621db9f4b9ee2
+CATEGORIES:Coaching
+CREATED:20230722T160653
+SUMMARY:Paddlesport Safety & Rescue Course PSRC (was FSRT)
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nThe Paddlesport Safety &amp; Rescue Course - PSRC - is the replacement 
+ for the old FSRT course. &nbsp;\n\n\nThe course will give you a toolbox of 
+ rescue techniques to solve common problems encountered in the Sheltered Wat
+ er environment and to paddle safely with others in our local waters. &nbsp;
+ There will be plenty of time to practice techniques such as contact &amp; t
+ ows, self rescues, deepwater rescues, rescuing a swimmer, helping entrapped
+  paddlers, and much more. &nbsp;There is more information (including a hand
+ y video &amp; course documents) on the British Canoeing Awarding Body websi
+ te here.\n\n\nThis course runs over 3 weeks, and you need to attend all ses
+ sions. &nbsp;It is suitable for paddlers of at least Explore Award level, a
+ nd can be taken in any craft (canoe, kayak, sit-on-top, SUP). &nbsp;If you'
+ re thinking of doing it in a racing boat, please drop me a line first so we
+  can make it work for you.\n\n\nWe will be wet! &nbsp;Most of the time will
+  be spent on or in the water, so please dress appropriately - unless it's p
+ articularly warm, 2 hours in the water will feel like a long time without a
+  wetsuit, drysuit, or other suitable clothing! &nbsp; Again, please drop me
+  a line&nbsp;if you're not sure.\n\n\nThis course is a pre-requisite for Pa
+ ddlesport Instructor and many other coaching &amp; leadership qualification
+ s, as well as making you a popular and useful group member!\n
+CONTACT:Mark Corti, mark@maidstonecanoeclub.net
+DTSTAMP:20230907T140548Z
+DTSTART;TZID=Europe/London:20230823T180000
+DTEND;TZID=Europe/London:20230823T203000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

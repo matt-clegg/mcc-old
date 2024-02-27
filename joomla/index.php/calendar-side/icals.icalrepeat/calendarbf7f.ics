@@ -1,0 +1,209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150511T173000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3d88faf2f0a48dd345cb67f90511c127
+CATEGORIES:Coaching
+CREATED:20160501T181730
+SUMMARY:Kids-Only Beginner Course - Session 1
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<h3>Kids-Only Beginner's Course!</h3><p>Paddle with us!  After the success 
+ of our first-ever Kids-Only Beginner Course last year, we're doing it again
+  - and it's going to be even awesomer!  Lots of water-based games and silli
+ ness in (and out of!) boats is going to make this the most fun you're ever 
+ likely to have on the river!  Plus, by the end of it you'll be a pretty goo
+ d kayaker as well!  Following the national Paddlepower Passport syllabus, t
+ his will cover all aspects of river & kayak safety, as well as controlling 
+ the boat and being part of a river group.</p><p>This course is open to <str
+ ong>children aged 7-12</strong>.  You will need a change of clothes and a t
+ owel at each session.</p><p>Full details of our adult courses and how to ge
+ t involved in paddling at the Club are <a href="http://www.maidstonecanoecl
+ ub.net/joomla/index.php/come-paddle/come-try" target="_blank">available on 
+ this page</a> - please take a look if you haven't already done so.</p><p>Ou
+ r courses cost £40, and are run by our friendly, fully-qualified coaches.  
+ They consist of four 2-hour sessions.  Your coach for this Course will be <
+ a href="http://www.maidstonecanoeclub.net/joomla/index.php?option=com_conta
+ ct&view=contact&id=21&catid=42&Itemid=415">Lee Horton</a>.  Please note tha
+ t <strong>session 3 of this course is on the Friday</strong>!  The dates fo
+ r this course are:</p><table style="height: 244px; margin-left: auto; margi
+ n-right: auto; width: 400px;"><tbody><tr><td><h6>Session 1 </h6></td><td><h
+ 6>11th May </h6></td></tr><tr><td><h6> Session 2</h6></td><td><h6>18th May<
+ /h6></td></tr><tr><td><h6> Session 3</h6></td><td><h6>20th May (Friday) </h
+ 6></td></tr><tr><td><h6> Session 4</h6></td><td><h6>25th May</h6></td></tr>
+ </tbody></table><p> </p><p>If you can't attend one of the sessions, please 
+ let one of the coaches know and we'll try to fit you in another time.  Plea
+ se arrive at 5:30pm - we will aim to be on the water by 6:00pm.</p><p>If yo
+ u'd like to attend this course, please fill out the form below to sign up. 
+  If you've <a href="http://www.maidstonecanoeclub.net/joomla/index.php/come
+ -paddle/come-try">got questions</a> or have any problems, please <a href="h
+ ttp://www.maidstonecanoeclub.net/joomla/index.php/2012-05-01-19-15-08/conta
+ ct-us">contact us</a> and we'll do our best to help.</p><p>See you on the w
+ ater!</p><p> </p><h2>This children's course begins on Wednesday, 11th May. 
+  Ages 7-12.</h2>
+CONTACT:event.bookings@maidstonecanoeclub.net
+DTSTAMP:20230907T090000Z
+DTSTART;TZID=Europe/London:20160511T173000
+DTEND;TZID=Europe/London:20160511T200000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

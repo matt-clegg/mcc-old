@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20160408T090000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b78657525d7795d850b2b2e1dd4b6cbf
+CATEGORIES:Coaching
+CREATED:20170204T211151
+SUMMARY:Stand Up Paddleboard Support Module
+LOCATION:Maidstone canoe club 
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p><b><span style="font-size: small;">Overview </span></b></p><p>The Britis
+ h Canoeing SUP Discipline Supporting Module is designed to assist coaches w
+ ho currently hold British Canoeing Coaching Qualifications, and who want to
+  gain a better understanding of the specialist discipline of SUP. The cours
+ e introduces and explains the fundamental techniques and strategies for coa
+ ching SUP paddlesport. The course is a mix of theory and practical activity
+ . The module seeks to support the continuing process of good coaching pract
+ ice with the syllabus written to focus on coaches who are likely to be supp
+ orting the early development of an SUP paddler and who may be delivering Br
+ itish Canoeing awards to paddlers using SUPs.</p><p><b><span style="font-si
+ ze: small;">Prerequisites </span></b></p><p>At the point of registration th
+ e following prerequisites are required;</p><p> £17.50 Registration Fee for
+  Full Home Nation Members</p><p> A British Canoeing Coaching Qualification
+ </p><p> Age 16 years of age, or older</p><p>Module Aims</p><p>The module a
+ ims to provide an overview of stand up paddleboarding (SUP) and the fundame
+ ntal techniques and skills for coaching SUP. The course is recommended for 
+ those individuals interested in pursuing coaching of SUP and developing coa
+ ching/analysis skills specific to SUP.</p><p>This Module Will:</p><p><span 
+ style="font-size: small;"> </span><span style="font-family: Calibri,Calibr
+ i; font-size: small;"><span style="font-family: Calibri,Calibri; font-size:
+  small;">Provide an insight into current SUP development including the role
+  of British Canoeing, British Stand Up Paddleboard Association (BSUPA), Aca
+ demy of Surfing Instructors (ASI) and Adventure Activities Licencing Servic
+ e (AALS). </span></span></p><p> Introduce the different types of equipment
+  including the issues of equipment design, size and modification to suit in
+ dividual requirements.</p><p> Provide a background to the various discipli
+ nes within SUP paddling and the specific techniques that apply to each.</p>
+ <p> Provide a fun and informative way of using practical based coaching te
+ chniques to improve candidate&rsquo;s understanding of SUP on sheltered wat
+ er, enabling the coach to build a solid background for paddlers to progress
+  into their chosen area of SUP.</p><p> Provide coaches with SUP specific o
+ bservation and analysis information.</p>
+CONTACT:colin.sermons@goolemail.com
+DTSTAMP:20230907T090545Z
+DTSTART;TZID=Europe/London:20170409T090000
+DTEND;TZID=Europe/London:20170409T163000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

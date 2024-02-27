@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20160915T090000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e5a715922f41a8e1738e98eae27e305e
+CATEGORIES:Coaching
+CREATED:20161214T090748
+SUMMARY:3 star canoe course 
+LOCATION:yalding 
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<table border="0" style="width: 100%;" width="100%" cellpadding="0"><tbody>
+ <tr><td style="padding: 0.75pt; border: #000000; width: 99.34%; background-
+ color: transparent;" valign="top" width="99%"><span style="font-family: Tim
+ es New Roman;"> </span><p style="line-height: 19.8pt; margin-top: 0cm; marg
+ in-right: 0cm; margin-bottom: 10pt;"><b><span style="text-decoration: under
+ line;"><span style="font-family: 'Times New Roman','serif'; font-size: 18pt
+ ;">The course will cover</span></span></b><span style="font-family: 'Times 
+ New Roman','serif'; font-size: 18pt;">:</span></p><span style="font-family:
+  Times New Roman;"> </span><span style="font-family: Times New Roman;"> </s
+ pan><ul><ul><li style="color: #000000; line-height: 19.8pt; font-size: 18pt
+ ; font-style: normal; font-weight: normal; margin-top: 0cm; margin-right: 0
+ cm; margin-bottom: 10pt;"><span style="font-family: 'Times New Roman','seri
+ f'; font-size: 18pt;">Lifting, carrying and launching</span></li></ul></ul>
+ <span style="font-family: Times New Roman;"> </span><ul><ul><li style="colo
+ r: #000000; line-height: 19.8pt; font-size: 18pt; font-style: normal; font-
+ weight: normal; margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt;"><
+ span style="font-family: 'Times New Roman','serif'; font-size: 18pt;">Effic
+ ient paddling forwards, backwards and turning</span></li></ul></ul><span st
+ yle="font-family: Times New Roman;"> </span><ul><ul><li style="color: #0000
+ 00; line-height: 19.8pt; font-size: 18pt; font-style: normal; font-weight: 
+ normal; margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt;"><span sty
+ le="font-family: 'Times New Roman','serif'; font-size: 18pt;">Moving sidewa
+ ys both static and on the move </span></li></ul></ul><span style="font-fami
+ ly: Times New Roman;"> </span><ul><ul><li style="color: #000000; line-heigh
+ t: 19.8pt; font-size: 18pt; font-style: normal; font-weight: normal; margin
+ -top: 0cm; margin-right: 0cm; margin-bottom: 10pt;"><span style="font-famil
+ y: 'Times New Roman','serif'; font-size: 18pt;">Support strokes, preventing
+  a capsize</span></li></ul></ul><span style="font-family: Times New Roman;"
+ > </span><ul><ul><li style="color: #000000; line-height: 19.8pt; font-size:
+  18pt; font-style: normal; font-weight: normal; margin-top: 0cm; margin-rig
+ ht: 0cm; margin-bottom: 10pt;"><span style="font-family: 'Times New Roman',
+ 'serif'; font-size: 18pt;">Dealing with the environment; wind, current etc<
+ /span></li></ul></ul><span style="font-family: Times New Roman;"> </span><u
+ l><ul><li style="color: #000000; line-height: 19.8pt; font-size: 18pt; font
+ -style: normal; font-weight: normal; margin-top: 0cm; margin-right: 0cm; ma
+ rgin-bottom: 10pt;"><span style="font-family: 'Times New Roman','serif'; fo
+ nt-size: 18pt;">Peer and self rescues</span></li></ul></ul><span style="fon
+ t-family: Times New Roman;"> </span><ul><ul><li style="color: #000000; line
+ -height: 19.8pt; font-size: 18pt; font-style: normal; font-weight: normal; 
+ margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt;"><span style="font
+ -family: 'Times New Roman','serif'; font-size: 18pt;">Towing</span></li></u
+ l></ul><span style="font-family: Times New Roman;"> </span><ul><ul><li styl
+ e="color: #000000; line-height: 19.8pt; font-size: 18pt; font-style: normal
+ ; font-weight: normal; margin-top: 0cm; margin-right: 0cm; margin-bottom: 1
+ 0pt;"><span style="font-family: 'Times New Roman','serif'; font-size: 18pt;
+ ">Paddling as part of a led group </span></li></ul></ul><span style="font-f
+ amily: Times New Roman;"> </span><ul><ul><li style="color: #000000; line-he
+ ight: 19.8pt; font-size: 18pt; font-style: normal; font-weight: normal; mar
+ gin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt;"><span style="font-fa
+ mily: 'Times New Roman','serif'; font-size: 18pt;">Risk management and awar
+ eness of others</span></li></ul></ul><span style="font-family: Times New Ro
+ man;"> </span><ul><ul><li style="color: #000000; line-height: 19.8pt; font-
+ size: 18pt; font-style: normal; font-weight: normal; margin-top: 0cm; margi
+ n-right: 0cm; margin-bottom: 10pt;"><span style="font-family: 'Times New Ro
+ man','serif'; font-size: 18pt;">Other theory such as: equipment, first aid,
+  access, planning, navigation, etiquette etc.</span></li></ul></ul><span st
+ yle="font-family: Times New Roman;"> </span><span style="font-family: Times
+  New Roman;"> </span><p style="line-height: 19.8pt; margin-top: 0cm; margin
+ -right: 0cm; margin-bottom: 10pt;"><span style="font-family: 'Times New Rom
+ an','serif'; font-size: 18pt;">the course will run on </span><span style="c
+ olor: #1f497d; font-size: 18pt;"><span style="font-family: Calibri;">Saturd
+ ay 16<sup>th </sup>September 2017 0900 to 1700 training and Sunday 17<sup>t
+ h</sup> September 2017 0900 to 1700  at   yalding. </span></span><span styl
+ e="font-family: 'Times New Roman','serif'; font-size: 18pt;">Assessment on 
+ Sunday 8<sup>th</sup> October at Gillingham </span></p><span style="font-fa
+ mily: Times New Roman;"> </span><p style="line-height: 19.8pt; margin-top: 
+ 0cm; margin-right: 0cm; margin-bottom: 10pt;"><b><span style="text-decorati
+ on: underline;"><span style="font-family: 'Times New Roman','serif'; font-s
+ ize: 18pt;">Pre-requisites</span></span></b></p><span style="font-family: T
+ imes New Roman;"> </span><p style="line-height: 19.8pt; margin-top: 0cm; ma
+ rgin-right: 0cm; margin-bottom: 10pt;"><span style="font-family: 'Times New
+  Roman','serif'; font-size: 18pt;">For the training alone participants must
+  either hold the 2 Star award or be at that level and be a minimum age of 1
+ 4. If you wish to pass the course over the weekend you will need to have ev
+ idence of at least 3 different flat-water journeys of about 3 hours duratio
+ n (10km) each with at least one of these in an open water environment. And 
+ also provide evidence of at least one session of about 3 hours duration in 
+ an alternative discipline.</span></p><span style="font-family: Times New Ro
+ man;"> </span><p style="line-height: 19.8pt; margin-top: 0cm; margin-right:
+  0cm; margin-bottom: 10pt;"><span style="font-family: 'Times New Roman','se
+ rif'; font-size: 18pt;">Cost of the course for training £80 assessment £40 
+ later 1 spaces on the course. </span></p><span style="font-family: Times Ne
+ w Roman;"> </span></td></tr><tr><td style="padding: 0.75pt; border: #000000
+ ; width: 99.34%; background-color: transparent;" valign="top" width="99%"> 
+ </td></tr><tr><td style="padding: 0.75pt; border: #000000; width: 99.34%; b
+ ackground-color: transparent;" valign="top" width="99%"><span style="font-f
+ amily: Times New Roman;"></span></td></tr><tr><td style="padding: 0.75pt; b
+ order: #000000; width: 99.34%; background-color: transparent;" valign="top"
+  width="99%"> </td></tr></tbody></table><p style="margin-top: 0cm; margin-r
+ ight: 0cm; margin-bottom: 10pt;"><span style="font-family: Calibri; font-si
+ ze: small;"></span></p><p> </p>
+CONTACT:lee@maidstonecanoeclub.net 
+DTSTAMP:20230907T111020Z
+DTSTART;TZID=Europe/London:20170916T090000
+DTEND;TZID=Europe/London:20170917T170000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

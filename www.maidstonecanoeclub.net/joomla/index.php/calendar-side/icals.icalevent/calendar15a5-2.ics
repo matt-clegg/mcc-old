@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20160708T101500
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c096cc5871aa4e0e70e28ea00f974d36
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20170629T184217
+SUMMARY:Oare to Faversham
+LOCATION:Oare
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>This paddle is organised by Tim Harlow of Meridiam CC but Maidstone memb
+ ers a very welcome, please see details below</p><p><span style="background:
+  #e1ebf2; margin: 0px; color: #333333; font-family: 'Trebuchet MS',sans-ser
+ if; font-size: 10pt;">Timetable.</span><span style="margin: 0px; color: #33
+ 3333; font-family: 'Trebuchet MS',sans-serif; font-size: 10pt;"><br /> <spa
+ n style="background: #e1ebf2; margin: 0px;">Arrive at Oare car park, Church
+  Road, Oare ME13 0QA ( Free but NO toilets) at 10.15.</span><br /> <span st
+ yle="background: #e1ebf2; margin: 0px;">This is a small car park so please 
+ keep cars to a minimum.</span><br /> <span style="background: #e1ebf2; marg
+ in: 0px;">Launch at 11.00.&nbsp;</span><br /> <span style="background: #e1e
+ bf2; margin: 0px;">Paddle across The Swale to Harty and paddle against the 
+ tide for a mile or so.</span><br /> <span style="background: #e1ebf2; margi
+ n: 0px;">We then cross back over The Swale to Horse Sands to look for seals
+  and wildlife, then into Faversham Creek and paddle to the Town Quay for lu
+ nch.</span><br /> <span style="background: #e1ebf2; margin: 0px;">High Wate
+ r is at 13.09.</span><br /> <span style="background: #e1ebf2; margin: 0px;"
+ >We leave about 14.00 and return to Oare by 15.30</span></span></p><p><span
+  style="margin: 0px; color: black; font-size: 12pt;"></span></p><p><span st
+ yle="background: #e1ebf2; margin: 0px; color: #333333; font-family: 'Trebuc
+ het MS',sans-serif; font-size: 10pt;">Full details at:-</span></p><p><span 
+ style="background: #e1ebf2; margin: 0px; color: #333333; font-family: 'Treb
+ uchet MS',sans-serif; font-size: 10pt;"><a href="http://www.meridiancanoecl
+ ub.com/phpBB3/viewtopic.php?f=4&amp;t=1573" target="_blank" rel="noopener n
+ oreferrer"><span style="color: #0000ff;">http://www.meridiancanoeclub.com/p
+ hpBB3/viewtopic.php?f=4&amp;t=1573</span></a></span></p><p><span style="mar
+ gin: 0px; color: black; font-size: 12pt;"></span></p><p><span style="backgr
+ ound: #e1ebf2; margin: 0px; color: #333333; font-family: 'Trebuchet MS',san
+ s-serif; font-size: 10pt;">Tim Harlow</span></p><p><span style="background:
+  #e1ebf2; margin: 0px; color: #333333; font-family: 'Trebuchet MS',sans-ser
+ if; font-size: 10pt;">Meridian Canoe Club</span></p>
+CONTACT:Tim Harlow
+DTSTAMP:20230907T110847Z
+DTSTART;TZID=Europe/London:20170709T101500
+DTEND;TZID=Europe/London:20170709T153000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

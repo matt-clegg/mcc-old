@@ -1,0 +1,213 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20150225T000000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:da43fffa8e9e812d75f696fe39462a5e
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20160120T112009
+SUMMARY:Dart Trip - with WAM
+LOCATION:Powder Mills Bunkhouse\, Princetown\, Yelverton\, Devon PL20 6SP
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Once again WAM have kindly offered us spaces on their annual trip to the
+  Dart.  If you're interested, please contact Paul Hignell or Alison (WAM) k
+ now as soon as possible; beds allocated on a first come, first served basis
+ .  Details from WAM below:</p><p> </p><p>"<em>For those who don't know the 
+ Dart, this delightful Grade 3 section of the river requires a reasonably re
+ liable whitewater roll. You should be competent at paddling in flow below t
+ he bridge at Yalding. In very high water levels, decisions will be made on 
+ suitability for paddling. We occasionally paddle the Walkham or the Tavy, d
+ epending on water levels. Last year, a small group also paddled the Upper D
+ art.</em></p><div><div><br /><em>Accommodation for Friday and Saturday nigh
+ ts is in Powder Mills Bunkhouse, on the B3212 just north of Two Bridges (Gr
+ id reference SX628 769), where we have stayed for the last couple of years.
+  The address is Powder Mills Bunkhouse, Princetown, Yelverton, Devon PL20 6
+ SP; details at<a href="http://www.powdermillsbunkhouse.co.uk/">http://www.p
+ owdermillsbunkhouse.co.uk</a>. You need to bring a sleeping bag, pillow and
+  towel. Plus warm clothing as the fire is sometimes slow to warm up the bun
+ khouse. Mobile phone signal is poor.</em><br /><br /><em>Food: </em><br /><
+ em>Cooked breakfasts for Saturday and Sunday, and an evening meal for Satur
+ day will be provided. Please let us know if you are vegetarian. Everyone is
+  expected to join in and help. There will be chocolate bars for on the rive
+ r, a sandwich for the journey home, and tea and coffee. You will need to fi
+ nd your own food for Friday night, but cheese and biscuits will be availabl
+ e. Please bring any drink you want.</em><br /><br /><em>Cost:</em><br /><em
+ >The cost, including food, will be £35 per person. Please send cheques, pay
+ able to Whitewater Action Medway, to Gary Jenkins, 14 Jarrett Avenue, Wains
+ cott, Kent ME2 4NL, or alternatively request bank details for a BACs transf
+ er. We need 20 people to break even. Cheques will not be cashed before end-
+ December. Cash can be paid at pool sessions.</em><br /><br /><em>The bunkho
+ use will accept dogs, but Martin at Powder Mills requests that the dogs are
+  not long-haired and moulting, as he has to hoover"</em></div></div>
+CONTACT:Paul Hignell, phignall@gmail.com
+DTSTAMP:20230907T085842Z
+DTSTART;TZID=Europe/London;VALUE=DATE:20160226
+DTEND;TZID=Europe/London;VALUE=DATE:20160229
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

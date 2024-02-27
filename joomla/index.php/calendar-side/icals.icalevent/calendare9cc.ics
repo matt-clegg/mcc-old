@@ -1,0 +1,168 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20190317T190000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:064391cb0d811de0dc881a632bdfa730
+CATEGORIES:Social Events
+CREATED:20200206T070456
+SUMMARY:CANCELLED - British canoeing club conference 
+LOCATION:Maidstone Canoe Club Mill Meadow\, St Peter's St\, Maidstone ME16 0SN 
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>This is now postponed until further notice.&nbsp; New date TBC.</p><p>&n
+ bsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p><span style=
+ "color: #424041; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, s
+ ans-serif; font-size: 15px; background-color: inherit;">The roadshow will v
+ isit 14 locations in March and April and aim to provide members with an opp
+ ortunity to:</span></p><p style="margin: 0px 0px 0.9375rem; padding: 0px; b
+ order: 0px; line-height: inherit; font-family: Roboto, 'Helvetica Neue', He
+ lvetica, Arial, sans-serif; font-size: 15px; vertical-align: baseline; colo
+ r: #424041;">• Hear about the progress made towards the ambitions within th
+ e current four-year strategic plan,&nbsp;<a style="margin: 0px; padding: 0p
+ x; border: 0px; font-style: inherit; font-variant: inherit; font-weight: in
+ herit; line-height: inherit; font-family: inherit; vertical-align: baseline
+ ; color: #d81a30;" href="https://www.britishcanoeing.org.uk/about/stronger-
+ together-strategic-plan">Stronger Together</a><br />• Comment on what shoul
+ d be included in the next strategic plan for 2021-25<br />• Meet with and r
+ aise questions with British Canoeing CEO David Joy, senior staff and Board 
+ Members who will be present.</p><p style="margin: 0px 0px 0.9375rem; paddin
+ g: 0px; border: 0px; line-height: inherit; font-family: Roboto, 'Helvetica 
+ Neue', Helvetica, Arial, sans-serif; font-size: 15px; vertical-align: basel
+ ine; color: #424041;">All events start at 7.30pm, with refreshments served 
+ from 7pm.</p><p style="margin: 0px 0px 0.9375rem; padding: 0px; border: 0px
+ ; line-height: inherit; font-family: Roboto, 'Helvetica Neue', Helvetica, A
+ rial, sans-serif; font-size: 15px; vertical-align: baseline; color: #424041
+ ;"><span style="margin: 0px; padding: 0px; border: 0px; font-style: inherit
+ ; font-variant: inherit; font-weight: bold; line-height: inherit; font-fami
+ ly: inherit; vertical-align: baseline;"><a style="margin: 0px; padding: 0px
+ ; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inh
+ erit; line-height: inherit; font-family: inherit; vertical-align: baseline;
+  color: #d81a30;" href="https://britishcanoeing.formstack.com/forms/stronge
+ r_together" target="_blank" rel="noopener">Sign up here to register your at
+ tendance.</a></span></p><p><span style="color: #424041; font-family: Roboto
+ , 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;">Maidsto
+ ne Canoe Club</span><br style="color: #424041; font-family: Roboto, 'Helvet
+ ica Neue', Helvetica, Arial, sans-serif; font-size: 15px;" /><span style="c
+ olor: #424041; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, san
+ s-serif; font-size: 15px;">Mill Meadow, St Peter's St, Maidstone ME16 0SN</
+ span></p><p style="margin: 0px 0px 0.9375rem; padding: 0px; border: 0px; li
+ ne-height: inherit; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial
+ , sans-serif; font-size: 15px; vertical-align: baseline; color: #424041;"><
+ em style="margin: 0px; padding: 0px; border: 0px; font-variant: inherit; fo
+ nt-weight: inherit; line-height: inherit; font-family: inherit; vertical-al
+ ign: baseline;">* New date to replace Friday 20 March</em></p><p>&nbsp;</p>
+DTSTAMP:20230907T143738Z
+DTSTART;TZID=Europe/London:20200317T190000
+DTEND;TZID=Europe/London:20200317T220000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

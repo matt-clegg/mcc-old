@@ -1,0 +1,500 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20200814T093000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:19700101T010000
+SUMMARY:Regular Club Paddle for New and Experienced Members
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Our regular weekly paddle sessions for members both new and experienced.
+  &nbsp;</p><p>If you're a newer member or would like some support on the wa
+ ter, please use the booking form below and one of our PAAs will meet you fo
+ r a paddle. &nbsp;If you're confident in your ability to paddle independent
+ ly with the main group, please&nbsp;don't use the booking form - just turn 
+ up - and leave the spaces for those who need it.</p><p>&nbsp;</p><p>Booking
+  opens 2 weeks in advance.</p>
+DTSTAMP:20230907T153216Z
+DTSTART;TZID=Europe/London:20210815T093000
+DTEND;TZID=Europe/London:20210815T113000
+SEQUENCE:0
+RRULE:FREQ=WEEKLY;UNTIL=20380120T000000Z;INTERVAL=1;BYDAY=SU
+EXDATE;TZID=Europe/London:20210926T093000,20220522T093000,20220925T093000
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:20210809T124539
+SUMMARY:Regular Club Paddle for Inexperienced Members - Please sign up
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Our regular weekly paddle sessions for members.  </p><p>Please <em>only<
+ /em> use this booking form if you feel you need some leading on the water. 
+  If you're happy to paddle with the main group as a peer paddle, please <em
+ >don't</em> book here and leave the spaces for those who need it.</p><p>Boo
+ king opens 2 weeks in advance.</p>
+
+DTSTAMP:20230907T153216Z
+DTSTART;TZID=Europe/London:20210919T093000
+DTEND;TZID=Europe/London:20210919T113000
+RECURRENCE-ID;TZID=Europe/London:20210919T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:20210809T124539
+SUMMARY:Regular Club Paddle for Inexperienced Members - Please sign up
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Our regular weekly paddle sessions for members. &nbsp;</p><p>Please <em>
+ only</em> use this booking form if you feel you need some leading on the wa
+ ter. &nbsp;If you're happy to paddle with the main group as a peer paddle, 
+ please&nbsp;<em>don't</em> book here and leave the spaces for those who nee
+ d it.</p><p>Booking opens 2 weeks in advance.</p>
+
+DTSTAMP:20230907T153216Z
+DTSTART;TZID=Europe/London:20220522T093000
+DTEND;TZID=Europe/London:20220522T113000
+RECURRENCE-ID;TZID=Europe/London:20220515T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:20210809T124539
+SUMMARY:Regular Club Paddle for Inexperienced Members - Please sign up
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Our regular weekly paddle sessions for members.&nbsp; Led by James and T
+ rish</p><p>Please <em>only</em> use this booking form if you feel you need 
+ some leading on the water. &nbsp;If you're happy to paddle with the main gr
+ oup as a peer paddle, please&nbsp;<em>don't</em> book here and leave the sp
+ aces for those who need it.</p><p>Booking opens 2 weeks in advance.</p>
+
+DTSTAMP:20230907T153216Z
+DTSTART;TZID=Europe/London:20211010T093000
+DTEND;TZID=Europe/London:20211010T113000
+RECURRENCE-ID;TZID=Europe/London:20211010T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:20210809T124539
+SUMMARY:Regular Club Paddle for Inexperienced Members - Please sign up
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Our regular weekly paddle sessions for members.&nbsp; Led byEmily</p><p>
+ Please <em>only</em> use this booking form if you feel you need some leadin
+ g on the water. &nbsp;If you're happy to paddle with the main group as a pe
+ er paddle, please&nbsp;<em>don't</em> book here and leave the spaces for th
+ ose who need it.</p><p>Booking opens 2 weeks in advance.</p>
+
+DTSTAMP:20230907T153216Z
+DTSTART;TZID=Europe/London:20211017T093000
+DTEND;TZID=Europe/London:20211017T113000
+RECURRENCE-ID;TZID=Europe/London:20211017T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:20210809T124539
+SUMMARY:Regular Club Paddle for Inexperienced Members - Please sign up
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Our regular weekly paddle sessions for members.&nbsp; Led by James Trish
+  and Catherine D</p><p>Please <em>only</em> use this booking form if you fe
+ el you need some leading on the water. &nbsp;If you're happy to paddle with
+  the main group as a peer paddle, please&nbsp;<em>don't</em> book here and 
+ leave the spaces for those who need it.</p><p>Booking opens 2 weeks in adva
+ nce.</p>
+
+DTSTAMP:20230907T153216Z
+DTSTART;TZID=Europe/London:20211024T093000
+DTEND;TZID=Europe/London:20211024T113000
+RECURRENCE-ID;TZID=Europe/London:20211024T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:20210809T124539
+SUMMARY:Regular Club Paddle for Inexperienced Members - Please sign up
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Our regular weekly paddle sessions for members. &nbsp;</p><p>Led By Emil
+ y O and James C</p><p>Please <em>only</em> use this booking form if you fee
+ l you need some leading on the water. &nbsp;If you're happy to paddle with 
+ the main group as a peer paddle, please&nbsp;<em>don't</em> book here and l
+ eave the spaces for those who need it.</p><p>Booking opens 2 weeks in advan
+ ce.</p>
+
+DTSTAMP:20230907T153216Z
+DTSTART;TZID=Europe/London:20211114T093000
+DTEND;TZID=Europe/London:20211114T113000
+RECURRENCE-ID;TZID=Europe/London:20211114T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:20210809T124539
+SUMMARY:Regular Club Paddle for Inexperienced Members - Please sign up
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Our regular weekly paddle sessions for members. &nbsp;</p><p>Led By Tris
+ h and Catherine D</p><p>Please <em>only</em> use this booking form if you f
+ eel you need some leading on the water. &nbsp;If you're happy to paddle wit
+ h the main group as a peer paddle, please&nbsp;<em>don't</em> book here and
+  leave the spaces for those who need it.</p><p>Booking opens 2 weeks in adv
+ ance.</p>
+
+DTSTAMP:20230907T153216Z
+DTSTART;TZID=Europe/London:20211121T093000
+DTEND;TZID=Europe/London:20211121T113000
+RECURRENCE-ID;TZID=Europe/London:20211121T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:20210809T124539
+SUMMARY:Regular Club Paddle for Inexperienced Members - Please sign up
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Our regular weekly paddle sessions for members. &nbsp;</p><p>Led By Tris
+ h and Kathy S</p><p>Please <em>only</em> use this booking form if you feel 
+ you need some leading on the water. &nbsp;If you're happy to paddle with th
+ e main group as a peer paddle, please&nbsp;<em>don't</em> book here and lea
+ ve the spaces for those who need it.</p><p>Booking opens 2 weeks in advance
+ .</p>
+
+DTSTAMP:20230907T153216Z
+DTSTART;TZID=Europe/London:20211128T093000
+DTEND;TZID=Europe/London:20211128T113000
+RECURRENCE-ID;TZID=Europe/London:20211128T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:20210809T124539
+SUMMARY:Regular Club Paddle for Inexperienced Members - Please sign up
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Our regular weekly paddle sessions for members. &nbsp;</p><p>Led by Cath
+ erine D</p><p>Please <em>only</em> use this booking form if you feel you ne
+ ed some leading on the water. &nbsp;If you're happy to paddle with the main
+  group as a peer paddle, please&nbsp;<em>don't</em> book here and leave the
+  spaces for those who need it.</p><p>Booking opens 2 weeks in advance.</p>
+
+DTSTAMP:20230907T153216Z
+DTSTART;TZID=Europe/London:20211205T093000
+DTEND;TZID=Europe/London:20211205T113000
+RECURRENCE-ID;TZID=Europe/London:20211205T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:20210809T124539
+SUMMARY:Regular Club Paddle for Inexperienced Members - Please sign up
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Our regular weekly paddle sessions for members. &nbsp;</p><p>Led By Tris
+ h and James C</p><p>Please <em>only</em> use this booking form if you feel 
+ you need some leading on the water. &nbsp;If you're happy to paddle with th
+ e main group as a peer paddle, please&nbsp;<em>don't</em> book here and lea
+ ve the spaces for those who need it.</p><p>Booking opens 2 weeks in advance
+ .</p>
+
+DTSTAMP:20230907T153216Z
+DTSTART;TZID=Europe/London:20211212T093000
+DTEND;TZID=Europe/London:20211212T113000
+RECURRENCE-ID;TZID=Europe/London:20211212T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:20210809T124539
+SUMMARY:Regular Club Paddle for Inexperienced Members - Please sign up
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Our regular weekly paddle sessions for members. &nbsp;</p><p>Led by Emil
+ y, Paul&nbsp; K and James C</p><p>Please <em>only</em> use this booking for
+ m if you feel you need some leading on the water. &nbsp;If you're happy to 
+ paddle with the main group as a peer paddle, please&nbsp;<em>don't</em> boo
+ k here and leave the spaces for those who need it.</p><p>Booking opens 2 we
+ eks in advance.</p>
+
+DTSTAMP:20230907T153216Z
+DTSTART;TZID=Europe/London:20211219T093000
+DTEND;TZID=Europe/London:20211219T113000
+RECURRENCE-ID;TZID=Europe/London:20211219T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:20210809T124539
+SUMMARY:Regular Club Paddle for Inexperienced Members - Please sign up
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Our regular weekly paddle sessions for members. &nbsp;</p><p>Please <em>
+ only</em> use this booking form if you feel you need some leading on the wa
+ ter. &nbsp;If you're happy to paddle with the main group as a peer paddle, 
+ please&nbsp;<em>don't</em> book here and leave the spaces for those who nee
+ d it.</p><p>Booking opens 2 weeks in advance.</p><p>The PAAs on this paddle
+  are Richard R and Catherine D</p>
+
+DTSTAMP:20230907T153216Z
+DTSTART;TZID=Europe/London:20220116T093000
+DTEND;TZID=Europe/London:20220116T113000
+RECURRENCE-ID;TZID=Europe/London:20220116T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:20210809T124539
+SUMMARY:Regular Club Paddle for Inexperienced Members - Please sign up
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Our regular weekly paddle sessions for members. &nbsp;</p><p>Please <em>
+ only</em> use this booking form if you feel you need some leading on the wa
+ ter. &nbsp;If you're happy to paddle with the main group as a peer paddle, 
+ please&nbsp;<em>don't</em> book here and leave the spaces for those who nee
+ d it.</p><p>Booking opens 2 weeks in advance.</p><p>The PAAs on this paddle
+  are Trish C and James C</p>
+
+DTSTAMP:20230907T153216Z
+DTSTART;TZID=Europe/London:20220123T093000
+DTEND;TZID=Europe/London:20220123T113000
+RECURRENCE-ID;TZID=Europe/London:20220123T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:20210809T124539
+SUMMARY:Regular Club Paddle for Inexperienced Members - Please sign up
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Our regular weekly paddle sessions for members. &nbsp;</p><p>Please <em>
+ only</em> use this booking form if you feel you need some leading on the wa
+ ter. &nbsp;If you're happy to paddle with the main group as a peer paddle, 
+ please&nbsp;<em>don't</em> book here and leave the spaces for those who nee
+ d it.</p><p>Booking opens 2 weeks in advance.</p><p>The PAAs on this paddle
+  are Kathy S and James C</p>
+
+DTSTAMP:20230907T153216Z
+DTSTART;TZID=Europe/London:20220130T093000
+DTEND;TZID=Europe/London:20220130T113000
+RECURRENCE-ID;TZID=Europe/London:20220130T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:20210809T124539
+SUMMARY:Regular Club Paddle for Inexperienced Members - Please sign up
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Our regular weekly paddle sessions for members. &nbsp;</p><p>Please <em>
+ only</em> use this booking form if you feel you need some leading on the wa
+ ter. &nbsp;If you're happy to paddle with the main group as a peer paddle, 
+ please&nbsp;<em>don't</em> book here and leave the spaces for those who nee
+ d it.</p><p>Booking opens 2 weeks in advance.</p><p>Paa on this paddle is T
+ rish C</p>
+
+DTSTAMP:20230907T153216Z
+DTSTART;TZID=Europe/London:20220206T093000
+DTEND;TZID=Europe/London:20220206T113000
+RECURRENCE-ID;TZID=Europe/London:20220206T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:20210809T124539
+SUMMARY:Regular Club Paddle for Inexperienced Members - Please sign up
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Our regular weekly paddle sessions for members. &nbsp;</p><p>Please <em>
+ only</em> use this booking form if you feel you need some leading on the wa
+ ter. &nbsp;If you're happy to paddle with the main group as a peer paddle, 
+ please&nbsp;<em>don't</em> book here and leave the spaces for those who nee
+ d it.</p><p>Booking opens 2 weeks in advance.</p><p>Paa on this paddle Tris
+ h C and James C</p>
+
+DTSTAMP:20230907T153216Z
+DTSTART;TZID=Europe/London:20220213T093000
+DTEND;TZID=Europe/London:20220213T113000
+RECURRENCE-ID;TZID=Europe/London:20220213T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:20210809T124539
+SUMMARY:Regular Club Paddle for Inexperienced Members - Please sign up
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Our regular weekly paddle sessions for members. &nbsp;</p><p>Please <em>
+ only</em> use this booking form if you feel you need some leading on the wa
+ ter. &nbsp;If you're happy to paddle with the main group as a peer paddle, 
+ please&nbsp;<em>don't</em> book here and leave the spaces for those who nee
+ d it.</p><p>Booking opens 2 weeks in advance.</p><p>Paa on this paddle is J
+ ames C</p>
+
+DTSTAMP:20230907T153216Z
+DTSTART;TZID=Europe/London:20220220T093000
+DTEND;TZID=Europe/London:20220220T113000
+RECURRENCE-ID;TZID=Europe/London:20220220T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:20210809T124539
+SUMMARY:Regular Club Paddle for Inexperienced Members - Please sign up
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Our regular weekly paddle sessions for members. &nbsp;</p><p>Please <em>
+ only</em> use this booking form if you feel you need some leading on the wa
+ ter. &nbsp;If you're happy to paddle with the main group as a peer paddle, 
+ please&nbsp;<em>don't</em> book here and leave the spaces for those who nee
+ d it.</p><p>Booking opens 2 weeks in advance.</p><p>PAA on this paddle is K
+ athy S</p>
+
+DTSTAMP:20230907T153216Z
+DTSTART;TZID=Europe/London:20220227T093000
+DTEND;TZID=Europe/London:20220227T113000
+RECURRENCE-ID;TZID=Europe/London:20220227T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1e5730bb09ad32d11fe01a6902259b
+CATEGORIES:Regular Club Paddles
+CREATED:20210809T124539
+SUMMARY:Regular Club Paddle for New and Experienced Members
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>THE TRIP TO THE THAMES WILL NOT NOW TAKE PLACE.</p><p>Alternatives inclu
+ de a walk to the coffee kiosk at Allington Lock&nbsp;</p><p>PLEASE NOTE:&nb
+ sp; Maidstone Invicta Rowing Club will be holding their Spring Head from 9:
+ 15 to 14:30 with races between Maidstone and Allington.&nbsp;</p><p>The reg
+ ular club paddle will be moved, but as the Medway above Yalding wiil be dra
+ ined we are considering paddling on the Thames launching at Walton Bridge. 
+ There is a free car park and a cafe on the sount bank just by the bridge. F
+ rom there we can paddle upstream to Shepperton or downstream towards Hampto
+ n Court. It will mean a earlier meeting at the club, 8:30, to load boats.&n
+ bsp;</p><p>&nbsp;If interested please register when this is available.&nbsp
+ ;</p><p>&nbsp;</p><p>&nbsp;</p><p>Our regular weekly paddle sessions for me
+ mbers both new and experienced. &nbsp;</p><p>If you're a newer member or wo
+ uld like some support on the water, please use the booking form below and o
+ ne of our PAAs will meet you for a paddle. &nbsp;If you're confident in you
+ r ability to paddle independently with the main group, please&nbsp;don't us
+ e the booking form - just turn up - and leave the spaces for those who need
+  it.</p><p>&nbsp;</p><p>Booking opens 2 weeks in advance.</p>
+
+DTSTAMP:20230907T153216Z
+DTSTART;TZID=Europe/London:20230305T093000
+DTEND;TZID=Europe/London:20230305T113000
+RECURRENCE-ID;TZID=Europe/London:20230305T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

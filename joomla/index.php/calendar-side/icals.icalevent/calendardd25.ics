@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20210418T180000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e677f3b8939dca7c66dbb50d02484df9
+CATEGORIES:Regular Club Paddles
+CREATED:19700101T010000
+SUMMARY:Junior Paddle Club
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peters St\, Maidstone
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nA weekly paddle with the emphasis on fun while learning new skills acro
+ ss different craft. A high chance of getting wet!!!\n\n\nSummer Paddle Club
+ ! &nbsp;Open to all Club members from 8 - 16, our Junior Paddle Club is all
+  about having fun on the water! &nbsp;Make new friends, paddle new boats, g
+ et awesome at kayaking - all at once!\n\n\nRunning throughout the summer, t
+ he Junior Paddle Club is available to junior members who have already got t
+ heir Discover Award (not suitable for complete novices). &nbsp;If you don't
+  have your Discover Award, please join one of our Beginner Courses - we run
+  several Kids-Only Beginner Courses during the summer, as well as some mixe
+ d-age courses. &nbsp;\n\n\nIf it's your first time coming to the Junior Pad
+ dle Club - even if you're already a member - please bring along a completed
+  consent form for your child.\n\n\nPlease sign up for each session so we kn
+ ow who's coming!\n
+CONTACT:John Simmonds, john.simmonds@maidstonecanoeclub.net
+DTSTAMP:20230907T144732Z
+DTSTART;TZID=Europe/London:20220419T180000
+DTEND;TZID=Europe/London:20220419T200000
+SEQUENCE:0
+RRULE:FREQ=WEEKLY;UNTIL=20220928T000000Z;INTERVAL=1;BYDAY=TU
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e677f3b8939dca7c66dbb50d02484df9
+CATEGORIES:Regular Club Paddles
+CREATED:20220411T162235
+SUMMARY:Junior Paddle Club ~ Cancelled due to heat wave
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peters St, Maidstone
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nA weekly paddle with the emphasis on fun while learning new skills acro
+ ss different craft. A high chance of getting wet!!!\n\n\nSummer Paddle Club
+ ! &nbsp;Open to all Club members from 8 - 16, our Junior Paddle Club is all
+  about having fun on the water! &nbsp;Make new friends, paddle new boats, g
+ et awesome at kayaking - all at once!\n\n\nRunning throughout the summer, t
+ he Junior Paddle Club is available to junior members who have already got t
+ heir Discover Award (not suitable for complete novices). &nbsp;If you don't
+  have your Discover Award, please join one of our Beginner Courses - we run
+  several Kids-Only Beginner Courses during the summer, as well as some mixe
+ d-age courses. &nbsp;\n\n\nIf it's your first time coming to the Junior Pad
+ dle Club - even if you're already a member - please bring along a completed
+  consent form for your child.\n\n\nPlease sign up for each session so we kn
+ ow who's coming!\n
+CONTACT:John Simmonds, john.simmonds@maidstonecanoeclub.net
+
+DTSTAMP:20230907T144732Z
+DTSTART;TZID=Europe/London:20220719T180000
+DTEND;TZID=Europe/London:20220719T200000
+RECURRENCE-ID;TZID=Europe/London:20220719T180000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

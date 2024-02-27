@@ -1,0 +1,145 @@
+body {
+background: #e1e1e1 url(../../images/main-body-bg.jpg) repeat-x 0 0 !important;
+color: #414141;
+}
+#bg {
+background: url(../../images/body-bg.jpg) no-repeat top center !important;
+}
+#footer {
+background: url(../../images/footer-bg1.gif) no-repeat 0 0 !important;
+color: #545454;
+clear: both;
+}
+#footer-shadow {
+background: url(../../images/footer-bg1.png) no-repeat top center !important;
+clear: both;
+height: 100%;
+}
+#col-left #top-handler {
+background: url(../../images/top-handler-bg1.png) no-repeat bottom left !important;
+}
+#middle-cols {
+background: url(../../images/middle-cols-bg1.gif) repeat-y 0 0 !important;
+}
+#mc-bg-tp {
+background: url(../../images/mc-bg-tp-bg1.jpg) no-repeat 0 0 !important;
+}
+#site-name-handler {
+background: url(../../images/top-handler-bg1.png) no-repeat bottom left !important;
+}
+#col-left div.moduletable_text .mbot {
+background: url(../../images/mod-text-bg21.gif) no-repeat bottom left !important;
+}
+#col-left div.moduletable_text {
+background: url(../../images/mod-text-bg1.gif) repeat-y top left !important;
+}
+#col-left div.custom_text {
+background: url(../../images/mod-text-bg1.gif) repeat-y top left !important;
+}
+#col-left #modlgn-username, .modal-body #modlgn-username {
+background: url(../../images/username-bg1.png) no-repeat 0 0 !important;
+}
+#col-left #modlgn-passwd, .modal-body #modlgn-passwd {
+background: url(../../images/password-bg1.png) no-repeat 0 0 !important;
+}
+#col-left ul.menu li.current a, #col-left ul.sections li.current a, #col-left ul#mainlevel li.current a {
+background: url(../../images/menu-active1.png) no-repeat 0 0 !important;
+}
+#newsflash h1 a, .leading-0 h2 a {
+background: url(../../images/header-co-bg21.gif) no-repeat top right !important;
+}
+#newsflash h1, .leading-0 h2 {
+background: url(../../images/header-co-bg1.gif) no-repeat 0 0 !important;
+}
+#col-left, #col-left .moduletable {
+color: #bac69d;
+}
+#col-left ul.menu li a, #col-left ul.sections li a, #col-left ul#mainlevel li a {
+color: #bac69d !important;
+}
+#log-panel a, #log-panel a:hover {
+	color: #434343 !important;
+}
+.camera_thumbs_cont ul li > img {
+	border: 1px solid #708400 !important;
+}
+
+.camera_caption h1 {
+	color: #ffffff;
+}
+
+.camera_caption h2 {
+	color: #ffffff;
+}
+
+.camera_caption p {
+	color: #ffffff;
+}
+
+#text-background, dt.tabs.open {
+	background-color: #ffffff;
+}
+
+a,a:hover, .moduletable_menu_light ul.menu li ul li a:hover, .moduletable_menu ul.menu li ul li a:hover {
+	color: #708400;
+}
+
+.button, button, a.button, .btn, .btn-primary {
+	color: #434343 !important;
+}
+#col-left ul li a {
+color: #ffffff;
+}
+.button:hover, button:hover, a.button:hover, .btn:hover, .btn-primary:hover {
+	color: #448198 !important;
+}
+
+#menu .menu-nav li a, #menu .menu-nav ul a, #menu .menu-nav ul ul a, ul.menu-nav li a small {
+	color: #333333;
+text-shadow: 1px 1px 0px #ffffff;
+}
+
+#menu .menu-nav a:hover, .menu-nav li a:hover {
+color: #708400;
+}
+thead th, table th, tbody th, tbody td {
+	border-top: 1px solid #e0e0e0;
+}
+tbody th, tbody td, h2 .contact-name, .search-results dt.result-title{
+	border-bottom: 1px solid #e0e0e0;
+}
+.moduletable {
+	color: #343434;
+}
+
+.moduletable a {
+	color: #708400;
+}
+
+.moduletable h3, .moduletable_menu h3, thead th, table th {
+	color: #343434;
+}
+
+.moduletable_menu ul.menu li a, .latestnews_menu li a {
+	color: #708400;
+}
+.moduletable_menu ul.menu li a:hover, ul.latestnews_menu li a:hover {
+	background-color: #708400;
+	color: #ffffff;
+}
+#footer-line a {
+	color: #708400;
+}
+#footer-line a:hover {
+	color: #708400;
+}
+#footer-line {
+	color: #343434;
+}
+#LoginForm {
+background: #25381C;
+color: #708400;
+}
+#LoginForm ul li a {
+color: #ffffff;
+}

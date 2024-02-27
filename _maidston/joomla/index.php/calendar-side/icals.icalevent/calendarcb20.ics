@@ -1,0 +1,259 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20120315T200000
+RDATE:20120325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20121028T010000
+RDATE:20130331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20131027T010000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20141026T010000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20120325T020000
+RDATE:20121028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20130331T020000
+RDATE:20131027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20141026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:659ece32a9b34641bb9d5f1f013c3873
+CATEGORIES:Pool Sessions
+CREATED:20121207T141522
+SUMMARY:Pool Session - With Demo Day from Kent Canoes
+LOCATION:Larkfield Leisure Centre\, New Hythe Lane\, Larkfield\, Kent\, ME20 6RH 
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p style="font-size: 13px;"><a href="http://www.kentcanoes.co.uk/" target="
+ _blank" style="font-size: 13px;">Kent Canoes</a><span style="font-size: 13p
+ x;">, our friendly local canoe & kayak shop will be at the pool tonight, wi
+ th a selection of the latest boats for you to try out. And there's a discou
+ nt for Maidstone Canoe Club members! </span></p><p style="font-size: 13px;"
+ >Cost: £6 for members, £8 for non-members.  Please bring your membership ca
+ rd with you!</p><p style="font-size: 13px;"><span style="font-size: 13px;">
+ Please ensure that your boat is clean inside and out.  Club boats can be us
+ ed for these sessions, but you'll need to make arrangements for getting one
+  up there.  Boats must be returned by Sunday morning.  Please contact Richa
+ rd Clark, the general paddling Bosun, at </span><a href="mailto:bosun-gp@ma
+ idstonecanoeclub.net" style="font-size: 13px;"></a><a href="mailto:bosun-gp
+ @maidstonecanoeclub.net" style="font-size: 13px;">bosun-gp@maidstonecanoecl
+ ub.net</a><span style="font-size: 13px;"> </span><span style="font-size: 13
+ px;">if you would like to take a club boat.</span><span style="font-size: 1
+ 3px;"> Boat cleaning at the club from 16:00 the the day for the pool sessio
+ on if are used a club boat you will need to come down to the club and get o
+ ne</span></p><p style="font-size: 13px;">No seal launching - please keep th
+ e poolside clean.</p><h3 style="font-size: 23px; line-height: 41px;"><cufon
+  class="cufon cufon-canvas" alt="Please " style="width: 75px; height: 19.8p
+ x;"><cufontext>Please </cufontext></cufon><cufon class="cufon cufon-canvas"
+  alt="respect " style="width: 91px; height: 19.8px;"><cufontext>respect </c
+ ufontext></cufon><cufon class="cufon cufon-canvas" alt="the " style="width:
+  47px; height: 19.8px;"><cufontext>the </cufontext></cufon><cufon class="cu
+ fon cufon-canvas" alt="pool " style="width: 61px; height: 19.8px;"><cufonte
+ xt>pool </cufontext></cufon><cufon class="cufon cufon-canvas" alt="or " sty
+ le="width: 36px; height: 19.8px;"><cufontext>or </cufontext></cufon><cufon 
+ class="cufon cufon-canvas" alt="we " style="width: 37px; height: 19.8px;"><
+ cufontext>we </cufontext></cufon><cufon class="cufon cufon-canvas" alt="wil
+ l " style="width: 55px; height: 19.8px;"><cufontext>will </cufontext></cufo
+ n><cufon class="cufon cufon-canvas" alt="lose " style="width: 55px; height:
+  19.8px;"><cufontext>lose </cufontext></cufon><cufon class="cufon cufon-can
+ vas" alt="it!" style="width: 27px; height: 19.8px;"><cufontext>it!</cufonte
+ xt></cufon></h3>
+CONTACT:lee@maidstoncanoeclub.net
+DTSTAMP:20230907T101650Z
+DTSTART;TZID=Europe/London:20130316T200000
+DTEND;TZID=Europe/London:20130316T213000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

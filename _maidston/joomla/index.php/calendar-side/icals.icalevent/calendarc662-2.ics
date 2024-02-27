@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20220508T180000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:96654c7e29ca1c1ac7e9966f6dce65d7
+CATEGORIES:Coaching
+CREATED:19700101T010000
+SUMMARY:Flatwater Skills for Dynamic Water Progression
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nThis is a new series of sessions we're trying this year, looking at the
+  skills needed to move from the flat water environment to more dynamic wate
+ r. &nbsp;This will be mainly aimed at those hoping to paddle whitewater, bu
+ t will also be useful for those wanting to do more sea kayaking or any othe
+ r dynamic-water environment.\n\n\n(Proficiency in the skills covered in the
+ se sessions will be a pre-requisite for our Intro to Whitewater course whic
+ h will be held in September, date TBC)\n\n\nWe'll be looking at:\n\n - forw
+ ard paddling\n - edge control\n - support strokes (pool session May 23rd - 
+ please book this online as usual when booking opens)\n - body rotation and 
+ confidence leaning outside the boat
+CONTACT:Mark Corti, mark@maidstonecanoeclub.net
+DTSTAMP:20230907T135941Z
+DTSTART;TZID=Europe/London:20230509T180000
+DTEND;TZID=Europe/London:20230509T193000
+SEQUENCE:0
+RRULE:FREQ=WEEKLY;COUNT=4;INTERVAL=1;BYDAY=TU
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

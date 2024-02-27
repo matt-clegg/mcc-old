@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150522T090000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:fcbee30b24ec51c38ec5087eebbed4d1
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20160430T120937
+SUMMARY:Strand to Strood & return
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>This trip is organised by Tim Harlow of Meridian CC and has invited Maid
+ stone paddlers to join in</p><p>Details;</p><p style="margin-top: 0cm; marg
+ in-right: 0cm; margin-bottom: 0pt;"><span style="font-family: 'Calibri',san
+ s-serif;">Meet at <span style="background: #e1ebf2; color: #333333;">The St
+ rand Car Park (free parking, toilets and café), Gillingham, ME7 1TT at 10.1
+ 5.</span></span></p><p style="margin-top: 0cm; margin-right: 0cm; margin-bo
+ ttom: 0pt;"><span style="background: #e1ebf2; color: #333333; font-family: 
+ 'Calibri',sans-serif;">Launch at 11. </span><span style="color: #333333; fo
+ nt-family: 'Calibri',sans-serif;"><br /> <br /> <span style="background: #e
+ 1ebf2;">A chart of the trip can be found at </span><br /> </span><span styl
+ e="font-family: 'Calibri',sans-serif;"><a href="http://www.visitmyharbour.c
+ om/harbours/north-kent-swale-medway/medway-marinas/chart/1FFF5C48AE531/medw
+ ay-gillingham-and-rochester-2012-chart"><span style="background: #e1ebf2; p
+ adding: 0cm; border: 1pt windowtext; color: #5d8fbd;">http://www.visitmyhar
+ bour.com/harbours/ ... 2012-chart</span></a><span style="color: #333333;"><
+ br /> <span style="background: #e1ebf2;">Once launched we will cross the sh
+ ipping lane and head eastwards to Hoo Ness then continue to the northern sh
+ ore of the Medway at Port Werburgh.</span><br /> <span style="background: #
+ e1ebf2;">We then follow the northern shore passing Cookham Wood Fort remain
+ s, the various yacht clubs and Upnor Castle until we reach Strood where the
+ re are steps for us to get out and eat our packed lunches. </span><br /> <s
+ pan style="background: #e1ebf2;">This is a 5 mile paddle.</span><br /> <spa
+ n style="background: #e1ebf2;">HW is at 14:01 and we will set off soon afte
+ rwards.</span><br /> <span style="background: #e1ebf2;">We will cross the M
+ edway to the southern shore and follow it along past Sun Pier, The Historic
+  Dockyard, Chatham, Chatham Lock Gates and Corporation Wharf where we can v
+ iew the paddle steamer The Medway Queen and the preserved Lightship. </span
+ ><br /> <span style="background: #e1ebf2;">Then onwards to The Strand where
+  I hope to land about 16:30. </span><br /> <span style="background: #e1ebf2
+ ;">This is shorter at 4.5 miles.</span><br /> <span style="background: #e1e
+ bf2;">We then return to the boathouse to unload boats and leave by 17:30.</
+ span><br /> <span style="background: #e1ebf2;">LW Chatham is at 20:07</span
+ ><br /> <br /> <span style="background: #e1ebf2;">The trip is 5 miles to St
+ rood and 4.5 miles to return making a total of 9.5 miles.</span><br /> <br 
+ /> <span style="background: #e1ebf2;">Paddlers should be of a 2* standard f
+ or this trip.</span></span></span></p><p style="margin-top: 0cm; margin-rig
+ ht: 0cm; margin-bottom: 0pt;"><span style="background: #e1ebf2; color: #333
+ 333; font-family: 'Calibri',sans-serif;">Full details are on the Meridian w
+ ebsite at:-</span></p><p style="margin-top: 0cm; margin-right: 0cm; margin-
+ bottom: 0pt;"><span style="font-family: 'Calibri',sans-serif;"><a href="htt
+ p://www.meridiancanoeclub.com/phpBB3/viewtopic.php?f=4&t=1477" target="_bla
+ nk"><span style="color: #0000ff;">http://www.meridiancanoeclub.com/phpBB3/v
+ iewtopic.php?f=4&t=1477</span></a></span></p><p> </p>
+CONTACT:geofforford@gmail.com
+DTSTAMP:20230907T123808Z
+DTSTART;TZID=Europe/London:20160522T090000
+DTEND;TZID=Europe/London:20160522T163000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

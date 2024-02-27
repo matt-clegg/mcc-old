@@ -1,0 +1,116 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20220510T180000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:87707bbee67b8947319e12a7204d868c
+CATEGORIES:Beginner Courses
+CREATED:20230324T150945
+SUMMARY:Beginner Course - Session 3
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Paddle with us! &nbsp;If you're thinking of joining Maidstone Canoe Club
+  and learning to paddle, you're in the right place! &nbsp;Our beginner's co
+ urses are designed to give you the basic skills to control the boat. &nbsp;
+ Once you've completed the course, you'll have the confidence and abilities 
+ to join us on our trips, tours and regular paddles on the Medway and beyond
+ .</p><p>Please note all courses must be pre-booked - all novice paddlers mu
+ st attend one of our beginner courses. &nbsp;Full details of the courses an
+ d how to get involved in paddling (including how to join the Club if you're
+  already an experience paddler) are <a href="http://maidstonecanoeclub.net/
+ joomla/index.php?option=com_content&amp;view=article&amp;id=199&amp;Itemid=
+ 151">available on this page</a> - please take a look if you haven't already
+ .</p><p>Our courses cost £65 for adults and £45 for children, and are run b
+ y our friendly qualified coaches. &nbsp;They consist of 8 hours coaching ti
+ me - either 4 x two-hour sessions, 2 x four-hour sessions, or occasionally 
+ 1 x eight-hour session<span style="color: #414141; font-family: Arial, Helv
+ etica, sans-serif; font-size: 11px; font-style: normal; font-weight: 400; l
+ etter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text
+ -transform: none; white-space: normal; widows: 2; word-spacing: 0px; backgr
+ ound-color: #ffffff; float: none;"></span>- and follow the syllabus for the
+  nationally-recognised&nbsp;<a href="https://gopaddling.info/discover-award
+ s/" target="_blank" rel="noopener">British Canoeing Discover Award</a>.</p>
+ <p>Your coaches for this course will be <a href="https://www.maidstonecanoe
+ club.net/joomla/index.php?option=com_contact&amp;view=contact&amp;id=27&amp
+ ;catid=42&amp;Itemid=415">Jon Lock</a>.&nbsp; &nbsp;It is suitable for <str
+ ong>ages 14+</strong>. &nbsp;The dates for this course are:</p><h3>Session 
+ 1: Thursday 27th April&nbsp;</h3><h3>Session 2: Thursday 4th May</h3><h3>Se
+ ssion 3: Thursday 11th May</h3><h3>Session 4: Thursday 18th May</h3><p>If y
+ ou can't attend one of the sessions, please let the coach know and we'll tr
+ y to fit you in another time. &nbsp;Please arrive at 5:30pm - we will aim t
+ o be on the water by 6:00pm.&nbsp; Please make sure you've read our "<a hre
+ f="https://www.maidstonecanoeclub.net/joomla/index.php?option=com_content&a
+ mp;view=article&amp;id=1005&amp;Itemid=1427">What to Wear</a>" page!</p><p>
+ If you'd like to attend the course, please fill out the form below to sign 
+ up. &nbsp;If you've <a href="http://maidstonecanoeclub.net/joomla/index.php
+ ?option=com_content&amp;view=article&amp;id=199&amp;Itemid=151">got questio
+ ns</a> or have any problems, please <a href="http://maidstonecanoeclub.net/
+ joomla/index.php?option=com_alfcontact&amp;view=alfcontact&amp;Itemid=157">
+ contact us</a> and we'll do our best to help.</p><p>See you on the water!</
+ p><h3>This course begins on Thursday 27th April</h3><p>&nbsp;</p>
+DTSTAMP:20230907T104537Z
+DTSTART;TZID=Europe/London:20230511T180000
+DTEND;TZID=Europe/London:20230511T200000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20170705T180000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ae2294445fcc52d183fb854175ea5407
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20171212T091902
+SUMMARY:Estuary BBQ
+LOCATION:Strand
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nPaddle from the Strand to Darnet Island, set up camp, light BBQs, light
+  bonfire, eat and drink, chat and then bed, more details below. Also see de
+ tails about parking overnight at the strand here Parking Notice &nbsp; &nbs
+ p; &nbsp; &nbsp; that you will need to print off fill in and place on your 
+ dash with two tickets &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\n\n\n&nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MAIDSTONE CANO CLUB\n\n\n&nbsp;&nbsp;&n
+ bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+ ;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proudly presents our annu
+ al :-\n\n\n&nbsp;\n\n\nTHE MEDWAY ESTUARY BARBEQUE\n\n\n&nbsp;\nFriday 6th 
+ July 2018\n\nPlease Note: We will need a sharp 6:45pm get-away from Gilling
+ ham Strand.\n\n\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
+ p; Also – The car Park is now Pay and Display. Needs checking out.\n\n\nArr
+ angements:-\n\n\nMeet at the Strand Car Park, Gillingham from 6.00pm. (18:0
+ 0) onwards.\n\n\nAt 6:45pm sharp …Paddle across to one of the Estuary Islan
+ ds on a long summer evening and cook your Bangers and Burgers on an open dr
+ iftwood fire. Bivouac overnight under the stars and return the next day.\n\
+ n\nAll paddlers with some experience are welcome, just bring your own food 
+ and drink, something to paddle over in and some warm clothing (just in case
+ !).\n\n\nNote: Be prepared for Muddy portages at get out (Fri) and put-in (
+ Sat) although this will be minimised by arriving and leaving near high tide
+ s.\n\n\nProposed departure from Strand 6.45pm (18:45) Friday\n\n\n…. and re
+ turn 08:00 Sat morning. \n\n\nPlease remember that EVERYTHING you take (cam
+ ping things, cooking things, clothing etc) MUST FIT INSIDE YOUR CANOE/KAYAK
+ !\n\n\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+ bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+ ;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+ bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+ ;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+ bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+ ;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n\nNo
+ te: &nbsp;&nbsp;&nbsp;&nbsp; HIGH TIDE (Fri 06/07/18)&nbsp;&nbsp;&nbsp;&nbs
+ p;&nbsp;&nbsp; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 19:30 approx.\n\
+ n\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LOW TIDE (Sat 07/
+ 07/18)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
+ nbsp;&nbsp; 02:30 approx.\n\n\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+ bsp;&nbsp; HIGH TIDE (Sat 07/07/18)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp;&n
+ bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 08:00 approx\n\n\n&nbsp;&nbsp;&nbsp;&nbs
+ p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
+ nbsp;&nbsp;\n\n\nFor further information please contact Norman Brooks on Te
+ l. No. 01634 241350,\n\n\ne-mail: normanwbrooks@yahoo.co.uk&nbsp; or contac
+ t any MCC Committee Member\n
+CONTACT:Norman normanwbrooks@yahoo.co.uk 
+DTSTAMP:20230907T152358Z
+DTSTART;TZID=Europe/London:20180706T180000
+DTEND;TZID=Europe/London:20180707T100000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

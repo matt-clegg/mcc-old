@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20191102T180000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:aa2394957db554cb6f914d37ec7ddf25
+CATEGORIES:Social Events
+CREATED:20201016T162822
+SUMMARY:CANCELLED: Paddlefit - Fitness for Kayaking
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter’s St\, Maidstone
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nCancelled for the obvious reason.&nbsp; Please contact me if you want s
+ ome suggested exercises to work through during lockdown 2.0.\nTo get the mo
+ st from our kayaking, we need to keep reasonably fit - whether that's for a
+  long summer paddle on the Medway, an overnight trip in sea kayaks or a wee
+ kend blast on whitewater. &nbsp;But it's hard to stay motivated during the 
+ winter months - so you should sign up for these Paddlefit Session!\nEach we
+ ek, we'll do some stretches before getting in the boats and working through
+  a series of exercises designed to build strength and stamina. &nbsp;We'll 
+ try to work at a pace which suits everyone - you won't get left behind - bu
+ t you'll get the most out of the sessions if you've got some basic skills a
+ nd are comfortable edging the boat, paddling sideways, etc.&nbsp;\nThese se
+ ssions will particularly benefit paddlers in dynamic environments - whitewa
+ ter, sea kayaking etc. - but are suitable for all disciplines.&nbsp;\n\n\nN
+ ote this is&nbsp;not&nbsp;a coached session. &nbsp;I'll have some suggested
+  exercises to work through, but I'm not a fitness coach.\n
+CONTACT:Mark Corti, mark@maidstonecanoeclub.net
+DTSTAMP:20230907T144404Z
+DTSTART;TZID=Europe/London:20201102T180000
+DTEND;TZID=Europe/London:20201102T193000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

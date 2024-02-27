@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20201008T100000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a6422b1c0a657dca9da1183a20e8fc3f
+CATEGORIES:Coaching
+CREATED:20210821T143429
+SUMMARY:Kids-Only Beginner Course - Sessions 1 & 2
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nThis is our Kids-Only Beginner Course! &nbsp;Open to all kids aged 8 - 
+ 11 - loads of fun, games and getting wet - plus you'll learn to paddle and 
+ be able to join our legendary Junior Paddle Club!\n\n\nPlease note all cour
+ ses must be pre-booked - all novice paddlers must attend one of our beginne
+ r courses. &nbsp;Full details of the courses and how to get involved in pad
+ dling (including how to join the Club if you're already an experience paddl
+ er) are available on this page - please take a look if you haven't already.
+ \n\n\nOur courses cost £45 for children, and are run by our friendly qualif
+ ied coaches. &nbsp;They consist of 8 hours coaching time - either 4 x two-h
+ our sessions, 2 x four-hour sessions, or occasionally 1 x eight-hour sessio
+ n- and follow the syllabus for the nationally-recognised&nbsp;British Canoe
+ ing Discover Award.\n\n\nYour coaches for this course will be John Simmonds
+  and&nbsp;Lee Horton.&nbsp; &nbsp; The dates for this course are:\nSessions
+  1 &amp; 2 : Saturday 9th OctoberSessions 3 &amp; 4 : Sunday 10th October\n
+ \nPlease arrive at 9:30am - we will aim to be on the water by 10:00am.&nbsp
+ ; Please make sure you've read our "What to Wear" page, and please bring a 
+ snack! &nbsp;(Snacks should be OK to be put in a damp pocket - either in so
+ me kind of waterproof wrapper, like a cereal bar or a packet of crisps, or 
+ fruit or similar)\n\n\nIf you'd like to attend the course, please fill out 
+ the form below to sign up. &nbsp;If you've got questions or have any proble
+ ms, please contact us and we'll do our best to help.\n\n\nSee you on the wa
+ ter!\nThis course begins on&nbsp;Saturday 9th October\n\n&nbsp;\n
+DTSTAMP:20230907T144922Z
+DTSTART;TZID=Europe/London:20211009T100000
+DTEND;TZID=Europe/London:20211009T130000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20220707T090000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2728fb2a2abfb21ddcf5e8b680c2e327
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20230505T080723
+SUMMARY:River Thames Walton Bridge Trip (Peer/led paddle)
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>This trip is for all abilities (you must be able to paddle in a straight
+  line confidently and use a spray deck) especially those wishing to experie
+ nce a little flow and some portaging over locks.</p><p>We will paddle up ri
+ ver against the flow towards Staines and see how far we get then drift back
+  to Shepperton.&nbsp;</p><p>Bring lunch and ample drink and dress for the c
+ onditions.&nbsp;</p><p>Meet in the car park near the Wilde Brunch Cafe at W
+ alton Bridge, KT12 1QP at 9am. No set time to arrive back. Car parking look
+ s like it is free here.</p><p>Please try to car share and be less of a burd
+ en on the environment.</p><p>Club boats may be bowwowed for this day trip. 
+ Please return ready for the Sunday morning regular paddle.</p><p>Contact Al
+ an Nevard if you need more info <a href="mailto:alannevard@btinternet.com" 
+ target="_blank">alannevard@btinternet.com</a>&nbsp;07384 836480</p>
+DTSTAMP:20230907T104830Z
+DTSTART;TZID=Europe/London:20230708T090000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20200420T173000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:de9f975908b11711c01b5d6cced1bd8e
+CATEGORIES:Coaching
+CREATED:20210402T142336
+SUMMARY:Beginner Course - Session 3
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nPaddle with us! &nbsp;If you're thinking of joining Maidstone Canoe Clu
+ b and learning to paddle, you're in the right place! &nbsp;Our beginner's c
+ ourses are designed to give you the basic skills to control the boat. &nbsp
+ ;Once you've completed the course, you'll have the confidence and abilities
+  to join us on our trips, tours and regular paddles on the Medway and beyon
+ d.\n\n\n&nbsp;\n\n\nCOVID-19 UPDATE: The safety of our course participants,
+  coaches and Club members is paramount during the current lockdown.&nbsp; I
+ n line with guidance from both the Department of Health and our governing b
+ ody, British Canoeing, we have introduced a number of measures aimed at kee
+ ping everyone safe both on and off the water.&nbsp; This includes disinfect
+ ing boats, paddles and other equipment, altering our processes and procedur
+ es to enforce social distancing, and other measures.&nbsp; Please click her
+ e to read about the precautions we currently have in place.&nbsp; This mean
+ s there are some limitations in what we are allowed to offer:\n\n\nPlease r
+ ead:\n\n - Al fresco changing rooms.&nbsp; Unfortunately we are not allowed
+  to open our Clubhouse changing rooms.&nbsp; Please arrive dressed to paddl
+ e, and bring a large towel, plastic bag etc. to cover your car seat with in
+  case you are damp on the way home.&nbsp; (You may alternatively choose to 
+ change in the car park).&nbsp; There are toilets available, but not for cha
+ nging in!\n - No kitchen facilities.&nbsp;&nbsp;Please make sure you bring 
+ drinks / snacks / lunch as appropriate for the duration of your course.\n\n
+ &nbsp;\n\n\nPlease note all courses must be pre-booked - all novice paddler
+ s must attend one of our beginner courses. &nbsp;Full details of the course
+ s and how to get involved in paddling (including how to join the Club if yo
+ u're already an experience paddler) are available on this page - please tak
+ e a look if you haven't already.\n\n\nOur courses cost £65 for adults and £
+ 45 for children, and are run by our friendly qualified coaches. &nbsp;They 
+ consist of 8 hours coaching time - either 4 x two-hour sessions, 2 x four-h
+ our sessions, or occasionally 1 x eight-hour session- and follow the syllab
+ us for the nationally-recognised&nbsp;British Canoeing Discover Award.\n\n\
+ nYour coaches for this course will be&nbsp;&nbsp;John Simmonds.&nbsp; &nbsp
+ ; The dates for this course are:\nSession 1: Monday 19th AprilSession 2: Tu
+ esday 20th AprilSession 3: Wednesday 21st AprilSession 4: Thursday 22nd Apr
+ il\n\nIf you can't attend one of the sessions, please let the coach know an
+ d we'll try to fit you in another time. &nbsp;Please arrive at 5:00pm - we 
+ will aim to be on the water by 5:30pm.&nbsp; Please make sure you've read o
+ ur "What to Wear" page!\n\n\nIf you'd like to attend the course, please fil
+ l out the form below to sign up. &nbsp;If you've got questions or have any 
+ problems, please contact us and we'll do our best to help.\n\n\nSee you on 
+ the water!\nThis course begins on Monday, 19th April\n\n&nbsp;\n
+DTSTAMP:20230907T144521Z
+DTSTART;TZID=Europe/London:20210421T173000
+DTEND;TZID=Europe/London:20210421T193000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

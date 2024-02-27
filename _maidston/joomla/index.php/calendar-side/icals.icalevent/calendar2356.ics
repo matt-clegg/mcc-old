@@ -1,0 +1,259 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20130314T200000
+RDATE:20130331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20131027T010000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20141026T010000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20130331T020000
+RDATE:20131027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20141026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6c5bfe9047876d62f4a6c7932897e542
+CATEGORIES:Pool Sessions
+CREATED:20131220T154124
+SUMMARY:pool session 
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<table class="contentpaneopen" style="border: 0px currentColor; border-imag
+ e: none;"><tbody><tr align="left" valign="top"><td colspan="4"><table class
+ ="contentpaneopen" style="border: 0px currentColor; border-image: none;"><t
+ body><tr align="left" valign="top"><td colspan="4"><p style="font-size: 13p
+ x;">Cost: £6 for members, £8 for non-members.  Please bring your membership
+  card with you!</p><p style="font-size: 13px;"><strong style="font-size: 13
+ px; background-color: #ffffff;">Please ensure that your boat is clean insid
+ e and out. Boats will be inspected prior to entry, and unclean boats will b
+ e turned away.</strong></p><p style="font-size: 13px;">Club boats can be us
+ ed for these sessions, but you'll need to make arrangements for getting one
+  up there.  Boats must be returned by Sunday morning.  Please contact Richa
+ rd Clark, the general paddling Bosun,<span><span style="color: #606f79;" co
+ lor="#606f79"> </span><span style="font-size: 13px;">if you would like to t
+ ake a club boat.</span> Boat cleaning at the club from 16:00 on the day for
+  the pool sessioon</span></p><p style="font-size: 13px;">No seal launching 
+ - please keep the poolside clean.</p><h3 style="line-height: 41px; font-siz
+ e: 23px;"><cufon class="cufon cufon-canvas" style="width: 87px; height: 23p
+ x;" alt="Please "><cufontext style="left: -6px; top: -6px; width: 126px; he
+ ight: 29px;">Please </cufontext></cufon><cufon class="cufon cufon-canvas" s
+ tyle="width: 91px; height: 19.8px;" alt="respect "><cufontext>respect </cuf
+ ontext></cufon><cufon class="cufon cufon-canvas" style="width: 47px; height
+ : 19.8px;" alt="the "><cufontext>the </cufontext></cufon><cufon class="cufo
+ n cufon-canvas" style="width: 61px; height: 19.8px;" alt="pool "><cufontext
+ >pool </cufontext></cufon><cufon class="cufon cufon-canvas" style="width: 3
+ 6px; height: 19.8px;" alt="or "><cufontext>or </cufontext></cufon><cufon cl
+ ass="cufon cufon-canvas" style="width: 37px; height: 19.8px;" alt="we "><cu
+ fontext>we </cufontext></cufon><cufon class="cufon cufon-canvas" style="wid
+ th: 55px; height: 19.8px;" alt="will "><cufontext>will </cufontext></cufon>
+ <cufon class="cufon cufon-canvas" style="width: 55px; height: 19.8px;" alt=
+ "lose "><cufontext>lose </cufontext></cufon><cufon class="cufon cufon-canva
+ s" style="width: 27px; height: 19.8px;" alt="it!"><cufontext>it!</cufontext
+ ></cufon></h3></td></tr><tr><td align="left" class="ev_detail" valign="top"
+  colspan="4"><strong>Location </strong>Larkfield Leisure Centre, New Hythe 
+ Lane, Larkfield, Kent, ME20 6RH</td></tr><tr><td align="left" class="ev_det
+ ail" valign="top" colspan="4"><strong>Contact </strong><a href="mailto:lee@
+ maidstonecanoeclub.net">lee@maidstonecanoeclub.net</a><span><span style="di
+ splay: none;"> // ![DATA[ var prefix = 'ma' + 'il' + 'to'; var path = 'hr' 
+ + 'ef' + '='; var addy8311 = 'lee' + '@'; addy8311 = addy8311 + 'maidstonec
+ anoeclub' + '.' + 'net'; var addy_text8311 = 'This'; document.write('<a>');
+  document.write(addy_text8311); document.write(''); // // ]]> <a href="mail
+ to:lee@maidstonecanoeclub.net"><span style="color: #606f79;" color="#606f79
+ ">This</span></a> // ![DATA[ document.write('<span>'); // ]]> <span style="
+ display: none;">This email address is being protected from spambots. You ne
+ ed JavaScript enabled to view it. // ![DATA[ document.write(''); // ]]> </s
+ pan> email address is being protected from spambots. You need JavaScript en
+ abled to view it. // ![DATA[ document.write(''); // ]]> </span></a></span><
+ /span></td></tr><tr><td align="left" class="ev_detail" valign="top" colspan
+ ="4"> </td></tr></tbody></table></td></tr><tr><td align="left" class="ev_de
+ tail" valign="top" colspan="4"><strong></strong></td></tr><tr><td align="le
+ ft" class="ev_detail" valign="top" colspan="4"> </td></tr></tbody></table>
+DTSTAMP:20230907T121944Z
+DTSTART;TZID=Europe/London:20140315T200000
+DTEND;TZID=Europe/London:20140315T213000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20190806T093000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:575a5c47100a76bbcaf14d5073b27211
+CATEGORIES:Coaching
+CREATED:20200619T142152
+SUMMARY:Beginner Course - Session 1 & 2
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Paddle with us! &nbsp;If you're thinking of joining Maidstone Canoe Club
+  and learning to paddle, you're in the right place! &nbsp;Our beginner's co
+ urses are designed to give you the basic skills to control the boat. &nbsp;
+ Once you've completed the course, you'll have the confidence and abilities 
+ to join us on our trips, tours and regular paddles on the Medway and beyond
+ .</p><p>&nbsp;</p><table style="border: 1px solid #000000;" border="1" fram
+ e="box"><tbody><tr><td><p>COVID-19 UPDATE: The safety of our course partici
+ pants, coaches and Club members is paramount during the current lockdown.&n
+ bsp; In line with guidance from both the Department of Health and our gover
+ ning body, British Canoeing, we have introduced a number of measures aimed 
+ at keeping everyone safe both on and off the water.&nbsp; This includes dis
+ infecting boats, paddles and other equipment, altering our processes and pr
+ ocedures to enforce social distancing, and other measures.&nbsp; Please <a 
+ href="https://www.maidstonecanoeclub.net/joomla/index.php/covid-19-informat
+ ion">click here</a> to read about the precautions we currently have in plac
+ e.&nbsp; This means there are some limitations in what we are allowed to of
+ fer:</p><p><strong>Please read:</strong></p><ol><li><strong>Al fresco chang
+ ing rooms.</strong>&nbsp; Unfortunately we are not allowed to open our Club
+ house changing rooms.&nbsp; Please arrive <a href="https://www.maidstonecan
+ oeclub.net/joomla/index.php?option=com_content&amp;view=article&amp;id=1005
+ &amp;Itemid=1427">dressed to paddle</a>, and bring a large towel, plastic b
+ ag etc. to cover your car seat with in case you are damp on the way home.&n
+ bsp; (You may alternatively choose to change in the car park).&nbsp; There 
+ are toilets available, but not for changing in!</li><li><strong>No children
+  or vulnerable adults.&nbsp;&nbsp;</strong>Currently British Canoeing will 
+ not allow coaching of children or vulnerable adults.&nbsp; This means we ca
+ nnot take anyone under 18 on our courses.</li></ol></td></tr></tbody></tabl
+ e><p>&nbsp;</p><p>Please note all courses must be pre-booked - all novice p
+ addlers must attend one of our beginner courses. &nbsp;Full details of the 
+ courses and how to get involved in paddling (including how to join the Club
+  if you're already an experience paddler) are <a href="http://maidstonecano
+ eclub.net/joomla/index.php?option=com_content&amp;view=article&amp;id=199&a
+ mp;Itemid=151">available on this page</a> - please take a look if you haven
+ 't already.</p><p>Our courses cost £65 for adults and £45 for children, and
+  are run by our friendly qualified coaches. &nbsp;They consist of 8 hours c
+ oaching time - either 4 x two-hour sessions, 2 x four-hour sessions, or occ
+ asionally 1 x eight-hour session<span style="color: #414141; font-family: A
+ rial, Helvetica, sans-serif; font-size: 11px; font-style: normal; font-weig
+ ht: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent:
+  0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0
+ px; background-color: #ffffff; float: none;"></span>- and follow the syllab
+ us for the nationally-recognised&nbsp;<a href="https://gopaddling.info/disc
+ over-awards/" target="_blank" rel="noopener">British Canoeing Discover Awar
+ d</a>.</p><p>Your coaches for this course will be <a href="https://www.maid
+ stonecanoeclub.net/joomla/index.php?option=com_contact&amp;view=contact&amp
+ ;id=49&amp;catid=42">Mike Lambourne</a>.&nbsp; &nbsp; The dates for this co
+ urse are:</p><h3>Session 1 &amp; 2: Thursday 6th August</h3><h3>Session 3 &
+ amp; 4: Friday 7th August</h3><p>If you can't attend one of the sessions, p
+ lease let the coach know and we'll try to fit you in another time. &nbsp;Pl
+ ease arrive at 9:00am - we will aim to be on the water by 9:30am.&nbsp; Ple
+ ase make sure you've read our "<a href="https://www.maidstonecanoeclub.net/
+ joomla/index.php?option=com_content&amp;view=article&amp;id=1005&amp;Itemid
+ =1427">What to Wear</a>" page!</p><p>If you'd like to attend the course, pl
+ ease fill out the form below to sign up. &nbsp;If you've <a href="http://ma
+ idstonecanoeclub.net/joomla/index.php?option=com_content&amp;view=article&a
+ mp;id=199&amp;Itemid=151">got questions</a> or have any problems, please <a
+  href="http://maidstonecanoeclub.net/joomla/index.php?option=com_alfcontact
+ &amp;view=alfcontact&amp;Itemid=157">contact us</a> and we'll do our best t
+ o help.</p><p>See you on the water!</p><h3>This course begins on Thursday, 
+ 6th August</h3><p>&nbsp;</p>
+DTSTAMP:20230907T144026Z
+DTSTART;TZID=Europe/London:20200806T093000
+DTEND;TZID=Europe/London:20200806T150000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

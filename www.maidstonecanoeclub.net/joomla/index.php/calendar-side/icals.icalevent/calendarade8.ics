@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20220929T000000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3b17738add710176466dcaa9286b9d42
+CATEGORIES:Coaching
+CREATED:20230529T204830
+SUMMARY:Introduction to Whitewater Weekend
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>This is a coaching weekend for those new to whitewater.&nbsp; Paddling o
+ n moving water is the most fun you can have in a kayak!&nbsp; We'll give yo
+ u the foundation skills you need to move confidently around the river, brea
+ king and and out of eddies, moving across the flow, and reading the river t
+ o find the best routes.</p><p>We'll be working on the fabulous River Dee, w
+ hich is a lovely Grade 2 river in Llangollen, North Wales.&nbsp; The variet
+ y of features, the gentle nature of the white water here&nbsp; - and the ca
+ fe on the riverbank - make it probably the best training ground for moving 
+ water in the UK.&nbsp;&nbsp;</p><p>Our "Flatwater Skills for Dynamic Water 
+ Progression" is highly recommended before signing up for this course. &nbsp
+ ;Without solid and relevant skills on flatwater you're unlikely to get the 
+ best from the weekend. &nbsp;Please <a href="mailto:mark@maidstonecanoeclub
+ .net">contact Mark</a> before signing up if you haven't completed the flatw
+ ater skills course.</p><p><span style="color: #444444; font-family: 'Helvet
+ ica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-style: norma
+ l; font-weight: normal; letter-spacing: normal; text-align: start; text-ind
+ ent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; bac
+ kground-color: #ffffff; text-decoration: none; float: none;">Accomodation d
+ etails TBC but will likely be in a bunkhouse nearby.</span></p><p>See you t
+ here - it will be a huge amount of fun!</p><p><strong>Note</strong>: any co
+ sts will be for accomodation only - all coaching is free at Maidstone Canoe
+  Club. &nbsp;The £10 below is a deposit to reserve your space and will be p
+ ut towards your accomodation.</p>
+CONTACT:Mark Corti, mark@maidstonecanoeclub.net
+DTSTAMP:20230907T080801Z
+DTSTART;TZID=Europe/London;VALUE=DATE:20230930
+DTEND;TZID=Europe/London;VALUE=DATE:20231002
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

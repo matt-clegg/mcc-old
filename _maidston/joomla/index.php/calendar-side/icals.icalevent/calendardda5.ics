@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20211014T000000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:89d40df0c9e58354d9b70241e141f009
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20220901T191645
+SUMMARY:Exe & Barle Trip 2022
+LOCATION:Exe Valley Caravan Site\, Bridgetown\, TA22 9JN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:The Exe &amp; Barle Trip is back!\n\n\n\n\nStaying at the Exe Valley Carava
+ n Site in Bridgetown near Dulverton and paddling the River Exe and Barle pr
+ edominately, this yearly occurring trip has been the first whitewater trip 
+ for many members at the club! The rivers are grade 1 to 2 unless in spate b
+ ut are unlikely to be big this year due to the lack of rain (so everyone ne
+ eds to do their rain dancing).\n\n\nWe tend to travel down at varying times
+  on the Friday and leave straight from the paddle on the Sunday, 2 nights o
+ f camping so bring your tents, food and any other provisions. Usually we ea
+ t out on the Friday (if you arrive in time) and Saturday night at the local
+  hostelry, the Badgers Holt is walking distance if open. Price per night to
+  camp is £5.50 per person with electric hook-ups at £4 per day.\n\n\nThis t
+ rip will hopefully run as a peer paddle AND a led group for the less experi
+ enced/first timers. If you want to be led you will need to sign up for the 
+ event to make sure we have enough river leader cover. The trip is suitable 
+ for anyone who has whitewater experience at this grade (Lee Valley assessme
+ nt or Intro' to Whitewater course attendees) but is not a coached trip and 
+ therefore no newbies to moving water I'm afraid. If you are unsure please c
+ ontact me before booking: chairman@maidstonecanoeclub.net\n\n\nIf you are o
+ ld hands and able to join the peer paddlers please just drop me an email so
+  I have an idea of numbers. ONLY BOOK ON HERE IF YOU REQUIRE TO BE LED. The
+ re will be limited numbers available in the booking section so please leave
+  them for the less experienced. Any queries, again feel free to email me:&n
+ bsp;chairman@maidstonecanoeclub.net\n\n\nThis is a classic easy whitewater 
+ trip, so the more the merrier. Don't forget this is still moving water and 
+ you will require a suitable boat (ask the bosun if you want to use a club b
+ oat), helmet, bouyancy aid, spray deck and suitable clothing depending on t
+ he weather. We will be eating lunch at locations down the rivers and so you
+  will need to carry whatever you wish to eat (so waterproof containers etc)
+ .\n\n\n&nbsp;\n
+CONTACT:John Simmonds
+DTSTAMP:20230907T102707Z
+DTSTART;TZID=Europe/London;VALUE=DATE:20221015
+DTEND;TZID=Europe/London;VALUE=DATE:20221017
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

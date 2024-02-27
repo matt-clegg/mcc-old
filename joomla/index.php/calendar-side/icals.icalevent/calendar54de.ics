@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20220331T090000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bd8eb9ea82665037150d69c10ca43296
+CATEGORIES:Coaching
+CREATED:19700101T010000
+SUMMARY:Touring Award
+LOCATION:TBC
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p><strong>(Please note new date - previously 15/16 April, new date 1/2 Apr
+ il)</strong></p><p>If you've done your Explore Award and are mostly paddlin
+ g your kayak on flat water, it's time to expand your horizons! &nbsp;The To
+ uring Award will add skills and knowledge to your toolbox, and encourage yo
+ u to explore other rivers, lakes and estuaries. &nbsp;</p><p>In the words o
+ f British Canoeing, it will "<em>endorse your skill, judgment and decision 
+ making required to have a successful day on a river or estuary. You will be
+  confident in planning and undertaking journeys with proficient skills to b
+ e in control throughout. Your award should be seen as a sound basis for bui
+ lding the experience and knowledge associated with the Open Water Touring A
+ ward holders.</em>"</p><p>Final location and meeting points to be confirmed
+  nearer the time but may include Oare Marshes, Bewl Water, Swale, etc.</p><
+ p>&nbsp;</p><p><strong>&nbsp;</strong></p>
+CONTACT:Mark Corti, mark@maidstonecanoeclub.net
+DTSTAMP:20230907T104422Z
+DTSTART;TZID=Europe/London:20230401T090000
+DTEND;TZID=Europe/London:20230401T170000
+SEQUENCE:0
+RRULE:FREQ=DAILY;COUNT=2;INTERVAL=1
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

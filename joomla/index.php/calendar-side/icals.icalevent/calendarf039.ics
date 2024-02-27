@@ -1,0 +1,274 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150910T123000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:de62389bcb9490668d94b8f014b70845
+CATEGORIES:Coaching
+CREATED:19700101T010000
+SUMMARY:Beginner Course - Session 1 & 2
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:Beginner's Course for Club Newcomers\n\nPaddle with us!  If you're thinking
+  of joining Maidstone Canoe Club and learning to paddle, you're in the righ
+ t place!  This 4-week Beginner's Course is designed to give you the basic s
+ kills to control the boat.  Once you've completed the course, you'll have t
+ he confidence and abilities to join us on our trips, tours, and regular pad
+ dles on the Medway and beyond.\n\n\nPlease note that courses must be pre-bo
+ oked.  We are no longer running "open" sessions - all novice paddlers must 
+ attend one of our Introductory Courses.  Please see this page for details.\
+ n\n\nFull details of the courses and how to get involved in paddling at the
+  Club are available on this page - please take a look if you haven't alread
+ y done so.\n\n\nOur courses cost £60 for adults and £40 for children, and a
+ re run by our friendly qualified coaches.  They consist of four 2-hour sess
+ ions.  \n\n\nYour coaches for this Course will be Mary Cutts.  This is a tw
+ o-day course - the dates for this course are:\n Sessions 1 & 2Saturday 10th
+  Sept Sessions 3 & 4Sunday 11th Sept\n\n \n\n\nIf you can't attend one of t
+ he sessions, please let one of the coaches know and we'll try to fit you in
+  another time.  Please arrive at 8:30am - we will aim to be on the water by
+  9:00am.\n\n\nIf you'd like to attend this course, please fill out the form
+  below to sign up.  If you've got questions or have any problems, please co
+ ntact us and we'll do our best to help.\n\n\nSee you on the water!\n\n\n \n
+ This course runs on Saturday 10th Sept and Sunday, 11th Sept
+CONTACT:event.bookings@maidstonecanoeclub.net
+DTSTAMP:20230907T090250Z
+DTSTART;TZID=Europe/London:20160910T123000
+DTEND;TZID=Europe/London:20160910T170000
+SEQUENCE:0
+RRULE:FREQ=DAILY;COUNT=2;INTERVAL=1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:de62389bcb9490668d94b8f014b70845
+CATEGORIES:Coaching
+CREATED:20160606T112358
+SUMMARY:Beginner Course - Session 3 & 4
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:Beginner's Course for Club Newcomers\n\nPaddle with us! &nbsp;If you're thi
+ nking of joining Maidstone Canoe Club and learning to paddle, you're in the
+  right place! &nbsp;This 4-week Beginner's Course is designed to give you t
+ he basic skills to control the boat. &nbsp;Once you've completed the course
+ , you'll have the confidence and abilities to join us on our trips, tours, 
+ and regular paddles on the Medway and beyond.\n\n\nPlease note that courses
+ &nbsp;must be pre-booked. &nbsp;We are no longer running "open" sessions - 
+ all novice paddlers must attend one of our Introductory Courses. &nbsp;Plea
+ se see this page for details.\n\n\nFull details of the courses and how to g
+ et involved in paddling at the Club are available on this page - please tak
+ e a look if you haven't already done so.\n\n\nOur courses cost &pound;60 fo
+ r adults and &pound;40 for children, and are run by our friendly qualified 
+ coaches. &nbsp;They consist of four 2-hour sessions. &nbsp;\n\n\nYour coach
+ es for this Course will be Mary Cutts. &nbsp;This is a two-day course - the
+  dates for this course are:\n&nbsp;Sessions 1 &amp; 2Saturday 10th Sept&nbs
+ p;Sessions 3 &amp; 4Sunday 11th Sept\n\n&nbsp;\n\n\nIf you can't attend one
+  of the sessions, please let one of the coaches know and we'll try to fit y
+ ou in another time. &nbsp;Please arrive at 12:00pm - we will aim to be on t
+ he water by 12:30pm.\n\n\nIf you'd like to attend this course, please fill 
+ out the form below to sign up. &nbsp;If you've got questions or have any pr
+ oblems, please contact us and we'll do our best to help.\n\n\nSee you on th
+ e water!\n\n\n&nbsp;\nThis course runs on Saturday 10th Sept and Sunday, 11
+ th Sept
+CONTACT:event.bookings@maidstonecanoeclub.net
+
+DTSTAMP:20230907T090250Z
+DTSTART;TZID=Europe/London:20160911T123000
+DTEND;TZID=Europe/London:20160911T170000
+RECURRENCE-ID;TZID=Europe/London:20160911T123000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:de62389bcb9490668d94b8f014b70845
+CATEGORIES:Coaching
+CREATED:20160606T112358
+SUMMARY:Beginner Course - Session 1 & 2
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:Beginner's Course for Club Newcomers\n\nPaddle with us! &nbsp;If you're thi
+ nking of joining Maidstone Canoe Club and learning to paddle, you're in the
+  right place! &nbsp;This 4-week Beginner's Course is designed to give you t
+ he basic skills to control the boat. &nbsp;Once you've completed the course
+ , you'll have the confidence and abilities to join us on our trips, tours, 
+ and regular paddles on the Medway and beyond.\n\n\nPlease note that courses
+ &nbsp;must be pre-booked. &nbsp;We are no longer running "open" sessions - 
+ all novice paddlers must attend one of our Introductory Courses. &nbsp;Plea
+ se see this page for details.\n\n\nFull details of the courses and how to g
+ et involved in paddling at the Club are available on this page - please tak
+ e a look if you haven't already done so.\n\n\nOur courses cost &pound;60 fo
+ r adults and &pound;40 for children, and are run by our friendly qualified 
+ coaches. &nbsp;They consist of four 2-hour sessions. &nbsp;\n\n\nYour coach
+ es for this Course will be Mary Cutts. &nbsp;This is a two-day course - the
+  dates for this course are:\n&nbsp;Sessions 1 &amp; 2Saturday 10th Sept&nbs
+ p;Sessions 3 &amp; 4Sunday 11th Sept\n\n&nbsp;\n\n\nIf you can't attend one
+  of the sessions, please let one of the coaches know and we'll try to fit y
+ ou in another time. &nbsp;Please arrive at 12:00pm - we will aim to be on t
+ he water by 12:30pm.\n\n\nIf you'd like to attend this course, please fill 
+ out the form below to sign up. &nbsp;If you've got questions or have any pr
+ oblems, please contact us and we'll do our best to help.\n\n\nSee you on th
+ e water!\n\n\n&nbsp;\nThis course runs on Saturday 10th Sept and Sunday, 11
+ th Sept
+CONTACT:event.bookings@maidstonecanoeclub.net
+
+DTSTAMP:20230907T090250Z
+DTSTART;TZID=Europe/London:20160910T123000
+DTEND;TZID=Europe/London:20160910T170000
+RECURRENCE-ID;TZID=Europe/London:20160910T123000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

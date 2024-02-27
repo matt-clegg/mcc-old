@@ -1,0 +1,90 @@
+/* graybarfaq faq layout */
+#accordion1.graybarfaq div.accordionfaqitem
+{
+	margin-top: 0px !important;
+}
+#accordion1.graybarfaq.contentborder div.accordionfaqitem
+{
+	border: 1px solid #cccccc;
+}
+#accordion1.graybarfaq.contentbackground div.accordionfaqitem
+{
+	background-color: #fdfdfd;
+}
+#accordion1.graybarfaq .accordionfaqheader
+{
+	margin: 0px 0px 3px !important;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#accordion1.graybarfaq .accordionfaqheader,
+#accordion1.graybarfaq .accordionfaqheader a
+{
+	font-weight: bold;
+	color: #666666;
+	font-size: 105%;
+}
+#accordion1.graybarfaq.headerborder .accordionfaqheader
+{
+	border:1px solid #cccccc;
+}
+#accordion1.graybarfaq .accordionfaqheader a,
+#accordion1.graybarfaq .accordionfaqheader a:hover,
+#accordion1.graybarfaq .accordionfaqheader a:active,
+#accordion1.graybarfaq .accordionfaqheader a:focus
+{
+	text-decoration: none;
+	background-color: transparent;
+}
+#accordion1.graybarfaq .accordionfaqheader:hover,
+#accordion1.graybarfaq .accordionfaqheader:hover a,
+#accordion1.graybarfaq .accordionfaqheader.selected,
+#accordion1.graybarfaq .accordionfaqheader.selected a
+{
+	background-color: transparent;
+}
+#accordion1.graybarfaq.headerbackground .accordionfaqheader,
+#accordion1.graybarfaq.headerbackground .accordionfaqheader a,
+#accordion1.graybarfaq.headerbackground .accordionfaqheader:hover,
+#accordion1.graybarfaq.headerbackground .accordionfaqheader:hover a,
+#accordion1.graybarfaq.headerbackground .accordionfaqheader.selected,
+#accordion1.graybarfaq.headerbackground .accordionfaqheader.selected a
+{
+	background-color: #F6F6F6;
+}
+#accordion1.graybarfaq .accordionfaqheader.selected
+{
+	margin-bottom: -1px !important;
+}
+#accordion1.graybarfaq.defaulticon span.accordionfaqicon
+{
+	background-attachment: scroll;
+	background-image: url(../images/arrow.png);
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	width: 16px;
+	height:16px;
+}
+#accordion1.graybarfaq.rtl.defaulticon span.accordionfaqicon
+{
+	background-image: url(../images/arrow-l.png);
+}
+#accordion1.graybarfaq.defaulticon .accordionfaqheader.selected span.accordionfaqicon,
+#accordion1.graybarfaq.rtl.defaulticon .accordionfaqheader.selected span.accordionfaqicon
+{
+	background-image: url(../images/arrow_down.png);
+	background-position: 50% 50%;
+}
+#accordion1.graybarfaq.arrow .accordionfaqheader:hover span.accordionfaqicon
+{
+	background-image: url(../images/collapsed-black.gif);
+}
+#accordion1.graybarfaq.rtl.arrow .accordionfaqheader:hover span.accordionfaqicon
+{
+	background-image: url(../images/collapsed-black-l.gif);
+}
+#accordion1.graybarfaq.arrow .accordionfaqheader.selected span.accordionfaqicon,
+#accordion1.graybarfaq.rtl.arrow .accordionfaqheader.selected span.accordionfaqicon
+{
+	background-image: url(../images/expanded-black.gif);
+}

@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20220912T100000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8b917f2b2248b01f2c8a3c9610bcc9d6
+CATEGORIES:Beginner Courses
+CREATED:20230805T113449
+SUMMARY:Beginner Course - Session 1 & 2
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nPaddle with us! &nbsp;If you're thinking of joining Maidstone Canoe Clu
+ b and learning to paddle, you're in the right place! &nbsp;Our beginner's c
+ ourses are designed to give you the basic skills to control the boat. &nbsp
+ ;Once you've completed the course, you'll have the confidence and abilities
+  to join us on our trips, tours and regular paddles on the Medway and beyon
+ d.\n\n\nPlease note all courses must be pre-booked - all novice paddlers mu
+ st attend one of our beginner courses. &nbsp;Full details of the courses an
+ d how to get involved in paddling (including how to join the Club if you're
+  already an experience paddler) are available on this page - please take a 
+ look if you haven't already.\n\n\nOur courses cost £65 for adults and £45 f
+ or children, and are run by our friendly qualified coaches. &nbsp;They cons
+ ist of 8 hours coaching time - either 4 x two-hour sessions, 2 x four-hour 
+ sessions, or occasionally 1 x eight-hour session- and follow the syllabus f
+ or the nationally-recognised&nbsp;British Canoeing Discover Award.\n\n\nYou
+ r coaches for this course will be Alan Nevard.&nbsp; &nbsp;It is suitable f
+ or ages 14+. &nbsp;We will be taking a short break for a working lunch, so 
+ please bring a packed lunch..&nbsp;The dates for this course are:\nSession 
+ 1 &amp; 2: Wednesday 13th SeptemberSession 3 &amp; 4: Wednesday 20th Septem
+ ber\n\nIf you can't attend one of the sessions, please let the coach know a
+ nd we'll try to fit you in another time. &nbsp;Please arrive at 9:30am - we
+  will aim to be on the water by 10:00am.&nbsp; Please make sure you've read
+  our "What to Wear" page!\n\n\nIf you'd like to attend the course, please f
+ ill out the form below to sign up. &nbsp;If you've got questions or have an
+ y problems, please contact us and we'll do our best to help.\n\n\nSee you o
+ n the water!\nThis course begins on Wednesday 13th September\n\n&nbsp;\n
+DTSTAMP:20230907T080518Z
+DTSTART;TZID=Europe/London:20230913T100000
+DTEND;TZID=Europe/London:20230913T140000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

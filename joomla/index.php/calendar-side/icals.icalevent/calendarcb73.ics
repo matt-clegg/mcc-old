@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20141026T010000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20140829T100000
+RDATE:20141026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dc66973e37a48280cbe6214d6b9f4862
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20150815T090613
+SUMMARY:Strood to Halling
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Maridian CC are organising this trip, Maidstone members are very welcome
+ , if you are not going to Joss Bay, details:</p><p><em><span style="font-fa
+ mily: 'Trebuchet MS',sans-serif; background: #e1ebf2 none repeat scroll 0% 
+ 0%;">Arrive at Strood Steps, Canal Road, Strood, ME2 4DR at 10.30.</span></
+ em><em><span style="font-family: 'Trebuchet MS',sans-serif;"><br /> <span s
+ tyle="background: #e1ebf2 none repeat scroll 0% 0%;">Please keep cars to a 
+ minimum and the nearest toilets are at Strood Station, if open.</span><br /
+ > <span style="background: #e1ebf2 none repeat scroll 0% 0%;">Launch at 11.
+ 00 and head up river with the incoming tide passing under Rochester and Med
+ way Bridges to Halling or Wouldham (5 miles) to have lunch.</span><br /> <s
+ pan style="background: #e1ebf2 none repeat scroll 0% 0%;">High Water at Wou
+ ldham is at 14.14, so we will leave soon after to catch the tide to take us
+  back to Strood.</span><br /> <span style="background: #e1ebf2 none repeat 
+ scroll 0% 0%;">I plan to arrive back at Strood Steps by 16.00 and return to
+  the boathouse by 17.30.</span><br /> <span style="background: #e1ebf2 none
+  repeat scroll 0% 0%;">Low Water at Strood Pier is at 20.45.</span><br /> <
+ span style="background: #e1ebf2 none repeat scroll 0% 0%;">A chart for Stro
+ od and Rochester is at</span><br /> </span></em><span style="font-family: '
+ Calibri',sans-serif;"><a href="http://www.visitmyharbour.com/harbours/north
+ -kent-swale-medway/medway-marinas/chart/1FFF5C48AE531/medway-gillingham-and
+ -rochester-2012-chart" target="_blank">http://www.visitmyharbour.com/harbou
+ rs/north-kent-swale-medway/medway-marinas/chart/1FFF5C48AE531/medway-gillin
+ gham-and-rochester-2012-chart</a></span><em><span style="font-family: 'Treb
+ uchet MS',sans-serif;"><br /> <span style="background: #e1ebf2 none repeat 
+ scroll 0% 0%;">and for the Medway Valley at  </span></span></em></p><p><spa
+ n style="font-family: 'Calibri',sans-serif;"><a href="http://www.visitmyhar
+ bour.com/harbours/north-kent-swale-medway/medway-inland/chart/35D01284D5061
+ /continuation-of-the-medway-from-rochester-charte" target="_blank">http://w
+ ww.visitmyharbour.com/harbours/north-kent-swale-medway/medway-inland/chart/
+ 35D01284D5061/continuation-of-the-medway-from-rochester-charte</a></span><e
+ m><span style="font-family: 'Trebuchet MS',sans-serif;"><br /> <span style=
+ "background: #e1ebf2 none repeat scroll 0% 0%;">Paddlers should be of a 2* 
+ standard.</span><br /> <span style="background: #e1ebf2 none repeat scroll 
+ 0% 0%;">Photos of last trip are at:-</span><br /> </span></em><span style="
+ font-family: 'Calibri',sans-serif;"><a href="http://www.meridiancanoeclub.c
+ om/phpBB3/viewtopic.php?f=4&t=1300" target="_blank">http://www.meridiancano
+ eclub.com/phpBB3/viewtopic.php?f=4&t=1300</a></span><em><span style="font-f
+ amily: 'Trebuchet MS',sans-serif;"><br /> <span style="background: #e1ebf2 
+ none repeat scroll 0% 0%;">Please note the mud and debris on the shore when
+  launching.</span></span></em></p><p> </p>
+DTSTAMP:20230907T085523Z
+DTSTART;TZID=Europe/London:20150830T100000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

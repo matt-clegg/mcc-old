@@ -1,0 +1,499 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20121028T010000
+RDATE:20130331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20131027T010000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20141026T010000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20120907T093000
+RDATE:20121028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20130331T020000
+RDATE:20131027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20141026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5df19fb09c09c7c8d0cac54e49097305
+CATEGORIES:Coaching
+CREATED:19700101T010000
+SUMMARY:Beginner Course (Open / Canadian Canoes) - Session 1
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<h3>Beginner's Course for Club Newcomers - Canoes</h3><p>Paddle with us!  I
+ f you're thinking of joining Maidstone Canoe Club and learning to paddle, y
+ ou're in the right place!  This 4-week Beginner's Course is designed to giv
+ e you the basic skills to control the boat.  Once you've completed the cour
+ se, you'll have the confidence and abilities to join us on our trips, tours
+ , and regular paddles on the Medway and beyond.</p><p>This course will be p
+ rimarily in open (Canadian-style) canoes, rather than kayaks, although the 
+ kayaking basics will also be covered.  </p><p><strong style="font-size: lar
+ ger;">Please note that courses <em>must</em> be pre-booked.  We are no long
+ er running "open" sessions - all novice paddlers must attend one of our Int
+ roductory Courses.  Please see <a href="http://www.maidstonecanoeclub.net/j
+ oomla/index.php/come-paddle/come-try" target="_blank">this page</a> for det
+ ails.</strong></p><p>Full details of the courses and how to get involved in
+  paddling at the Club are <a href="http://www.maidstonecanoeclub.net/joomla
+ /index.php/come-paddle/come-try" target="_blank">available on this page</a>
+  - please take a look if you haven't already done so.</p><p>Our courses cos
+ t £25, and are run by our friendly qualified coaches.  They consist of four
+  2-hour sessions.  (Note the cost is £25 for the whole course - not £25 per
+  session!)</p><p>Your coaches for this Course will be <a href="http://www.m
+ aidstonecanoeclub.net/joomla/index.php?option=com_contact&view=contact&cati
+ d=42:coaches&id=26-jamie-mcconville" target="_blank">Jamie McConville</a>. 
+  The dates for this course are:</p><p><table border="3" style="width: 238px
+ ; border: 3px solid #000000;" center="" frame="border" rules="all" cellpadd
+ ing="2"><tbody><tr><td><strong>Session 1</strong></td><td><strong>8th Septe
+ mber</strong></td></tr><tr><td><strong>Session 2</strong></td><td><strong>1
+ 5th <strong style="font-size: 13px; background-color: #ffffff; color: #0000
+ 00; line-height: normal;">September</strong></strong></td></tr><tr><td><str
+ ong>Session 3</strong></td><td><strong>22nd <strong style="font-size: 13px;
+  background-color: #ffffff; color: #000000; line-height: normal;">September
+ </strong></strong></td></tr><tr><td><strong>Session 4</strong></td><td><str
+ ong>29th <strong style="font-size: 13px; background-color: #ffffff; color: 
+ #000000; line-height: normal;">September</strong></strong></td></tr></tbody
+ ></table><span style="line-height: normal;"></span></p><p>If you can't atte
+ nd one of the sessions, please let one of the coaches know and we'll try to
+  fit you in another time.  Please arrive at 9:30am - we will aim to be on t
+ he water by 10:00am.</p><p>If you'd like to attend this course, please fill
+  out the form below to sign up.  If you've <a href="http://www.maidstonecan
+ oeclub.net/joomla/index.php/come-paddle/come-try">got questions</a> or have
+  any problems, please <a href="http://www.maidstonecanoeclub.net/joomla/ind
+ ex.php/2012-05-01-19-15-08/contact-us">contact us</a> and we'll do our best
+  to help.</p><p>See you on the water!</p><p> </p><h2>This course begins on 
+ Sunday, 8th September</h2>
+CONTACT:event.bookings@maidstonecanoeclub.net
+DTSTAMP:20230907T084047Z
+DTSTART;TZID=Europe/London:20130908T093000
+DTEND;TZID=Europe/London:20130908T120000
+SEQUENCE:0
+RRULE:FREQ=WEEKLY;COUNT=4;INTERVAL=1;BYDAY=SU
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5df19fb09c09c7c8d0cac54e49097305
+CATEGORIES:Coaching
+CREATED:20130704T095507
+SUMMARY:Beginner Course (Open / Canadian Canoes) - Session 2
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<h3>Beginner's Course for Club Newcomers - Canoes</h3><p>Paddle with us! &n
+ bsp;If you're thinking of joining Maidstone Canoe Club and learning to padd
+ le, you're in the right place! &nbsp;This 4-week Beginner's Course is desig
+ ned to give you the basic skills to control the boat. &nbsp;Once you've com
+ pleted the course, you'll have the confidence and abilities to join us on o
+ ur trips, tours, and regular paddles on the Medway and beyond.</p><p>This c
+ ourse will be primarily in open (Canadian-style) canoes, rather than kayaks
+ , although the kayaking basics will also be covered. &nbsp;</p><p><strong s
+ tyle="font-size: larger;">Please note that courses&nbsp;<em>must</em> be pr
+ e-booked. &nbsp;We are no longer running "open" sessions - all novice paddl
+ ers must attend one of our Introductory Courses. &nbsp;Please see <a href="
+ http://www.maidstonecanoeclub.net/joomla/index.php/come-paddle/come-try" ta
+ rget="_blank">this page</a> for details.</strong></p><p>Full details of the
+  courses and how to get involved in paddling at the Club are <a href="http:
+ //www.maidstonecanoeclub.net/joomla/index.php/come-paddle/come-try" target=
+ "_blank">available on this page</a> - please take a look if you haven't alr
+ eady done so.</p><p>Our courses cost £25, and are run by our friendly quali
+ fied coaches. &nbsp;They consist of four 2-hour sessions. &nbsp;(Note the c
+ ost is £25 for the whole course - not £25 per session!)</p><p>Your coaches 
+ for this Course will be <a href="http://www.maidstonecanoeclub.net/joomla/i
+ ndex.php?option=com_contact&amp;view=contact&amp;catid=42:coaches&amp;id=26
+ -jamie-mcconville" target="_blank">Jamie McConville</a>.&nbsp; The dates fo
+ r this course are:</p><p><table border="3" style="width: 238px; border: 3px
+  solid #000000;" center="" frame="border" rules="all" cellpadding="2"><tbod
+ y><tr><td><strong>Session 1</strong></td><td><strong>8th September</strong>
+ </td></tr><tr><td><strong>Session 2</strong></td><td><strong>15th&nbsp;<str
+ ong style="font-size: 13px; background-color: #ffffff; color: #000000; line
+ -height: normal;">September</strong></strong></td></tr><tr><td><strong>Sess
+ ion 3</strong></td><td><strong>22nd&nbsp;<strong style="font-size: 13px; ba
+ ckground-color: #ffffff; color: #000000; line-height: normal;">September</s
+ trong></strong></td></tr><tr><td><strong>Session 4</strong></td><td><strong
+ >29th&nbsp;<strong style="font-size: 13px; background-color: #ffffff; color
+ : #000000; line-height: normal;">September</strong></strong></td></tr></tbo
+ dy></table><span style="line-height: normal;"></span></p><p><span style="fo
+ nt-size: 13px; background-color: #ffffff;">Boats used for this session: ope
+ n boats</span></p><p>If you can't attend one of the sessions, please let on
+ e of the coaches know and we'll try to fit you in another time. &nbsp;Pleas
+ e arrive at 9:30am - we will aim to be on the water by 10:00am.</p><p>If yo
+ u'd like to attend this course, please fill out the form below to sign up. 
+ &nbsp;If you've <a href="http://www.maidstonecanoeclub.net/joomla/index.php
+ /come-paddle/come-try">got questions</a> or have any problems, please <a hr
+ ef="http://www.maidstonecanoeclub.net/joomla/index.php/2012-05-01-19-15-08/
+ contact-us">contact us</a> and we'll do our best to help.</p><p>See you on 
+ the water!</p><p>&nbsp;</p><h2>This course begins on Sunday, 8th September<
+ /h2>
+CONTACT:event.bookings@maidstonecanoeclub.net
+
+DTSTAMP:20230907T084047Z
+DTSTART;TZID=Europe/London:20130915T093000
+DTEND;TZID=Europe/London:20130915T120000
+RECURRENCE-ID;TZID=Europe/London:20130915T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5df19fb09c09c7c8d0cac54e49097305
+CATEGORIES:Coaching
+CREATED:20130704T095507
+SUMMARY:Beginner Course (Open / Canadian Canoes) - Session 3
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<h3>Beginner's Course for Club Newcomers - Canoes</h3><p>Paddle with us! &n
+ bsp;If you're thinking of joining Maidstone Canoe Club and learning to padd
+ le, you're in the right place! &nbsp;This 4-week Beginner's Course is desig
+ ned to give you the basic skills to control the boat. &nbsp;Once you've com
+ pleted the course, you'll have the confidence and abilities to join us on o
+ ur trips, tours, and regular paddles on the Medway and beyond.</p><p>This c
+ ourse will be primarily in open (Canadian-style) canoes, rather than kayaks
+ , although the kayaking basics will also be covered. &nbsp;</p><p><strong s
+ tyle="font-size: larger;">Please note that courses&nbsp;<em>must</em> be pr
+ e-booked. &nbsp;We are no longer running "open" sessions - all novice paddl
+ ers must attend one of our Introductory Courses. &nbsp;Please see <a href="
+ http://www.maidstonecanoeclub.net/joomla/index.php/come-paddle/come-try" ta
+ rget="_blank">this page</a> for details.</strong></p><p>Full details of the
+  courses and how to get involved in paddling at the Club are <a href="http:
+ //www.maidstonecanoeclub.net/joomla/index.php/come-paddle/come-try" target=
+ "_blank">available on this page</a> - please take a look if you haven't alr
+ eady done so.</p><p>Our courses cost £25, and are run by our friendly quali
+ fied coaches. &nbsp;They consist of four 2-hour sessions. &nbsp;(Note the c
+ ost is £25 for the whole course - not £25 per session!)</p><p>Your coaches 
+ for this Course will be <a href="http://www.maidstonecanoeclub.net/joomla/i
+ ndex.php?option=com_contact&amp;view=contact&amp;catid=42:coaches&amp;id=26
+ -jamie-mcconville" target="_blank">Jamie McConville</a>.&nbsp; The dates fo
+ r this course are:</p><p><table border="3" style="width: 238px; border: 3px
+  solid #000000;" center="" frame="border" rules="all" cellpadding="2"><tbod
+ y><tr><td><strong>Session 1</strong></td><td><strong>8th September</strong>
+ </td></tr><tr><td><strong>Session 2</strong></td><td><strong>15th&nbsp;<str
+ ong style="font-size: 13px; background-color: #ffffff; color: #000000; line
+ -height: normal;">September</strong></strong></td></tr><tr><td><strong>Sess
+ ion 3</strong></td><td><strong>22nd&nbsp;<strong style="font-size: 13px; ba
+ ckground-color: #ffffff; color: #000000; line-height: normal;">September</s
+ trong></strong></td></tr><tr><td><strong>Session 4</strong></td><td><strong
+ >29th&nbsp;<strong style="font-size: 13px; background-color: #ffffff; color
+ : #000000; line-height: normal;">September</strong></strong></td></tr></tbo
+ dy></table><span style="line-height: normal;"></span></p><p><span style="fo
+ nt-size: 13px; background-color: #ffffff;">Boats used for this session: kay
+ aks</span></p><p>If you can't attend one of the sessions, please let one of
+  the coaches know and we'll try to fit you in another time. &nbsp;Please ar
+ rive at 9:30am - we will aim to be on the water by 10:00am.</p><p>If you'd 
+ like to attend this course, please fill out the form below to sign up. &nbs
+ p;If you've <a href="http://www.maidstonecanoeclub.net/joomla/index.php/com
+ e-paddle/come-try">got questions</a> or have any problems, please <a href="
+ http://www.maidstonecanoeclub.net/joomla/index.php/2012-05-01-19-15-08/cont
+ act-us">contact us</a> and we'll do our best to help.</p><p>See you on the 
+ water!</p><p>&nbsp;</p><h2>This course begins on Sunday, 8th September</h2>
+CONTACT:event.bookings@maidstonecanoeclub.net
+
+DTSTAMP:20230907T084047Z
+DTSTART;TZID=Europe/London:20130922T093000
+DTEND;TZID=Europe/London:20130922T120000
+RECURRENCE-ID;TZID=Europe/London:20130922T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5df19fb09c09c7c8d0cac54e49097305
+CATEGORIES:Coaching
+CREATED:20130704T095507
+SUMMARY:Beginner Course (Open / Canadian Canoes) - Session 4
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<h3>Beginner's Course for Club Newcomers - Canoes</h3><p>Paddle with us! &n
+ bsp;If you're thinking of joining Maidstone Canoe Club and learning to padd
+ le, you're in the right place! &nbsp;This 4-week Beginner's Course is desig
+ ned to give you the basic skills to control the boat. &nbsp;Once you've com
+ pleted the course, you'll have the confidence and abilities to join us on o
+ ur trips, tours, and regular paddles on the Medway and beyond.</p><p>This c
+ ourse will be primarily in open (Canadian-style) canoes, rather than kayaks
+ , although the kayaking basics will also be covered. &nbsp;</p><p><strong s
+ tyle="font-size: larger;">Please note that courses&nbsp;<em>must</em> be pr
+ e-booked. &nbsp;We are no longer running "open" sessions - all novice paddl
+ ers must attend one of our Introductory Courses. &nbsp;Please see <a href="
+ http://www.maidstonecanoeclub.net/joomla/index.php/come-paddle/come-try" ta
+ rget="_blank">this page</a> for details.</strong></p><p>Full details of the
+  courses and how to get involved in paddling at the Club are <a href="http:
+ //www.maidstonecanoeclub.net/joomla/index.php/come-paddle/come-try" target=
+ "_blank">available on this page</a> - please take a look if you haven't alr
+ eady done so.</p><p>Our courses cost £25, and are run by our friendly quali
+ fied coaches. &nbsp;They consist of four 2-hour sessions. &nbsp;(Note the c
+ ost is £25 for the whole course - not £25 per session!)</p><p>Your coaches 
+ for this Course will be <a href="http://www.maidstonecanoeclub.net/joomla/i
+ ndex.php?option=com_contact&amp;view=contact&amp;catid=42:coaches&amp;id=26
+ -jamie-mcconville" target="_blank">Jamie McConville</a>.&nbsp; The dates fo
+ r this course are:</p><p><table border="3" style="width: 238px; border: 3px
+  solid #000000;" center="" frame="border" rules="all" cellpadding="2"><tbod
+ y><tr><td><strong>Session 1</strong></td><td><strong>8th September</strong>
+ </td></tr><tr><td><strong>Session 2</strong></td><td><strong>15th&nbsp;<str
+ ong style="font-size: 13px; background-color: #ffffff; color: #000000; line
+ -height: normal;">September</strong></strong></td></tr><tr><td><strong>Sess
+ ion 3</strong></td><td><strong>22nd&nbsp;<strong style="font-size: 13px; ba
+ ckground-color: #ffffff; color: #000000; line-height: normal;">September</s
+ trong></strong></td></tr><tr><td><strong>Session 4</strong></td><td><strong
+ >29th&nbsp;<strong style="font-size: 13px; background-color: #ffffff; color
+ : #000000; line-height: normal;">September</strong></strong></td></tr></tbo
+ dy></table><span style="line-height: normal;"></span></p><p>Boats used for 
+ this session: open boats</p><p>If you can't attend one of the sessions, ple
+ ase let one of the coaches know and we'll try to fit you in another time. &
+ nbsp;Please arrive at 9:30am - we will aim to be on the water by 10:00am.</
+ p><p>If you'd like to attend this course, please fill out the form below to
+  sign up. &nbsp;If you've <a href="http://www.maidstonecanoeclub.net/joomla
+ /index.php/come-paddle/come-try">got questions</a> or have any problems, pl
+ ease <a href="http://www.maidstonecanoeclub.net/joomla/index.php/2012-05-01
+ -19-15-08/contact-us">contact us</a> and we'll do our best to help.</p><p>S
+ ee you on the water!</p><p>&nbsp;</p><h2>This course begins on Sunday, 8th 
+ September</h2>
+CONTACT:event.bookings@maidstonecanoeclub.net
+
+DTSTAMP:20230907T084047Z
+DTSTART;TZID=Europe/London:20130929T093000
+DTEND;TZID=Europe/London:20130929T120000
+RECURRENCE-ID;TZID=Europe/London:20130929T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5df19fb09c09c7c8d0cac54e49097305
+CATEGORIES:Coaching
+CREATED:20130704T095507
+SUMMARY:Beginner Course (Open / Canadian Canoes) - Session 1
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<h3>Beginner's Course for Club Newcomers - Canoes</h3><p>Paddle with us! &n
+ bsp;If you're thinking of joining Maidstone Canoe Club and learning to padd
+ le, you're in the right place! &nbsp;This 4-week Beginner's Course is desig
+ ned to give you the basic skills to control the boat. &nbsp;Once you've com
+ pleted the course, you'll have the confidence and abilities to join us on o
+ ur trips, tours, and regular paddles on the Medway and beyond.</p><p>This c
+ ourse will be primarily in open (Canadian-style) canoes, rather than kayaks
+ , although the kayaking basics will also be covered. &nbsp;</p><p><strong s
+ tyle="font-size: larger;">Please note that courses&nbsp;<em>must</em> be pr
+ e-booked. &nbsp;We are no longer running "open" sessions - all novice paddl
+ ers must attend one of our Introductory Courses. &nbsp;Please see <a href="
+ http://www.maidstonecanoeclub.net/joomla/index.php/come-paddle/come-try" ta
+ rget="_blank">this page</a> for details.</strong></p><p>Full details of the
+  courses and how to get involved in paddling at the Club are <a href="http:
+ //www.maidstonecanoeclub.net/joomla/index.php/come-paddle/come-try" target=
+ "_blank">available on this page</a> - please take a look if you haven't alr
+ eady done so.</p><p>Our courses cost £25, and are run by our friendly quali
+ fied coaches. &nbsp;They consist of four 2-hour sessions. &nbsp;(Note the c
+ ost is £25 for the whole course - not £25 per session!)</p><p>Your coaches 
+ for this Course will be <a href="http://www.maidstonecanoeclub.net/joomla/i
+ ndex.php?option=com_contact&amp;view=contact&amp;catid=42:coaches&amp;id=26
+ -jamie-mcconville" target="_blank">Jamie McConville</a>.&nbsp; The dates fo
+ r this course are:</p><p><table border="3" style="width: 238px; border: 3px
+  solid #000000;" center="" frame="border" rules="all" cellpadding="2"><tbod
+ y><tr><td><strong>Session 1</strong></td><td>&lt;<strong style="font-size: 
+ 13px; background-color: #ffffff; color: #000000; line-height: normal;">8th 
+ September</strong></td></tr><tr><td><strong>Session 2</strong></td><td><str
+ ong>15th&nbsp;<strong style="font-size: 13px; background-color: #ffffff; co
+ lor: #000000; line-height: normal;">September</strong></strong></td></tr><t
+ r><td><strong>Session 3</strong></td><td><strong>22nd&nbsp;<strong style="f
+ ont-size: 13px; background-color: #ffffff; color: #000000; line-height: nor
+ mal;">September</strong></strong></td></tr><tr><td><strong>Session 4</stron
+ g></td><td><strong>29th&nbsp;<strong style="font-size: 13px; background-col
+ or: #ffffff; color: #000000; line-height: normal;">September</strong></stro
+ ng></td></tr></tbody></table><span style="line-height: normal;"></span></p>
+ <p>Boats used for this session: open boats</p><p>If you can't attend one of
+  the sessions, please let one of the coaches know and we'll try to fit you 
+ in another time. &nbsp;Please arrive at 9:30am - we will aim to be on the w
+ ater by 10:00am.</p><p>If you'd like to attend this course, please fill out
+  the form below to sign up. &nbsp;If you've <a href="http://www.maidstoneca
+ noeclub.net/joomla/index.php/come-paddle/come-try">got questions</a> or hav
+ e any problems, please <a href="http://www.maidstonecanoeclub.net/joomla/in
+ dex.php/2012-05-01-19-15-08/contact-us">contact us</a> and we'll do our bes
+ t to help.</p><p>See you on the water!</p><p>&nbsp;</p><h2>This course begi
+ ns on Sunday, 8th September</h2>
+CONTACT:event.bookings@maidstonecanoeclub.net
+
+DTSTAMP:20230907T084047Z
+DTSTART;TZID=Europe/London:20130908T093000
+DTEND;TZID=Europe/London:20130908T120000
+RECURRENCE-ID;TZID=Europe/London:20130908T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

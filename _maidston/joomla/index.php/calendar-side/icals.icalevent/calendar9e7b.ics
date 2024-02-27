@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20211028T084500
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5966123a7d00dd52ba291cd700fcf532
+CATEGORIES:Coaching
+CREATED:19700101T010000
+SUMMARY:Paddlesport Instructor Course
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St. Peter's Street\, Maidstone\, Kent\
+ , ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nThe Paddlesport Instructor is the foundation of coaching at the Club, d
+ elivering beginner courses and ongoing coaching at the Club. &nbsp;It's a g
+ reat way of putting something back, and is incredibly rewarding. &nbsp;Maid
+ stone is fortunate to have a well-supported coaching structure at the Club 
+ through our wonderful Coaching Development Group - if you haven't already, 
+ join the mailing list and pop along to one of the meetings to have a chat!\
+ n\n\nClub members who commit to running beginner sessions after their train
+ ing is complete (full support from experienced coaches provided) will have 
+ the full cost of their training reimbursed by the Club. An FSRT is a pre-re
+ quisite for this course - please don't sign up for the course unless you're
+  sure you'll have the award prior to the course. &nbsp;\n\n\n(Although not 
+ pre-requisites for the course itself, in order to coach at Maidstone Canoe 
+ Club you will also need an 8-hour first aid, DBS, and 3-hour Safeguarding c
+ ourse (online option possible). &nbsp;Drop Mark, CDG Chair a line if you wa
+ nt to chat about any of these)\n
+CONTACT:Mark Corti, cdg-chair@maidstonecanoeclub.net
+DTSTAMP:20230907T102738Z
+DTSTART;TZID=Europe/London:20221029T084500
+DTEND;TZID=Europe/London:20221029T170000
+SEQUENCE:0
+RRULE:FREQ=DAILY;COUNT=2;INTERVAL=1
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

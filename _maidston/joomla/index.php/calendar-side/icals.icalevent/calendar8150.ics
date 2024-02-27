@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150420T190000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:77c76da67f698eee90ec60e1e223877c
+CATEGORIES:Coaching
+CREATED:20160403T132036
+SUMMARY:Meeting regarding under 18s paddling at MCC
+LOCATION:MCC clubhouse
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0.0001pt; vert
+ ical-align: baseline;"><span style="font-family: Calibri, sans-serif;">On <
+ strong><span style="text-decoration: underline;">Wednesday</span></strong><
+ /span><span style="text-decoration: underline;"></span><strong><span style=
+ "text-decoration: underline;"><span style="font-family: Calibri, sans-serif
+ ;">20<sup>th</sup></span></span></strong><span style="background-color: inh
+ erit;"><span style="text-decoration: underline;"></span><strong><span style
+ ="text-decoration: underline;"><span style="font-family: Calibri, sans-seri
+ f;">April at 7pm</span></span></strong></span><span style="background-color
+ : inherit;"><span style="font-family: Calibri, sans-serif;">, the Coaching 
+ Development Group will be holding a meeting </span><span style="font-family
+ : Calibri, sans-serif;">to discuss issues relating to children paddling at 
+ MCC.</span></span></p><p>This will include:</p><ul><li><span style="font-fa
+ mily: Calibri, sans-serif;">At what age can parents drop their children off
+  and pick them up at the end of the club session? Do they need to stay arou
+ nd up to a certain age?</span></li><li><span style="font-family: Calibri, s
+ ans-serif;">Who is responsible for children on general club paddles?</span>
+ </li><li><span style="font-family: Calibri, sans-serif;">Are emergency cont
+ act numbers easily accessible for parents of children on a club paddles?</s
+ pan></li><li><span style="font-family: Calibri, sans-serif;">What guideline
+ s do we need to put in place for coaches taking out younger paddlers?</span
+ ></li><li><span style="font-family: Calibri, sans-serif;">What are our guid
+ elines for taking under 18s away on weekend trips?</span></li></ul><p style
+ ="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0.0001pt; vertical-ali
+ gn: baseline;"><span style="background-color: inherit;"><span style="font-f
+ amily: Calibri, sans-serif;">Please feel free to raise any other concerns r
+ egarding paddling with and coaching under 18s.</span></span></p><p style="m
+ argin-top: 0cm; margin-right: 0cm; margin-bottom: 0.0001pt; vertical-align:
+  baseline;"><span style="background-color: inherit;"><span style="font-fami
+ ly: Calibri, sans-serif;">We have invited our club Child Protection Officer
+ , the Youth Officer and the club Youth Representative, but we would welcome
+  anyone who feels they have something pertinent they would like to add to t
+ he discussion. </span></span></p><p style="margin-top: 0cm; margin-right: 0
+ cm; margin-bottom: 0.0001pt; vertical-align: baseline;"><span style="font-f
+ amily: Calibri, sans-serif;">Email <a href="mailto:niki@maidstonecanoeclub.
+ net">niki@maidstonecanoeclub.net</a></span></p>
+CONTACT:niki@maidstonecanoeclub.net
+DTSTAMP:20230907T123716Z
+DTSTART;TZID=Europe/London:20160420T190000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

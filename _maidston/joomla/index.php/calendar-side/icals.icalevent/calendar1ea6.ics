@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20160520T103000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5a139cd9d85c6e8da2de4583fd787461
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20170513T185924
+SUMMARY:Nene - Beginner's Whitewater Trip
+LOCATION:Nene Whitewater Course\, Bedford Rd\, Northampton NN4 7AA
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nBill and I will be running a trip to the white water course at Nene, ne
+ xt Sunday 21st May. This course offers a great introduction to moving water
+  for those of you who have gained experience of paddling on flat water.\n\n
+ \nThe course is open from 2.30pm until 6.00pm and costs £12 for adults and 
+ £9 for children. We would aim to leave the club at around 10.30am and retur
+ n around 9.00pm. Richard has kindly offered to transport kayaks to the cour
+ se and Bill and I are happy to take some paddlers in our van (both subject 
+ to a contribution to fuel.) \n\n\nTo paddle independently at Nene, you are 
+ required to be of 3 star standard. If you are not at this level, Bill and I
+  are happy to sign you on as part of a coached group. It is easy to access 
+ the course at any point, so paddlers new to moving water can get on towards
+  the end of the course, where it is easier, and build up to running the who
+ le course (or stay on the easier section if that is what you feel happiest 
+ with.) \n\n\nIn order to paddle on the course, you will need to either:\n\n
+  - apply for a Nene Whitewater Card if you are 3 star standard\n - be signe
+ d on as part of a group if not. \n\nEither way you need to fill in a Medica
+ l Consent form and a risk form, downloadable here: FORMS\n\n\nWe know that 
+ this is short notice, but we didn't want to offer the trip until we were su
+ re that we could offer transport. You will need to email me: niki@maidstone
+ canoeclub.net or sign up on the Maidstone Canoe Club Paddlers Facebook page
+ . Please ask if you have any questions or if you want to know whether this 
+ trip is suitable for you. You don't have to have been on moving water befor
+ e, but you do need to have worn a spraydeck before and be confident of pull
+ ing your deck and swimming down the course if you capsize. I would point ou
+ t though, that you can stand up in most of the course.\n
+CONTACT:Niki Norman, niki@maidstonecanoeclub.net
+DTSTAMP:20230907T124533Z
+DTSTART;TZID=Europe/London:20170521T103000
+DTEND;TZID=Europe/London:20170521T210000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

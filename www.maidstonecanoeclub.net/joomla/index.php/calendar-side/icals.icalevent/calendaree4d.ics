@@ -1,0 +1,205 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150403T090000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a29a07ff5498f65f194e67b779a6ae50
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20160305T092543
+SUMMARY:River Mole  -  Will go ahead on Sunday
+LOCATION:Dorking
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<div> </div><div><p><span style="color: rgb(255, 0, 0);">The river is fairl
+ y high but not in flood so we will paddle it with caution for any tress tha
+ t are down.</span></p><p style="margin-top: 3pt; margin-right: 0cm; margin-
+ bottom: 0pt;"><span style="font-size: 12pt;">The trip is on the River Mole 
+ from Dorking to Fetcham, just past Leatherhead, about 10 miles and will tak
+ e about 3-4 hours with a stop for lunch. The flow on the Mole depends on th
+ e rainfall prior to the trip but is normally fairly slow. There is a slopin
+ g weir just after the start that can normally be shot but is easily portage
+ d if necessary. The river passes by Box Hill and is very scenic in places, 
+ there are a few more minor weirs and rapids but in normal conditions the wa
+ ter is not deep and if you do capsize you will be able to stand up (mostly)
+ . This is a good river for beginners to white water paddling; there will be
+  plenty of safety cover. The trip will only go ahead if the water condition
+ s are considereded suitable, it may be too low or high. I will check on wat
+ er levels on Sat 2nd and post details on the website news page.</span></p><
+ p style="margin-top: 3pt; margin-right: 0cm; margin-bottom: 0pt;"> </p><spa
+ n style="font-family: 'Arial',sans-serif; font-size: 12pt;">We will need to
+  shuffle cars prior to the start and get as many cars to the finish as poss
+ ible, but parking at the end is a bit limited so it will be better to share
+  transport as much as possible. </span></div><div> </div><div><span style="
+ font-family: 'Arial',sans-serif; font-size: 12pt;">Directions: take the A25
+  out of Reigate and turn right on to the Old Reigate Rd  shortly after the 
+ turn off for Brockham. At the end of Old Reigate Rd turn left onto Boxhill 
+ Rd and park at the end. Alternatively  park in the Garden Centre just befor
+ e Dorking and make contact with me over the footbridge so I know you have a
+ rrived. Meet at Club at 9am or at the get in at 10am. </span></div><div> </
+ div><div><span style="font-family: 'Arial',sans-serif; font-size: 12pt;">Re
+ member to bring lunch and a helmet.</span></div><div> </div><div> </div><di
+ v> </div><div> </div><div> </div><div> </div><div> </div><div> </div>
+CONTACT:geofforford@gmail.com
+DTSTAMP:20230907T085919Z
+DTSTART;TZID=Europe/London:20160403T090000
+DTEND;TZID=Europe/London:20160403T150000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

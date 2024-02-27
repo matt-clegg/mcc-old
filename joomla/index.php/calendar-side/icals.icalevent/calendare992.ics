@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20201015T080000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4cfe2e0aff3b7632223823f1be9cb0c8
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20210806T222949
+SUMMARY:Exe & Barle Camping Trip
+LOCATION:Exe Valley Caravan Site\, Mill House\, Bridgetown\, Dulverton\, TA22 9JN 
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nThe famous Exe &amp; Barle Camping Trip\n\n\n&nbsp;&nbsp;&nbsp;\n\n\nTh
+ e annual trip to the River Exe and Barle is back on the calendar!!!\n\n\n&n
+ bsp;\n\n\nA weekend of grade 1 &amp; 2 paddling in the beautiful Exmoor Nat
+ ional Park, probably the first taste of whitewater for many club members. A
+  regular on the club calendar for 30 years, camping at the Exe Valley Camps
+ ite with our usual evening meal at "The Badgers Holt" Pub.\n\n2 days paddli
+ ng on the River Exe or Barle depending on water levels and paddling ability
+ . Suitable for those who have paddled grade 2 before or have done an Intro 
+ to Whitewater.\n\nCamping pitch fees are £6 a night per person. Whilst most
+  will arrive on the Friday usually some arrive on the Thursday to paddle on
+  the Friday as well.\n\nCampsite address:&nbsp;Exe Valley Caravan Site, Mil
+ l House, Bridgetown, Dulverton, TA22 9JN&nbsp;\n\n\nHave a look through our
+  club photos to see what is in store:\n\n\n&nbsp;https://www.maidstonecanoe
+ club.net/joomla/index.php/photos/2014/exe-camping-weekend#!DSCF1707\n\n\nht
+ tps://www.maidstonecanoeclub.net/joomla/index.php/photos/2018/exe-and-barle
+ -weekend#!DSCF2498\n
+CONTACT:John Simmonds
+X-EXTRAINFO:Let me know if you are interested\n\nchairman@maidsonecanoeclub.net\n
+DTSTAMP:20230907T144936Z
+DTSTART;TZID=Europe/London:20211016T080000
+DTEND;TZID=Europe/London:20211017T170000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

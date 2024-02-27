@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150522T093000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:071bb73a62a0aed5a57e3e88e8370154
+CATEGORIES:Coaching
+CREATED:20160322T122324
+SUMMARY:Beginner Course - Session 4
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<h3>Beginner's Course for Club Newcomers</h3><p>Paddle with us! &nbsp;If yo
+ u're thinking of joining Maidstone Canoe Club and learning to paddle, you'r
+ e in the right place! &nbsp;This 4-week Beginner's Course is designed to gi
+ ve you the basic skills to control the boat. &nbsp;Once you've completed th
+ e course, you'll have the confidence and abilities to join us on our trips,
+  tours, and regular paddles on the Medway and beyond.</p><p>Please note tha
+ t courses&nbsp;must be pre-booked. &nbsp;We are no longer running "open" se
+ ssions - all novice paddlers must attend one of our Introductory Courses. &
+ nbsp;Please see <a href="http://www.maidstonecanoeclub.net/joomla/index.php
+ /come-paddle/come-try" target="_blank">this page</a> for details.</p><p>Ful
+ l details of the courses and how to get involved in paddling at the Club ar
+ e <a href="http://www.maidstonecanoeclub.net/joomla/index.php/come-paddle/c
+ ome-try" target="_blank">available on this page</a> - please take a look if
+  you haven't already done so.</p><p>Our courses cost &pound;60 for adults a
+ nd &pound;40 for children, and are run by our friendly qualified coaches. &
+ nbsp;They consist of four 2-hour sessions. &nbsp;</p><p><span style="font-s
+ ize: 13px; background-color: #ffffff;">Your coaches for this Course will be
+  <a href="http://www.maidstonecanoeclub.net/joomla/index.php?option=com_con
+ tact&amp;view=contact&amp;id=21&amp;catid=42&amp;Itemid=415">Lee Horton</a>
+ </span><span style="font-size: 13px; background-color: #ffffff;">. &nbsp;Th
+ e dates for this course are:</span></p><table style="height: 244px; margin-
+ left: auto; margin-right: auto; width: 400px;"><tbody><tr><td><h6>&nbsp;Ses
+ sion 1&nbsp;</h6></td><td><h6>1st May</h6></td></tr><tr><td><h6>&nbsp;Sessi
+ on 2</h6></td><td><h6>8th May</h6></td></tr><tr><td><h6>&nbsp;Session 3</h6
+ ></td><td><h6>&nbsp;15th May</h6></td></tr><tr><td><h6>&nbsp;Session 4</h6>
+ </td><td><h6>&nbsp;22nd May</h6></td></tr></tbody></table><p>&nbsp;</p><p>I
+ f you can't attend one of the sessions, please let one of the coaches know 
+ and we'll try to fit you in another time. &nbsp;Please arrive at 9:30am - w
+ e will aim to be on the water by 10:00am.</p><p>If you'd like to attend thi
+ s course, please fill out the form below to sign up. &nbsp;If you've <a hre
+ f="http://www.maidstonecanoeclub.net/joomla/index.php/come-paddle/come-try"
+ >got questions</a> or have any problems, please <a href="http://www.maidsto
+ necanoeclub.net/joomla/index.php/2012-05-01-19-15-08/contact-us">contact us
+ </a> and we'll do our best to help.</p><p>See you on the water!</p><p>&nbsp
+ ;</p><h2>This course begins on Sunday, 1st May</h2>
+CONTACT:event.bookings@maidstonecanoeclub.net
+DTSTAMP:20230907T123810Z
+DTSTART;TZID=Europe/London:20160522T093000
+DTEND;TZID=Europe/London:20160522T120000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

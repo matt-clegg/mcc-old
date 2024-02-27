@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20160806T173000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:85ee929773e89cea53326d2c9e52ce55
+CATEGORIES:Fun Sessions
+CREATED:20170703T111233
+SUMMARY:Summer Kid's Club
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St. Peter's Street\, Maidstone\, Kent\
+ , ME16 0SN	
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Splashing Fun in the Sun!</p><p>Our Kids Club is&nbsp;<em>the</em> way f
+ or your kids to cool off this summer - as well as burning off some energy a
+ nd getting them out of the house! &nbsp;Run by our fully-qualified coaches,
+  your kids will paddle our fleet of kayaks on the beautiful River Medway, w
+ ith loads of laughter, fun &amp; games thrown in! &nbsp;They'll also come a
+ way with their Paddlepower Passport Award, a nationally-recognised canoeing
+  qualification designed specifically for kids by British Canoeing. &nbsp;Th
+ ey'll make new friends, learn new skills, develop new confidence - all unde
+ r the safe supervision of our river leaders. &nbsp;And for only <strong>£35
+  for all 6 sessions</strong>, you can't go wrong!</p><table><tbody><tr><td>
+ <h4>&nbsp;Session 1&nbsp;</h4></td><td><h4>&nbsp;Monday 24th July</h4></td>
+ </tr><tr><td><h4>&nbsp;Session 2</h4></td><td><h4>&nbsp;Monday 31st July</h
+ 4></td></tr><tr><td><h4>&nbsp;Session 3</h4></td><td><h4>&nbsp;Monday 7th A
+ ugust</h4></td></tr><tr><td><h4>&nbsp;Session 4</h4></td><td><h4>&nbsp;Mond
+ ay 14th August</h4></td></tr><tr><td><h4>&nbsp;Session 5</h4></td><td><h4>&
+ nbsp;Monday 21st August</h4></td></tr><tr><td><h4>&nbsp;Session 6</h4></td>
+ <td><h4>&nbsp;Monday 28th August</h4></td></tr></tbody></table><h5>All sess
+ ions start at 5:30pm and finish at 7:30pm</h5><p>Your coaches for these ses
+ sions will be <a href="http://maidstonecanoeclub.net/joomla/index.php?optio
+ n=com_contact&amp;view=contact&amp;id=50&amp;catid=42">Rob Davis</a> and <a
+  href="http://maidstonecanoeclub.net/joomla/index.php?option=com_contact&am
+ p;view=contact&amp;id=51&amp;catid=42">Annie Davis</a>. &nbsp;</p><p>Please
+  bring a change of clothes and a towel to each session - you will get wet!<
+ /p>
+CONTACT:event.bookings@maidstonecanoeclub.net
+DTSTAMP:20230907T110932Z
+DTSTART;TZID=Europe/London:20170807T173000
+DTEND;TZID=Europe/London:20170807T193000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

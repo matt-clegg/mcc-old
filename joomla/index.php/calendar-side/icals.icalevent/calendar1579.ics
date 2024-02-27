@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20190919T000000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f5ac54a36080d7879078fab961296d96
+CATEGORIES:Coaching
+CREATED:20200615T212941
+SUMMARY:Introduction to Whitewater Weekend
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nThis is a coaching weekend for those new to whitewater.&nbsp; Paddling 
+ on moving water is the most fun you can have in a kayak!&nbsp; We'll give y
+ ou the foundation skills you need to move confidently around the river, bre
+ aking and and out of eddies, moving across the flow, and reading the river 
+ to find the best routes.\n\n\nGiven the current situation with lockdown in 
+ England and Wales, we're waiting until nearer the time to organise accomoda
+ tion - it's likely that we'll suggest local B&amp;Bs or campsites and let i
+ ndividuals make their own arrangements, but we'll firm that up in due cours
+ e.\n\n\nWe'll be working on the fabulous River Dee, which is a lovely Grade
+  2 river in Llangollen, North Wales.&nbsp; The variety of features, the gen
+ tle nature of the white water here&nbsp; - and the cafe on the riverbank - 
+ make it probably the best training ground for moving water in the UK.&nbsp;
+ &nbsp;\n\n\nThis is suitable for anyone who has their 2* / Explore Award or
+  equivalent experience.&nbsp; If you haven't paddled moving water before, p
+ lease contact Mark, Mary or Paul - we'll take you out on the Medway beforeh
+ and to look at some edging and other skills so you can get the most out of 
+ the weekend.\n\n\nSee you there - it will be a huge amount of fun!\n
+CONTACT:Mark Corti, mark@maidstonecanoeclub.net
+DTSTAMP:20230907T144211Z
+DTSTART;TZID=Europe/London;VALUE=DATE:20200919
+DTEND;TZID=Europe/London;VALUE=DATE:20200921
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

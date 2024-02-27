@@ -1,0 +1,182 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20180629T073000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a27bceb1a67909e2f699fc1b285c5f78
+CATEGORIES:Social Events
+CREATED:20190512T200814
+SUMMARY:Leeds Castle Triathlon
+LOCATION:Leeds Castle\, Leeds\, Maidstone\, ME17 1RG
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<div dir="auto" style="color: #000000; font-family: Helvetica; font-size: 1
+ 2px; font-style: normal; font-weight: normal; letter-spacing: normal; text-
+ align: start; text-indent: 0px; text-transform: none; white-space: normal; 
+ word-spacing: 0px; text-decoration: none;">It's that time of year when Maid
+ stone Canoe Club have been asked if we can provide safety cover for the Tri
+ athlon.</div><div dir="auto" style="color: #000000; font-family: Helvetica;
+  font-size: 12px; font-style: normal; font-weight: normal; letter-spacing: 
+ normal; text-align: start; text-indent: 0px; text-transform: none; white-sp
+ ace: normal; word-spacing: 0px; text-decoration: none;">This will take plac
+ e on Saturday 29th and Sunday 30th June.</div><div dir="auto" style="color:
+  #000000; font-family: Helvetica; font-size: 12px; font-style: normal; font
+ -weight: normal; letter-spacing: normal; text-align: start; text-indent: 0p
+ x; text-transform: none; white-space: normal; word-spacing: 0px; text-decor
+ ation: none;">Both days will require an early start as we are usually on th
+ e water for 07:30.</div><div dir="auto" style="color: #000000; font-family:
+  Helvetica; font-size: 12px; font-style: normal; font-weight: normal; lette
+ r-spacing: normal; text-align: start; text-indent: 0px; text-transform: non
+ e; white-space: normal; word-spacing: 0px; text-decoration: none;">This is 
+ a chance to see the prettiest castle in the world from a view point that fe
+ w others have had.</div><div dir="auto" style="color: #000000; font-family:
+  Helvetica; font-size: 12px; font-style: normal; font-weight: normal; lette
+ r-spacing: normal; text-align: start; text-indent: 0px; text-transform: non
+ e; white-space: normal; word-spacing: 0px; text-decoration: none;"></div><d
+ iv dir="auto" style="color: #000000; font-family: Helvetica; font-size: 12p
+ x; font-style: normal; font-weight: normal; letter-spacing: normal; text-al
+ ign: start; text-indent: 0px; text-transform: none; white-space: normal; wo
+ rd-spacing: 0px; text-decoration: none;">We need around 8 boats each day bu
+ t the more the merrier. If past years are anything to go by, there will be 
+ free tea and coffee all day with all the bananas and health snacks you can 
+ eat.</div><div dir="auto" style="color: #000000; font-family: Helvetica; fo
+ nt-size: 12px; font-style: normal; font-weight: normal; letter-spacing: nor
+ mal; text-align: start; text-indent: 0px; text-transform: none; white-space
+ : normal; word-spacing: 0px; text-decoration: none;"></div><div dir="auto" 
+ style="color: #000000; font-family: Helvetica; font-size: 12px; font-style:
+  normal; font-weight: normal; letter-spacing: normal; text-align: start; te
+ xt-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0p
+ x; text-decoration: none;">Paddlers should be confident on the water as you
+  may need to provide assistance to swimmers until the main safety launch ar
+ rives.</div><div dir="auto" style="color: #000000; font-family: Helvetica; 
+ font-size: 12px; font-style: normal; font-weight: normal; letter-spacing: n
+ ormal; text-align: start; text-indent: 0px; text-transform: none; white-spa
+ ce: normal; word-spacing: 0px; text-decoration: none;"></div><div dir="auto
+ " style="color: #000000; font-family: Helvetica; font-size: 12px; font-styl
+ e: normal; font-weight: normal; letter-spacing: normal; text-align: start; 
+ text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 
+ 0px; text-decoration: none;">If you can offer your time on one, either or b
+ oth days, please contact&nbsp;<a href="mailto:mark.harris@maidstonecanoeclu
+ b.net">mark.harris@maidstonecanoeclub.net</a></div>
+CONTACT:Mark Harris, mark.harris@maidstonecanoeclub.net
+DTSTAMP:20230907T143256Z
+DTSTART;TZID=Europe/London:20190630T073000
+DTEND;TZID=Europe/London:20190630T150000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

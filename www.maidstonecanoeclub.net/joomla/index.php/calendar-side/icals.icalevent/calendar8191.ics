@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20210603T090000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:769417cc4936f5163b941a487e30ceb2
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20220315T081107
+SUMMARY:Grove Ferry River Stour
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>This is a peer paddle on the River Stour which often has a steady flow b
+ ut is usually passable in both directions.</p><p>Start at Grove Ferry Picni
+ c Site CT3 4BP where you can park by the river at a cost of about £2:50 per
+  day. There are toilets and changing facilities in the car park too. There'
+ s also a great pub and place to buy snacks.&nbsp;</p><p>We will paddle to F
+ ordwich about 5 miles away (each way) then return to Grove Ferry. If you st
+ ill have energy we will paddle to Plucks Gutter about 3 miles away towards 
+ the coast, have a cuppa and return again to Grove Ferry.&nbsp;</p><p>Meet a
+ t Grove Ferry Picnic Site 09:00 and be on the water around 09:30. We shall 
+ return when we can as we'll just be cruising and taking in the countryside 
+ and wildlife and stopping occasionally for refreshment. There's the option 
+ of a social in the pub afterwards too.</p><p>Call or message Alan on 07384 
+ 836480 if you need more details or alannevard@btinternet.com</p>
+DTSTAMP:20230907T145534Z
+DTSTART;TZID=Europe/London:20220604T090000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

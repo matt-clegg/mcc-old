@@ -1,0 +1,156 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20181012T083000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d895e59e6071bd13dde76591b40fec79
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20190114T114410
+SUMMARY:River Rother 
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p style="margin: 0cm 0cm 0pt; text-align: center;">&nbsp;</p><p style="mar
+ gin: 0cm 0cm 0pt;"><span style="font-size: 22pt;">This trip is a Touring tr
+ ip getting in at Wittersham going down to Bodiam castle. We will paddleing 
+ 10k</span></p><p style="margin: 0cm 0cm 0pt;">&nbsp;</p><p style="margin: 0
+ cm 0cm 0pt;"><span style="font-size: 22pt;"></span></p><p>&nbsp;</p><p styl
+ e="margin: 0cm 0cm 0pt; text-align: justify;"><span style="font-size: 22pt;
+ ">Meet at the club 07:30</span></p><p style="margin: 0cm 0cm 0pt; text-alig
+ n: justify;"><span style="font-size: 22pt;">Level the club at 08:00</span><
+ /p><p style="margin: 0cm 0cm 0pt; text-align: justify;"><span style="font-s
+ ize: 22pt;">Get to put in for 09:00</span></p><p style="margin: 0cm 0cm 0pt
+ ; text-align: justify;"><span style="font-size: 22pt;">Back to the clubhous
+ e 16:00</span></p><p style="margin: 0cm 0cm 0pt; text-align: justify;"><spa
+ n style="font-size: 22pt;"></span></p><p>&nbsp;</p><p style="margin: 0cm 0c
+ m 0pt;"><span style="font-size: 22pt;">Please bring with you the following 
+ </span></p><p style="margin: 0cm 0cm 0pt;"><span style="font-size: 22pt;"><
+ /span></p><p><span style="font-size: 22pt;">Paddle kit</span></p><p style="
+ color: #000000; font-family: 'Times New Roman','serif'; font-size: 22pt;"><
+ span style="font-size: 22pt;">Lunch</span></p><p style="color: #000000; fon
+ t-family: 'Times New Roman','serif'; font-size: 22pt;"><span style="font-si
+ ze: 22pt;">Paddle snacks </span></p><p style="color: #000000; font-family: 
+ 'Times New Roman','serif'; font-size: 22pt;"><span style="font-size: 22pt;"
+ >Change of clothes </span></p><p style="color: #000000; font-family: 'Times
+  New Roman','serif'; font-size: 12pt;">&nbsp;</p>
+CONTACT:lee@maidstonecanoeclub.net
+DTSTAMP:20230907T143620Z
+DTSTART;TZID=Europe/London:20191013T083000
+DTEND;TZID=Europe/London:20191013T160000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

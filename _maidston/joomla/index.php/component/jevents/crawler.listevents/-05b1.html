@@ -1,0 +1,593 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+
+<!-- Mirrored from www.maidstonecanoeclub.net/~maidston/joomla/index.php/component/jevents/crawler.listevents/-?start=2200 by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Sep 2023 14:36:07 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+	<base  />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="noindex,follow" />
+	<meta name="description" content="Maidstone Canoe Club - Kayak, Canoe and SUP Club in Maidstone, Kent, UK" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Maidstone Canoe Club - Maidstone Canoe Club</title>
+	<link href="../../../../index395a.php?option=com_jevents&amp;task=modlatest.rss&amp;format=feed&amp;type=rss&amp;Itemid=0&amp;modid=98" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="../../../../indexd4e4.php?option=com_jevents&amp;task=modlatest.rss&amp;format=feed&amp;type=atom&amp;Itemid=0&amp;modid=98" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="../../../../templates/simplefusion4/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="../../../../media/com_jevents/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="../../../../media/com_jevents/css/bootstrap-responsive.css" rel="stylesheet" type="text/css" />
+	<link href="../../../../media/com_jevents/lib_jevmodal/css/jevmodal.css" rel="stylesheet" type="text/css" />
+	<link href="../../../../components/com_jevents/assets/css/eventsadmina566.css?v=3.6.39" rel="stylesheet" type="text/css" />
+	<link href="../../../../components/com_jevents/views/default/assets/css/events_cssa566.css?v=3.6.39" rel="stylesheet" type="text/css" />
+	<link href="../../../../plugins/system/jce/css/contentcd0a.css?aa754b1f19c7df490be4b958cf085e7c" rel="stylesheet" type="text/css" />
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"5c6245882503c8a156f55b82313583f6","system.paths":{"root":"\/~maidston\/joomla","base":"\/~maidston\/joomla"}}</script>
+	<script src="../../../../media/system/js/core6937.js?f58440415ca2a67036649b318163f2cd" type="text/javascript"></script>
+	<script src="../../../../media/jui/js/jquery.min6937.js?f58440415ca2a67036649b318163f2cd" type="text/javascript"></script>
+	<script src="../../../../media/jui/js/jquery-noconflict6937.js?f58440415ca2a67036649b318163f2cd" type="text/javascript"></script>
+	<script src="../../../../media/jui/js/jquery-migrate.min6937.js?f58440415ca2a67036649b318163f2cd" type="text/javascript"></script>
+	<script src="../../../../components/com_jevents/assets/js/jQnca566.js?v=3.6.39" type="text/javascript"></script>
+	<script src="../../../../media/jui/js/bootstrap.min6937.js?f58440415ca2a67036649b318163f2cd" type="text/javascript"></script>
+	<script src="../../../../media/com_jevents/lib_jevmodal/js/jevmodal.js" type="text/javascript"></script>
+	<script type="text/javascript">
+function jevPopover(selector, container) {
+	var uikitoptions = {"title":"","pos":"top","delay":150,"delayHide":200,"offset":20,"animation":"uk-animation-fade","duration":100,"cls":"uk-active uk-card uk-card-default uk-padding-remove  uk-background-default","clsPos":"uk-tooltip","mode":"hover,focus","container":"#jevents_body"}; 
+	var bsoptions = {"animation":false,"html":true,"placement":"top","selector":false,"title":"","trigger":"hover focus","content":"","delay":{"show":150,"hide":150},"container":"#jevents_body","mouseonly":false};
+	uikitoptions.container = container;
+	bsoptions.container = container;
+	
+	if (bsoptions.mouseonly && 'ontouchstart' in document.documentElement) {
+		return;
+	}
+	if (jQuery(selector).length){
+		try {
+			ys_setuppopover(selector, uikitoptions);
+		}
+		catch (e) {
+			if ('bootstrap' != "uikit"  || typeof UIkit == 'undefined' ) {
+			// Do not use this for YooTheme Pro templates otherwise you get strange behaviour!
+				if (jQuery(selector).popover )
+				{			
+					jQuery(selector).popover(bsoptions);
+				}
+				else 
+				{
+					alert('problem with popovers!');
+				}
+			}
+			else 
+			{
+				// Fall back to native uikit
+				var hoveritems = document.querySelectorAll(selector);
+				hoveritems.forEach(function (hoveritem) {
+					var title = hoveritem.getAttribute('data-yspoptitle') || hoveritem.getAttribute('data-original-title') || hoveritem.getAttribute('title');
+					var body = hoveritem.getAttribute('data-yspopcontent') || hoveritem.getAttribute('data-content') || hoveritem.getAttribute('data-bs-content') || '';
+					var options = hoveritem.getAttribute('data-yspopoptions') || uikitoptions;
+					if (typeof options == 'string') {
+						options = JSON.parse(options);
+					}
+					/*
+					var phtml = '<div class="uk-card uk-card-default uk-padding-remove uk-background-default" style="width:max-content;border-top-left-radius: 5px;border-top-right-radius: 5px;">' +
+					(title != '' ? '<div class="uk-text-emphasis">' + title + '</div>' : '') +
+					(body != '' ? '<div class="uk-card-body uk-text-secondary uk-padding-small" style="width:max-content">' + body + '</div>' : '') +
+					'</div>';
+					*/						
+					var phtml = '' +
+					(title != '' ? title.replace("jevtt_title", "uk-card-title uk-text-emphasis uk-padding-small").replace(/color:#(.*);/,'color:#$1!important;')  : '') +
+					(body != '' ?  body.replace("jevtt_text", "uk-card-body uk-padding-small uk-text-secondary  uk-background-default")  : '') +
+					'';
+					options.title = phtml;
+					
+					if (hoveritem.hasAttribute('title')) {
+						hoveritem.removeAttribute('title');
+					}
+			
+					UIkit.tooltip(hoveritem, options);
+				});
+			}	
+		}
+	}
+}
+document.addEventListener('DOMContentLoaded', function()
+{
+	try {
+		jevPopover('.hasjevtip', '#jevents_body');
+	}
+	catch (e) 
+	{
+	}
+});
+(function($) {
+	if (typeof $.fn.popover == 'undefined')
+	{
+		// bootstrap popovers not used or loaded
+		return;
+	}
+
+    var oldHide = $.fn.popover.Constructor.prototype.hide || false;
+
+    $.fn.popover.Constructor.prototype.hide = function() {
+		var bootstrap5 = false;
+		var bootstrap4 = false;
+		try {
+		    var bsVersion = window.bootstrap.Tooltip.VERSION.substr(0,1);
+		    bootstrap5 = bsVersion >= 5;
+		    bootstrap4 = bsVersion >= 4 && !bootstrap5;
+		} catch (e) {
+		}
+        var bootstrap3 = window.jQuery && (typeof jQuery().emulateTransitionEnd == 'function');
+        // Bootstrap  3+         
+        if (this.config || bootstrap4 || bootstrap3 || bootstrap5)
+        {
+            //- This is not needed for recent versions of Bootstrap 4
+            /*
+	        if (this.config.container == '#jevents_body' && this.config.trigger.indexOf('hover') >=0) {
+	            var that = this;
+	            // try again after what would have been the delay
+	            setTimeout(function() {
+	                return that.hide.call(that, arguments);
+	            }, that.config.delay.hide);
+	            return;
+	        }
+	        */
+        }
+        // Earlier Bootstraps 
+        else
+        {
+	        if (this.options.container == '#jevents_body' && this.options.trigger.indexOf('hover') >=0  && this.tip().is(':hover')) {
+	            var that = this;
+	            // try again after what would have been the delay
+	            setTimeout(function() {
+	                try {
+	                    return that.hide.call(that, arguments);
+	                }
+	                catch (e) 
+	                {
+	                }
+	            }, that.options.delay.hide);
+	            return;
+	        }
+        }
+        if ( oldHide )
+        {
+            oldHide.call(this, arguments);
+        }
+    };
+
+})(jQuery);jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+	</script>
+
+	<link rel="stylesheet" type="text/css" href="../../../../templates/simplefusion4/css/vm-flexi.html" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../../../../templates/simplefusion4/css/reset.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../../../../templates/simplefusion4/css/text.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../../../../templates/simplefusion4/css/grid.html" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../../../../templates/simplefusion4/css/layout.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../../../../templates/simplefusion4/css/nav.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../../../../templates/simplefusion4/css/typography.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../../../../templates/simplefusion4/css/template.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="../../../../templates/simplefusion4/css/print.css" media="print" />
+	<!--[if IE 6]><link rel="stylesheet" type="text/css" href="/~maidston/joomla/templates/simplefusion4/css/ie6.css" media="screen" /><![endif]-->
+	<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/~maidston/joomla/templates/simplefusion4/css/ie.css" media="screen" /><![endif]-->
+	<!--[if IE 8]><link rel="stylesheet" type="text/css" href="/~maidston/joomla/templates/simplefusion4/css/ie8.css" media="screen" /><![endif]-->
+        <link rel="stylesheet" type="text/css" href="../../../../templates/simplefusion4/css/presets/style2.css" media="screen" />
+    <script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Open+Sans:300italic,400italic,400,300,800:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); 
+  </script>
+</head>
+<body class="contentpane">
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/29023/-/regular-club-paddle-for-new-and-experienced-members.html"
+		   title="Regular Club Paddle for New and Experienced Members">Regular Club Paddle for New and Experienced Members</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/34815/-/regular-club-paddle-for-new-and-experienced-members.html"
+		   title="Regular Club Paddle for New and Experienced Members">Regular Club Paddle for New and Experienced Members</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35899/-/paddle-with-norman-and-geoff.html"
+		   title="Paddle with Norman and Geoff">Paddle with Norman and Geoff</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35827/-/pool-session.html"
+		   title=" Pool Session"> Pool Session</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/29024/-/regular-club-paddle-for-new-and-experienced-members.html"
+		   title="Regular Club Paddle for New and Experienced Members">Regular Club Paddle for New and Experienced Members</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35901/-/paddle-with-james-and-ivan.html"
+		   title="Paddle with james and ivan">Paddle with james and ivan</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35902/-/welcome-back-paddle.html"
+		   title="Welcome Back Paddle">Welcome Back Paddle</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/34816/-/regular-club-paddle-for-new-and-experienced-members.html"
+		   title="Regular Club Paddle for New and Experienced Members">Regular Club Paddle for New and Experienced Members</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35928/-/paddle-with-norman-and-geoff.html"
+		   title="Paddle with Norman and Geoff">Paddle with Norman and Geoff</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35929/-/junior-paddle-club.html"
+		   title="Junior Paddle Club">Junior Paddle Club</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35894/-/explore-award-independent-paddling.html"
+		   title="Explore Award - Independent Paddling">Explore Award - Independent Paddling</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/29025/-/regular-club-paddle-for-new-and-experienced-members.html"
+		   title="Regular Club Paddle for New and Experienced Members">Regular Club Paddle for New and Experienced Members</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35857/-/cdg-peer-paddle.html"
+		   title="CDG Peer Paddle">CDG Peer Paddle</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35858/-/cdg-meeting.html"
+		   title="CDG Meeting">CDG Meeting</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35851/-/whitewater-trip-north-wales.html"
+		   title="Whitewater Trip - North Wales">Whitewater Trip - North Wales</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35953/-/paddle-with-james.html"
+		   title="Paddle with james ">Paddle with james </a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35890/-/coastal-navigation-tidal-planning-course.html"
+		   title="Coastal Navigation &amp; Tidal Planning Course">Coastal Navigation & Tidal Planning Course</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/34817/-/regular-club-paddle-for-new-and-experienced-members.html"
+		   title="Regular Club Paddle for New and Experienced Members">Regular Club Paddle for New and Experienced Members</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35956/-/paddle-with-norman-and-geoff.html"
+		   title="Paddle with Norman and Geoff">Paddle with Norman and Geoff</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35930/-/junior-paddle-club.html"
+		   title="Junior Paddle Club">Junior Paddle Club</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35895/-/explore-award-independent-paddling.html"
+		   title="Explore Award - Independent Paddling">Explore Award - Independent Paddling</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35828/-/pool-session.html"
+		   title=" Pool Session"> Pool Session</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/29026/-/regular-club-paddle-for-new-and-experienced-members.html"
+		   title="Regular Club Paddle for New and Experienced Members">Regular Club Paddle for New and Experienced Members</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35863/-/beginner-course-session-1.html"
+		   title="Beginner Course - Session 1">Beginner Course - Session 1</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35955/-/welcome-back-spring-paddle.html"
+		   title="Welcome back Spring Paddle">Welcome back Spring Paddle</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35874/-/wildlife-workshop-in-dungeness.html"
+		   title="Wildlife workshop in dungeness ">Wildlife workshop in dungeness </a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35861/-/beginner-course-session-1-2.html"
+		   title="Beginner Course - Session 1 &amp; 2">Beginner Course - Session 1 & 2</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/34818/-/regular-club-paddle-for-new-and-experienced-members.html"
+		   title="Regular Club Paddle for New and Experienced Members">Regular Club Paddle for New and Experienced Members</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35862/-/beginner-course-session-3-4.html"
+		   title="Beginner Course - Session 3 &amp; 4">Beginner Course - Session 3 & 4</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35961/-/paddle-with-norman-and-geoff.html"
+		   title="Paddle with Norman and Geoff">Paddle with Norman and Geoff</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35931/-/junior-paddle-club.html"
+		   title="Junior Paddle Club">Junior Paddle Club</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35896/-/explore-award-independent-paddling.html"
+		   title="Explore Award - Independent Paddling">Explore Award - Independent Paddling</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35966/-/paddle-with-paul.html"
+		   title="PADDLE WITH PAUL">PADDLE WITH PAUL</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/29027/-/regular-club-paddle-for-new-and-experienced-members.html"
+		   title="Regular Club Paddle for New and Experienced Members">Regular Club Paddle for New and Experienced Members</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35864/-/beginner-course-session-2.html"
+		   title="Beginner Course - Session 2">Beginner Course - Session 2</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35965/-/east-farleigh-to-teston-litter-pick-up.html"
+		   title="East Farleigh to Teston Litter Pick-up ">East Farleigh to Teston Litter Pick-up </a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35868/-/beginner-course-session-1-2-3-4.html"
+		   title="Beginner Course - Session 1,2,3 &amp; 4">Beginner Course - Session 1,2,3 & 4</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35967/-/paddle-with-james.html"
+		   title="Paddle with james ">Paddle with james </a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/34819/-/regular-club-paddle-for-new-and-experienced-members.html"
+		   title="Regular Club Paddle for New and Experienced Members">Regular Club Paddle for New and Experienced Members</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35987/-/paddle-with-norman-and-geoff.html"
+		   title="Paddle with Norman and Geoff">Paddle with Norman and Geoff</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35932/-/junior-paddle-club.html"
+		   title="Junior Paddle Club">Junior Paddle Club</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35897/-/explore-award-independent-paddling.html"
+		   title="Explore Award - Independent Paddling">Explore Award - Independent Paddling</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35852/-/pool-session.html"
+		   title=" Pool Session"> Pool Session</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35968/-/paddle-with-paul.html"
+		   title="PADDLE WITH PAUL">PADDLE WITH PAUL</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/29028/-/regular-club-paddle-for-new-and-experienced-members.html"
+		   title="Regular Club Paddle for New and Experienced Members">Regular Club Paddle for New and Experienced Members</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35971/-/regular-work-party.html"
+		   title="Regular Work Party">Regular Work Party</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35992/-/paddle-with-james.html"
+		   title="Paddle with james">Paddle with james</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35707/-/maidstone-marathon-hasler-race.html"
+		   title="Maidstone Marathon - Hasler Race">Maidstone Marathon - Hasler Race</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35994/-/no-regular-paddle-maidstone-marathon.html"
+		   title="No regular paddle - Maidstone Marathon">No regular paddle - Maidstone Marathon</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35970/-/sea-paddle-around-the-isle-of-bute.html"
+		   title="Sea Paddle around the Isle of Bute">Sea Paddle around the Isle of Bute</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35933/-/junior-paddle-club.html"
+		   title="Junior Paddle Club">Junior Paddle Club</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/29029/-/regular-club-paddle-for-new-and-experienced-members.html"
+		   title="Regular Club Paddle for New and Experienced Members">Regular Club Paddle for New and Experienced Members</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35866/-/beginner-course-session-3.html"
+		   title="Beginner Course - Session 3">Beginner Course - Session 3</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35957/-/cdg-peer-paddle.html"
+		   title="CDG Peer Paddle">CDG Peer Paddle</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35958/-/cdg-meeting.html"
+		   title="CDG Meeting">CDG Meeting</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35794/-/open-day-slot-1.html"
+		   title="Open Day - Slot 1">Open Day - Slot 1</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35791/-/open-day-please-choose-a-booking-slot.html"
+		   title="Open Day - Please Choose A Booking Slot">Open Day - Please Choose A Booking Slot</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35797/-/open-day-slot-2.html"
+		   title="Open Day - Slot 2">Open Day - Slot 2</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35800/-/open-day-slot-3.html"
+		   title="Open Day - Slot 3">Open Day - Slot 3</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35803/-/open-day-slot-4.html"
+		   title="Open Day - Slot 4">Open Day - Slot 4</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35806/-/open-day-slot-5.html"
+		   title="Open Day - Slot 5">Open Day - Slot 5</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35809/-/open-day-slot-6.html"
+		   title="Open Day - Slot 6">Open Day - Slot 6</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35812/-/open-day-slot-7.html"
+		   title="Open Day - Slot 7">Open Day - Slot 7</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35815/-/open-day-slot-8.html"
+		   title="Open Day - Slot 8">Open Day - Slot 8</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35878/-/beginner-course-session-1-2.html"
+		   title="Beginner Course - Session 1 &amp; 2">Beginner Course - Session 1 & 2</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/34820/-/regular-club-paddle-for-inexperienced-members-please-sign-up.html"
+		   title="Regular Club Paddle for Inexperienced Members - Please sign up">Regular Club Paddle for Inexperienced Members - Please sign up</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35990/-/week-of-wildlife-with-james.html"
+		   title="week of wildlife with James ">week of wildlife with James </a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35934/-/junior-paddle-club.html"
+		   title="Junior Paddle Club">Junior Paddle Club</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35853/-/pool-session.html"
+		   title=" Pool Session"> Pool Session</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/29030/-/regular-club-paddle-for-new-and-experienced-members.html"
+		   title="Regular Club Paddle for New and Experienced Members">Regular Club Paddle for New and Experienced Members</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35867/-/beginner-course-session-4.html"
+		   title="Beginner Course - Session 4">Beginner Course - Session 4</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35972/-/regular-work-party.html"
+		   title="Regular Work Party">Regular Work Party</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35879/-/beginner-course-session-3-4.html"
+		   title="Beginner Course - Session 3 &amp; 4">Beginner Course - Session 3 & 4</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/34822/-/regular-club-paddle-for-new-and-experienced-members.html"
+		   title="Regular Club Paddle for New and Experienced Members">Regular Club Paddle for New and Experienced Members</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/36005/-/paddle-with-norman-and-geoff.html"
+		   title="Paddle with Norman and Geoff">Paddle with Norman and Geoff</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35988/-/day-paddle-tonbridge-back-to-the-club.html"
+		   title="Day paddle….Tonbridge back to the club.">Day paddle….Tonbridge back to the club.</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35935/-/junior-paddle-club.html"
+		   title="Junior Paddle Club">Junior Paddle Club</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/29031/-/regular-club-paddle-for-new-and-experienced-members.html"
+		   title="Regular Club Paddle for New and Experienced Members">Regular Club Paddle for New and Experienced Members</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35882/-/peer-paddling-trip-and-wild-camping-at-studen-kladenets-reservoir-in-bulgaria.html"
+		   title="Peer Paddling trip and wild camping at “Studen Kladenets” reservoir in Bulgaria.">Peer Paddling trip and wild camping at “Studen Kladenets” reservoir in Bulgaria.</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35873/-/grove-ferry-river-stour.html"
+		   title="Grove Ferry River Stour">Grove Ferry River Stour</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/34823/-/regular-club-paddle-for-new-and-experienced-members.html"
+		   title="Regular Club Paddle for New and Experienced Members">Regular Club Paddle for New and Experienced Members</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35883/-/slovenia-ww-trip.html"
+		   title="Slovenia WW Trip">Slovenia WW Trip</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/36024/-/paddle-with-norman-and-geoff.html"
+		   title="Paddle with Norman and Geoff">Paddle with Norman and Geoff</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35936/-/junior-paddle-club.html"
+		   title="Junior Paddle Club">Junior Paddle Club</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35854/-/pool-session.html"
+		   title=" Pool Session"> Pool Session</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/29032/-/regular-club-paddle-for-new-and-experienced-members.html"
+		   title="Regular Club Paddle for New and Experienced Members">Regular Club Paddle for New and Experienced Members</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35973/-/regular-work-party.html"
+		   title="Regular Work Party">Regular Work Party</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35962/-/fsrt-foundation-safety-rescue.html"
+		   title="FSRT - Foundation Safety &amp; Rescue">FSRT - Foundation Safety & Rescue</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/34824/-/regular-club-paddle-for-new-and-experienced-members.html"
+		   title="Regular Club Paddle for New and Experienced Members">Regular Club Paddle for New and Experienced Members</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/36026/-/paddle-with-norman-and-geoff.html"
+		   title="Paddle with Norman and Geoff">Paddle with Norman and Geoff</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35937/-/junior-paddle-club.html"
+		   title="Junior Paddle Club">Junior Paddle Club</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35888/-/midsummer-night-moonlight-peer-paddle-yalding-to-the-club.html"
+		   title="Midsummer night Moonlight Peer Paddle, Yalding to the club.">Midsummer night Moonlight Peer Paddle, Yalding to the club.</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/36006/-/new-members-paddle-with-a-paa.html"
+		   title="New members paddle with a PAA">New members paddle with a PAA</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/29033/-/regular-club-paddle-for-new-and-experienced-members.html"
+		   title="Regular Club Paddle for New and Experienced Members">Regular Club Paddle for New and Experienced Members</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/36027/-/scotland-with-james.html"
+		   title="Scotland with james">Scotland with james</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/36038/-/paddle-with-james-and-ivan.html"
+		   title="Paddle with james and ivan">Paddle with james and ivan</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35795/-/open-day-slot-1.html"
+		   title="Open Day - Slot 1">Open Day - Slot 1</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35792/-/open-day-please-choose-a-booking-slot.html"
+		   title="Open Day - Please Choose A Booking Slot">Open Day - Please Choose A Booking Slot</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35798/-/open-day-slot-2.html"
+		   title="Open Day - Slot 2">Open Day - Slot 2</a>
+		<br/>
+				<a class="ev_link_row" href="../../../calendar-side/eventdetail/35801/-/open-day-slot-3.html"
+		   title="Open Day - Slot 3">Open Day - Slot 3</a>
+		<br/>
+			<div class="jev_pagination">
+		<form action="https://www.maidstonecanoeclub.net/~maidston/joomla/index.php/component/jevents/crawler.listevents/-?Itemid=" method="post" name="adminForm" id="adminForm">
+			
+<div class="pagination pagination-toolbar clearfix" style="text-align: center;">
+
+			<div class="limit pull-right">
+			Display #<select id="limit" name="limit" class="inputbox input-mini" size="1" onchange="this.form.submit()">
+	<option value="5">5</option>
+	<option value="10">10</option>
+	<option value="15">15</option>
+	<option value="20">20</option>
+	<option value="25">25</option>
+	<option value="30">30</option>
+	<option value="50">50</option>
+	<option value="100" selected="selected">100</option>
+	<option value="0">All</option>
+</select>
+		</div>
+	
+			<ul class="pagination-list">
+				<li>
+		<a class="hasTooltip"  title="Start"  href="-0654.html?start=0">
+			<i class="icon-backward"></i>		</a>
+	</li>
+	<li>
+		<a class="hasTooltip"  title="Previous"  href="-8f62.html?start=2100">
+			<i class="icon-step-backward"></i>		</a>
+	</li>
+			
+								
+					<li>
+		<a class=""  href="-ac43.html?start=1700">
+			18		</a>
+	</li>
+			
+																												
+					<li>
+		<a class=""  href="-b6e2.html?start=1800">
+			19		</a>
+	</li>
+			
+																	
+					<li>
+		<a class=""  href="-34da.html?start=1900">
+			20		</a>
+	</li>
+			
+																	
+					<li>
+		<a class=""  href="-a833.html?start=2000">
+			21		</a>
+	</li>
+			
+																	
+					<li>
+		<a class=""  href="-8f62.html?start=2100">
+			22		</a>
+	</li>
+			
+																	
+					<li class="active">
+		<span>23</span>
+	</li>
+			
+																	
+					<li>
+		<a class=""  href="-5717.html?start=2300">
+			24		</a>
+	</li>
+			
+																												
+					<li>
+		<a class=""  href="-6a7b.html?start=2400">
+			25		</a>
+	</li>
+			
+								
+					<li>
+		<a class=""  href="-c661.html?start=2500">
+			26		</a>
+	</li>
+			
+								
+					<li>
+		<a class=""  href="-38e7.html?start=2600">
+			27		</a>
+	</li>
+							<li>
+		<a class="hasTooltip"  title="Next"  href="-5717.html?start=2300">
+			<i class="icon-step-forward"></i>		</a>
+	</li>
+	<li>
+		<a class="hasTooltip"  title="End"  href="-3715.html?start=3400">
+			<i class="icon-forward"></i>		</a>
+	</li>
+		</ul>
+	
+			<input type="hidden" name="limitstart"
+		       value="2200"/>
+	
+</div>
+		</form>
+	</div>
+	
+</body>
+
+<!-- Mirrored from www.maidstonecanoeclub.net/~maidston/joomla/index.php/component/jevents/crawler.listevents/-?start=2200 by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Sep 2023 14:36:33 GMT -->
+</html>

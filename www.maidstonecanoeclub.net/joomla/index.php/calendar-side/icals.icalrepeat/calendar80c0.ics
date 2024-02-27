@@ -1,0 +1,225 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20141026T010000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20140922T173000
+RDATE:20141026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:66a150717c09bc17acbfd8696d4f310c
+CATEGORIES:Coaching
+CREATED:20150626T112954
+SUMMARY:Kids-Only Beginner Course - Session 4
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<h3>Kids-Only Beginner's Course!</h3><p>Paddle with us! &nbsp;This is our f
+ irst-ever Kids-Only Beginner Course, and it's going to be awesome! &nbsp;Lo
+ ts of water-based games and silliness in (and out of!) boats is going to ma
+ ke this the most fun you're ever likely to have on the river! &nbsp;Plus, b
+ y the end of it you'll be a pretty good kayaker as well! &nbsp;Following th
+ e national Paddlepower Passport syllabus, this will cover all aspects of ri
+ ver &amp; kayak safety, as well as controlling the boat and being part of a
+  river group.</p><p>This course is open to <strong>children&nbsp;aged 8-14<
+ /strong>. &nbsp;You will need a change of clothes and a towel at each sessi
+ on.</p><p>Full details of our adult courses and how to get involved in padd
+ ling at the Club are <a href="http://www.maidstonecanoeclub.net/joomla/inde
+ x.php/come-paddle/come-try" target="_blank">available on this page</a> - pl
+ ease take a look if you haven't already done so.</p><p>Our courses cost £40
+ , and are run by our friendly, fully-qualified coaches. &nbsp;They consist 
+ of four 2-hour sessions. &nbsp;<span style="font-size: 13px; background-col
+ or: #ffffff;">Your coach for this Course will be&nbsp;</span><a href="http:
+ //www.maidstonecanoeclub.net/joomla/index.php?option=com_contact&amp;view=c
+ ontact&amp;id=21&amp;catid=42&amp;Itemid=415">Lee Horton</a><span style="fo
+ nt-size: 13px; background-color: #ffffff;">. &nbsp;The dates for this cours
+ e are:</span></p><table style="height: 244px; margin-left: auto; margin-rig
+ ht: auto; width: 400px;"><tbody><tr><td><h6>Session 1&nbsp;</h6></td><td><h
+ 6>2nd September&nbsp;</h6></td></tr><tr><td><h6>&nbsp;Session 2</h6></td><t
+ d><h6>9th September</h6></td></tr><tr><td><h6>&nbsp;Session 3</h6></td><td>
+ <h6>16th September&nbsp;</h6></td></tr><tr><td><h6>&nbsp;Session 4</h6></td
+ ><td><h6>23rd September&nbsp;</h6></td></tr></tbody></table><p>&nbsp;</p><p
+ >Please arrive at 5:30pm - we will aim to be on the water by 6:00pm. &nbsp;
+ Unfortunately because of the games-focussed nature of the course, if you're
+  unable to attend one of the sessions we won't be able to re-schedule it.</
+ p><p>If you'd like to attend this course, please fill out the form below to
+  sign up. &nbsp;If you've <a href="http://www.maidstonecanoeclub.net/joomla
+ /index.php/come-paddle/come-try">got questions</a> or have any problems, pl
+ ease <a href="http://www.maidstonecanoeclub.net/joomla/index.php/2012-05-01
+ -19-15-08/contact-us">contact us</a> and we'll do our best to help.</p><p>S
+ ee you on the water!</p><p>&nbsp;</p><h2>This children's course begins on W
+ ednesday, 2nd September. &nbsp;Ages 8-14.</h2>
+CONTACT:event.bookings@maidstonecanoeclub.net
+DTSTAMP:20230907T085601Z
+DTSTART;TZID=Europe/London:20150923T173000
+DTEND;TZID=Europe/London:20150923T200000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

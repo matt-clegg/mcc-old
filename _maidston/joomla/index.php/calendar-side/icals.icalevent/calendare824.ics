@@ -1,0 +1,216 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20150218T000000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ac8356de48b39129fb073c49625adcb2
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20151028T131302
+SUMMARY:Lake District Whitewater Trip
+LOCATION:Lake District
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<div style="font-size: 13px; background-color: #ffffff;" dir="ltr">I have s
+ tarted to plan a Lakes trip for this weekend.  The plan is to run rivers li
+ ke the Kent, the Lune, the Leven and anything else we can squeeze in. </div
+ ><div style="font-size: 13px; background-color: #ffffff;" dir="ltr"><span s
+ tyle="font-size: 13px; background-color: #ffffff;"> </span></div><div style
+ ="font-size: 13px; background-color: #ffffff;" dir="ltr"><a style="font-siz
+ e: 13px;" href="http://www.ukriversguidebook.co.uk/rivers/england/north-wes
+ t/river-kent-sprint-confluence-to-force-falls" target="_blank">http://www.u
+ kriversguidebook.co.uk/rivers/england/north-west/river-kent-sprint-confluen
+ ce-to-force-falls</a></div><div style="font-size: 13px; background-color: #
+ ffffff;" dir="ltr"><a style="font-size: 13px;" href="http://www.ukriversgui
+ debook.co.uk/rivers/england/north-west/river-leven" target="_blank">http://
+ www.ukriversguidebook.co.uk/rivers/england/north-west/river-leven</a></div>
+ <div style="font-size: 13px; background-color: #ffffff;" dir="ltr"><a style
+ ="font-size: 13px;" href="http://www.ukriversguidebook.co.uk/rivers/england
+ /north-west/river-lune-beck-foot-to-rawthey-confluence" target="_blank">htt
+ p://www.ukriversguidebook.co.uk/rivers/england/north-west/river-lune-beck-f
+ oot-to-rawthey-confluence</a></div><div style="font-size: 13px; background-
+ color: #ffffff;" dir="ltr">Although the guides describe two of the rivers a
+ s grade 4, it is possible to portage the harder features. If you are comfor
+ table paddling the Dart Loop, you would be able to paddle these rivers, pro
+ bably with some portaging. Portaging is not a problem, last time nearly the
+  whole group portaged Backbarrow Falls and the weir beyond it. </div><div s
+ tyle="font-size: 13px; background-color: #ffffff;" dir="ltr">Unfortunately,
+  the Kendal bunkhouse where we stayed last time is fully booked for this we
+ ekend. Please let me know if you would like to come on this trip. I will tr
+ y and book accommodation in the next week or so, so need numbers as soon as
+  possible, as bunkhouse are obviously already filling up. </div><div style=
+ "font-size: 13px; background-color: #ffffff;" dir="ltr">You can sign up by 
+ emailing me: <a style="font-size: 13px;" href="mailto:niki@maidstonecanoecl
+ ub.net">niki@maidstonecanoeclub.net</a></div><div style="font-size: 13px; b
+ ackground-color: #ffffff;" dir="ltr">As usual, any questions, just ask. </d
+ iv>
+CONTACT:Niki Norman, niki@maidstonecanoeclub.net
+DTSTAMP:20230907T123604Z
+DTSTART;TZID=Europe/London;VALUE=DATE:20160219
+DTEND;TZID=Europe/London;VALUE=DATE:20160222
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20160909T093000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b4fb7360de5902d776c34d755f87aa1c
+CATEGORIES:Coaching
+CREATED:19700101T010000
+SUMMARY:Private Course for Helen Maxwell - Session 1 & 2
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:PLEASE DON'T BOOK THIS COURSE UNLESS YOU ARE PART OF HELEN MAXWELL'S GROUP\
+ n\nPlease note all courses must be pre-booked - all novice paddlers must at
+ tend one of our beginner courses. &nbsp;Full details of the courses and how
+  to get involved in paddling (including how to join the Club if you're alre
+ ady an experience paddler) are available on this page - please take a look 
+ if you haven't already.\n\n\nOur courses cost &pound;60 for adults and &pou
+ nd;40 for children, and are run by our friendly qualified coaches. &nbsp;\n
+ \n\nYour coach for this course will be&nbsp;Lee Horton. &nbsp;The dates for
+  this course are:\nSessions 1 &amp; 2: 10th September 10am - 2pmSessions 3 
+ &amp; 4: 17th September 10am - 2pm&nbsp;\n\nYou will need a packed lunch!\n
+ \n\nIf you can't attend one of the sessions, please let the coach know and 
+ we'll try to fit you in another time. &nbsp;Please arrive at 9:30am - we wi
+ ll aim to be on the water by 10am.\n\n\nIf you'd like to attend the course,
+  please fill out the form below to sign up. &nbsp;If you've got questions o
+ r have any problems, please contact us and we'll do our best to help.\n\n\n
+ See you on the water!\nPlease only sign up to this course if you are part o
+ f Helen Maxwell's group\n\n&nbsp;\n
+DTSTAMP:20230907T111023Z
+DTSTART;TZID=Europe/London:20170910T093000
+DTEND;TZID=Europe/London:20170910T140000
+SEQUENCE:0
+RRULE:FREQ=WEEKLY;COUNT=2;INTERVAL=1;BYDAY=SU
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b4fb7360de5902d776c34d755f87aa1c
+CATEGORIES:Coaching
+CREATED:20170525T202027
+SUMMARY:Private Course for Helen Maxwell - Session 3 & 4
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:PLEASE DON'T BOOK THIS COURSE UNLESS YOU ARE PART OF HELEN MAXWELL'S GROUP\
+ n\nPlease note all courses must be pre-booked - all novice paddlers must at
+ tend one of our beginner courses. &nbsp;Full details of the courses and how
+  to get involved in paddling (including how to join the Club if you're alre
+ ady an experience paddler) are available on this page - please take a look 
+ if you haven't already.\n\n\nOur courses cost &pound;60 for adults and &pou
+ nd;40 for children, and are run by our friendly qualified coaches. &nbsp;\n
+ \n\nYour coach for this course will be&nbsp;Lee Horton. &nbsp;The dates for
+  this course are:\nSessions 1 &amp; 2: 10th September 10am - 2pmSessions 3 
+ &amp; 4: 17th September 10am - 2pm&nbsp;\n\nYou will need a packed lunch!\n
+ \n\nIf you can't attend one of the sessions, please let the coach know and 
+ we'll try to fit you in another time. &nbsp;Please arrive at 9:30am - we wi
+ ll aim to be on the water by 10am.\n\n\nIf you'd like to attend the course,
+  please fill out the form below to sign up. &nbsp;If you've got questions o
+ r have any problems, please contact us and we'll do our best to help.\n\n\n
+ See you on the water!\nPlease only sign up to this course if you are part o
+ f Helen Maxwell's group\n\n&nbsp;\n
+
+DTSTAMP:20230907T111023Z
+DTSTART;TZID=Europe/London:20170917T093000
+DTEND;TZID=Europe/London:20170917T140000
+RECURRENCE-ID;TZID=Europe/London:20170917T093000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

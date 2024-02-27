@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20131027T010000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20141026T010000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20130726T103000
+RDATE:20131027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20141026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d8a753edf554a0e877eb9ccdc5ea116b
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20140718T191428
+SUMMARY:Medway Valley Trip from Strood Pier
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>This is another inter-club paddle organised by Tim Harlow of Maridian CC
+ . Could be a muddy get in and out but interesting, details:</p><p><span sty
+ le="font-family: 'Trebuchet MS', sans-serif; color: #333333; background-col
+ or: #e1ebf2;">The tides are not favourable the next few weekends for anothe
+ r trip into the Medway estuary so this is a good opportunity to explore the
+  Medway Valley.</span><span style="font-family: 'Trebuchet MS', sans-serif;
+  color: #333333;"><br /> <br /> <span style="background-color: #e1ebf2;">Me
+ et at Strood Pier, Canal Road, Strood, ME2 4DR. at 10.30</span><br /> <span
+  style="background-color: #e1ebf2;">Launch 11.00.</span><br /> <span style=
+ "background-color: #e1ebf2;">Have a good look at the moored Russian Submari
+ ne (the owners are looking for a new home) and then head up river with the 
+ incoming tide passing under Rochester and the Medway Bridges to either Cuxt
+ on (3 miles), Halling or Wouldham (5 miles) depending on the enthusiasm of 
+ the group and finding a good spot to have lunch.</span><br /> <span style="
+ background-color: #e1ebf2;">High Water at Wouldham is at 14.12 so we will l
+ eave soon after to catch the tide to take us back to Strood.</span><br /> <
+ span style="background-color: #e1ebf2;">I plan to arrive back at Strood by 
+ 16.00 .</span><br /> <span style="background-color: #e1ebf2;">Low Water at 
+ Strood Pier is at 19.48.</span><br /> <span style="background-color: #e1ebf
+ 2;">A chart for Strood and Rochester is at</span><br /> </span><span style=
+ "font-family: Calibri, sans-serif;"><a href="http://www.visitmyharbour.com/
+ harbours/north-kent-swale-medway/medway-marinas/chart/1FFF5C48AE531/medway-
+ gillingham-and-rochester-2012-chart"><span style="font-family: 'Trebuchet M
+ S', sans-serif; color: #5d8fbd; background-color: #e1ebf2;"></span></a><a h
+ ref="http://www.visitmyharbour.com/harbours/">http://www.visitmyharbour.com
+ /harbours/</a> ... 2012-chart</span><span style="font-family: 'Trebuchet MS
+ ', sans-serif; color: #333333;"><br /> <span style="background-color: #e1eb
+ f2;">and for the Medway Valley at</span></span><span style="font-family: Ca
+ libri, sans-serif;"></span></p><p><span style="font-family: 'Trebuchet MS',
+  sans-serif; color: #333333; background-color: #e1ebf2;"> </span><span styl
+ e="font-family: Calibri, sans-serif;"><a href="http://www.visitmyharbour.co
+ m/harbours/north-kent-swale-medway/medway-inland/chart/35D01284D5061/contin
+ uation-of-the-medway-from-rochester-charte"><span style="font-family: 'Treb
+ uchet MS', sans-serif; color: #5d8fbd; background-color: #e1ebf2;"></span><
+ /a><a href="http://www.visitmyharbour.com/harbours/">http://www.visitmyharb
+ our.com/harbours/</a> ... ter-charte</span><span style="font-family: 'Trebu
+ chet MS', sans-serif; color: #333333; background-color: #e1ebf2;"> </span><
+ span style="font-family: 'Trebuchet MS', sans-serif; color: #333333;"><br /
+ > <br /> <span style="background-color: #e1ebf2;">Paddlers should be of a 2
+ * standard.</span></span><span style="font-family: Calibri, sans-serif;"></
+ span></p><p><span style="font-family: Calibri, sans-serif;"> </span></p><p>
+ <span style="font-family: 'Trebuchet MS', sans-serif; color: #333333;">Deta
+ ils<span style="background-color: #e1ebf2;"> on the Meridian website at:-</
+ span></span><span style="font-family: Calibri, sans-serif;"></span></p><p><
+ span style="font-family: Calibri, sans-serif;"><a href="http://www.meridian
+ canoeclub.com/phpBB3/viewtopic.php?f=4&t=1300" target="_blank"></a><a href=
+ "http://www.meridiancanoeclub.com/phpBB3/viewtopic.php?f=4&t=1300">http://w
+ ww.meridiancanoeclub.com/phpBB3/viewtopic.php?f=4&t=1300</a></span></p><p><
+ span style="font-family: Calibri, sans-serif;"> </span></p>
+DTSTAMP:20230907T122332Z
+DTSTART;TZID=Europe/London:20140727T103000
+DTEND;TZID=Europe/London:20140727T160000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

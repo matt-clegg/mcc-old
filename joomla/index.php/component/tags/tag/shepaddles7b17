@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/joomla/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Maidstone Canoe Club - Maidstone Canoe Club</title>
+	<subtitle type="text">Maidstone Canoe Club - Kayak, Canoe and SUP Club in Maidstone, Kent, UK</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.maidstonecanoeclub.net"/>
+	<id>https://www.maidstonecanoeclub.net/joomla/index.php/component/tags/tag/shepaddles</id>
+	<updated>2023-09-07T10:35:18+01:00</updated>
+	<author>
+		<name>Maidstone Canoe Club</name>
+		<email>web@maidstonecanoeclub.net</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.maidstonecanoeclub.net/joomla/index.php/component/tags/tag/shepaddles?format=feed&amp;type=atom"/>
+	<entry>
+		<title>#Shepaddles Maidstone Ladies Feature On New River Medway Trail Map</title>
+		<link rel="alternate" type="text/html" href="https://www.maidstonecanoeclub.net/joomla/index.php/1280-shepaddles-maidstone-ladies-feature-on-new-river-medway-trail-map"/>
+		<published>2022-07-22T13:19:33+01:00</published>
+		<updated>2022-07-22T13:19:33+01:00</updated>
+		<id>https://www.maidstonecanoeclub.net/joomla/index.php/1280-shepaddles-maidstone-ladies-feature-on-new-river-medway-trail-map</id>
+		<author>
+			<name>Catherine Dacey</name>
+		</author>
+		<summary type="html">&lt;p&gt;Our Wednesday Morning Ladies Paddlers were photographed on one of their peer paddles.&lt;/p&gt;
+&lt;p&gt;The photographer asked if they could be used for the soon to be updated and printed Medway Canoe Trail.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;It has now arrived and features pictures of 4 of our ladies enjoying the river.&lt;/p&gt;
+&lt;p&gt;The Canoe Trail Map can be downloaded here&lt;/p&gt;
+&lt;p&gt;:&lt;a href=&quot;https://therivermedway.co.uk/medway-canoe-trail/&quot;&gt;Medway Canoe Trail – Medway Navigation (therivermedway.co.uk)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Happy Paddling.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Our Wednesday Morning Ladies Paddlers were photographed on one of their peer paddles.&lt;/p&gt;
+&lt;p&gt;The photographer asked if they could be used for the soon to be updated and printed Medway Canoe Trail.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;It has now arrived and features pictures of 4 of our ladies enjoying the river.&lt;/p&gt;
+&lt;p&gt;The Canoe Trail Map can be downloaded here&lt;/p&gt;
+&lt;p&gt;:&lt;a href=&quot;https://therivermedway.co.uk/medway-canoe-trail/&quot;&gt;Medway Canoe Trail – Medway Navigation (therivermedway.co.uk)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Happy Paddling.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+		<category term="#Shepaddles Maidstone Ladies Feature On New River Medway Trail Map" />
+	</entry>
+</feed>

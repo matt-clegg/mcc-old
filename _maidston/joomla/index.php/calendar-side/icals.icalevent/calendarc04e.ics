@@ -1,0 +1,234 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20210907T180000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:250f555c24fa0cfdd318ff50e3be6ead
+CATEGORIES:Beginner Courses
+CREATED:19700101T010000
+SUMMARY:Beginner Course - Session 1
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nPaddle with us! &nbsp;If you're thinking of joining Maidstone Canoe Clu
+ b and learning to paddle, you're in the right place! &nbsp;Our beginner's c
+ ourses are designed to give you the basic skills to control the boat. &nbsp
+ ;Once you've completed the course, you'll have the confidence and abilities
+  to join us on our trips, tours and regular paddles on the Medway and beyon
+ d.\n\n\nPlease note all courses must be pre-booked - all novice paddlers mu
+ st attend one of our beginner courses. &nbsp;Full details of the courses an
+ d how to get involved in paddling (including how to join the Club if you're
+  already an experience paddler) are available on this page - please take a 
+ look if you haven't already.\n\n\nOur courses cost £65 for adults and £45 f
+ or children, and are run by our friendly qualified coaches. &nbsp;They cons
+ ist of 8 hours coaching time - either 4 x two-hour sessions, 2 x four-hour 
+ sessions, or occasionally 1 x eight-hour session- and follow the syllabus f
+ or the nationally-recognised&nbsp;British Canoeing Discover Award.\n\n\nYou
+ r coaches for this course will be Larry O'Connell, Martin Hall and Mark Cor
+ ti&nbsp; &nbsp;It is suitable for ages 14+. &nbsp;The dates for this course
+  are:\nSession 1: Thursday 8th SeptemberSession 2: Thursday 15th SeptemberS
+ ession 3: Thursday 22nd SeptemberSession 4: Thursday 29th September\n\nIf y
+ ou can't attend one of the sessions, please let the coach know and we'll tr
+ y to fit you in another time. &nbsp;Please arrive at 6:00pm - we will aim t
+ o be on the water by 6:30pm.&nbsp; Please make sure you've read our "What t
+ o Wear" page!\n\n\nIf you'd like to attend the course, please fill out the 
+ form below to sign up. &nbsp;If you've got questions or have any problems, 
+ please contact us and we'll do our best to help.\n\n\nSee you on the water!
+ \nThis course begins on Thursday 8th September\n\n&nbsp;\n
+DTSTAMP:20230907T102607Z
+DTSTART;TZID=Europe/London:20220908T180000
+DTEND;TZID=Europe/London:20220908T203000
+SEQUENCE:0
+RRULE:FREQ=WEEKLY;COUNT=4;INTERVAL=1;BYDAY=TH
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:250f555c24fa0cfdd318ff50e3be6ead
+CATEGORIES:Beginner Courses
+CREATED:20220823T154413
+SUMMARY:Beginner Course - Session 2
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nPaddle with us! &nbsp;If you're thinking of joining Maidstone Canoe Clu
+ b and learning to paddle, you're in the right place! &nbsp;Our beginner's c
+ ourses are designed to give you the basic skills to control the boat. &nbsp
+ ;Once you've completed the course, you'll have the confidence and abilities
+  to join us on our trips, tours and regular paddles on the Medway and beyon
+ d.\n\n\nPlease note all courses must be pre-booked - all novice paddlers mu
+ st attend one of our beginner courses. &nbsp;Full details of the courses an
+ d how to get involved in paddling (including how to join the Club if you're
+  already an experience paddler) are available on this page - please take a 
+ look if you haven't already.\n\n\nOur courses cost £65 for adults and £45 f
+ or children, and are run by our friendly qualified coaches. &nbsp;They cons
+ ist of 8 hours coaching time - either 4 x two-hour sessions, 2 x four-hour 
+ sessions, or occasionally 1 x eight-hour session- and follow the syllabus f
+ or the nationally-recognised&nbsp;British Canoeing Discover Award.\n\n\nYou
+ r coaches for this course will be Larry O'Connell, Martin Hall and Mark Cor
+ ti&nbsp; &nbsp;It is suitable for ages 14+. &nbsp;The dates for this course
+  are:\nSession 1: Thursday 8th SeptemberSession 2: Thursday 15th SeptemberS
+ ession 3: Thursday 22nd SeptemberSession 4: Thursday 29th September\n\nIf y
+ ou can't attend one of the sessions, please let the coach know and we'll tr
+ y to fit you in another time. &nbsp;Please arrive at 6:00pm - we will aim t
+ o be on the water by 6:30pm.&nbsp; Please make sure you've read our "What t
+ o Wear" page!\n\n\nIf you'd like to attend the course, please fill out the 
+ form below to sign up. &nbsp;If you've got questions or have any problems, 
+ please contact us and we'll do our best to help.\n\n\nSee you on the water!
+ \nThis course begins on Thursday 8th September\n\n&nbsp;\n
+
+DTSTAMP:20230907T102607Z
+DTSTART;TZID=Europe/London:20220915T180000
+DTEND;TZID=Europe/London:20220915T203000
+RECURRENCE-ID;TZID=Europe/London:20220915T180000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:250f555c24fa0cfdd318ff50e3be6ead
+CATEGORIES:Beginner Courses
+CREATED:20220823T154413
+SUMMARY:Beginner Course - Session 3
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nPaddle with us! &nbsp;If you're thinking of joining Maidstone Canoe Clu
+ b and learning to paddle, you're in the right place! &nbsp;Our beginner's c
+ ourses are designed to give you the basic skills to control the boat. &nbsp
+ ;Once you've completed the course, you'll have the confidence and abilities
+  to join us on our trips, tours and regular paddles on the Medway and beyon
+ d.\n\n\nPlease note all courses must be pre-booked - all novice paddlers mu
+ st attend one of our beginner courses. &nbsp;Full details of the courses an
+ d how to get involved in paddling (including how to join the Club if you're
+  already an experience paddler) are available on this page - please take a 
+ look if you haven't already.\n\n\nOur courses cost £65 for adults and £45 f
+ or children, and are run by our friendly qualified coaches. &nbsp;They cons
+ ist of 8 hours coaching time - either 4 x two-hour sessions, 2 x four-hour 
+ sessions, or occasionally 1 x eight-hour session- and follow the syllabus f
+ or the nationally-recognised&nbsp;British Canoeing Discover Award.\n\n\nYou
+ r coaches for this course will be Larry O'Connell, Martin Hall and Mark Cor
+ ti&nbsp; &nbsp;It is suitable for ages 14+. &nbsp;The dates for this course
+  are:\nSession 1: Thursday 8th SeptemberSession 2: Thursday 15th SeptemberS
+ ession 3: Thursday 22nd SeptemberSession 4: Thursday 29th September\n\nIf y
+ ou can't attend one of the sessions, please let the coach know and we'll tr
+ y to fit you in another time. &nbsp;Please arrive at 6:00pm - we will aim t
+ o be on the water by 6:30pm.&nbsp; Please make sure you've read our "What t
+ o Wear" page!\n\n\nIf you'd like to attend the course, please fill out the 
+ form below to sign up. &nbsp;If you've got questions or have any problems, 
+ please contact us and we'll do our best to help.\n\n\nSee you on the water!
+ \nThis course begins on Thursday 8th September\n\n&nbsp;\n
+
+DTSTAMP:20230907T102607Z
+DTSTART;TZID=Europe/London:20220922T180000
+DTEND;TZID=Europe/London:20220922T203000
+RECURRENCE-ID;TZID=Europe/London:20220922T180000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:250f555c24fa0cfdd318ff50e3be6ead
+CATEGORIES:Beginner Courses
+CREATED:20220823T154413
+SUMMARY:Beginner Course - Session 4
+LOCATION:Maidstone Canoe Club, Mill Meadow, St Peter's St, Maidstone, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nPaddle with us! &nbsp;If you're thinking of joining Maidstone Canoe Clu
+ b and learning to paddle, you're in the right place! &nbsp;Our beginner's c
+ ourses are designed to give you the basic skills to control the boat. &nbsp
+ ;Once you've completed the course, you'll have the confidence and abilities
+  to join us on our trips, tours and regular paddles on the Medway and beyon
+ d.\n\n\nPlease note all courses must be pre-booked - all novice paddlers mu
+ st attend one of our beginner courses. &nbsp;Full details of the courses an
+ d how to get involved in paddling (including how to join the Club if you're
+  already an experience paddler) are available on this page - please take a 
+ look if you haven't already.\n\n\nOur courses cost £65 for adults and £45 f
+ or children, and are run by our friendly qualified coaches. &nbsp;They cons
+ ist of 8 hours coaching time - either 4 x two-hour sessions, 2 x four-hour 
+ sessions, or occasionally 1 x eight-hour session- and follow the syllabus f
+ or the nationally-recognised&nbsp;British Canoeing Discover Award.\n\n\nYou
+ r coaches for this course will be Larry O'Connell, Martin Hall and Mark Cor
+ ti&nbsp; &nbsp;It is suitable for ages 14+. &nbsp;The dates for this course
+  are:\nSession 1: Thursday 8th SeptemberSession 2: Thursday 15th SeptemberS
+ ession 3: Thursday 22nd SeptemberSession 4: Thursday 29th September\n\nIf y
+ ou can't attend one of the sessions, please let the coach know and we'll tr
+ y to fit you in another time. &nbsp;Please arrive at 6:00pm - we will aim t
+ o be on the water by 6:30pm.&nbsp; Please make sure you've read our "What t
+ o Wear" page!\n\n\nIf you'd like to attend the course, please fill out the 
+ form below to sign up. &nbsp;If you've got questions or have any problems, 
+ please contact us and we'll do our best to help.\n\n\nSee you on the water!
+ \nThis course begins on Thursday 8th September\n\n&nbsp;\n
+
+DTSTAMP:20230907T102607Z
+DTSTART;TZID=Europe/London:20220929T180000
+DTEND;TZID=Europe/London:20220929T203000
+RECURRENCE-ID;TZID=Europe/London:20220929T180000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

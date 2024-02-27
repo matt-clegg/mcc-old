@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20180518T093000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c4e969d458f4440207f3ca6f66f54caf
+CATEGORIES:Coaching
+CREATED:20190304T152245
+SUMMARY:CANCELLED - Intro to Sea Kayaking
+LOCATION:Folkestone
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<div>This has been cancelled due to lack of numbers.&nbsp; Please contact R
+ ob Davis -<a href="mailto:info@southeastkayaking.co.uk">info@southeastkayak
+ ing.co.uk</a>&nbsp;- if you would like to get out on the sea, he's trying t
+ o arrange an alternative date which is more palatable.</div><div></div><div
+ ></div><div></div><div>We’re an island nation, and the sea is never far awa
+ y! &nbsp;A kayak is the ideal way to explore the multitude of beaches and c
+ oves around Kent and the South East, so why not join us on an “Intro to Sea
+  Kayaking” day trip and see for yourself! &nbsp;</div><div>Rob Davis will b
+ e running this coached session around the beautiful coastline of Folkestone
+ . &nbsp;You'll cover the basics of paddling on the sea&nbsp;(in sea kayaks!
+ )&nbsp;and will build your confidence to go exploring around the South East
+ . &nbsp;The exact location will depend on the weather on the day, but we’ll
+  choose somewhere calm and easy for your first trip. &nbsp;There might even
+  be an ice cream afterwards!</div><div>&nbsp;</div><div>This is an ideal pa
+ ddle to do if you're thinking of joining us on our regular trips to Poole o
+ r Scotland later in the year.</div><div>&nbsp;</div><div>This trip is suita
+ ble for anyone who has completed their beginner course (1* / Discover Award
+ )&nbsp;and is competent capsizing with a spray deck. &nbsp;You’ll need to u
+ se one of the Club sea kayaks (speak to <a href="https://www.maidstonecanoe
+ club.net/joomla/index.php?option=com_contact&amp;view=category&amp;id=24">s
+ omeone on the Committee</a>), or Rob has some boats he can loan (£10).</div
+ ><div>&nbsp;</div><div>Please <a href="mailto:info@southeastkayaking.co.uk"
+ >contact Rob</a> if you’d like to come on this trip.</div>
+CONTACT:Rob Davis, info@southeastkayaking.co.uk
+DTSTAMP:20230907T143154Z
+DTSTART;TZID=Europe/London:20190519T093000
+DTEND;TZID=Europe/London:20190519T150000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

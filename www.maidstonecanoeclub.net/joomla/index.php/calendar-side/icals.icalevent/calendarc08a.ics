@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20220630T210000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bd7e75a3704825d81ca9b4b5c76f0d84
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20230501T183618
+SUMMARY:Moonlight Peer Paddle, Yalding back to the club 
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>The 1st full moon after midsummer eve is on Monday July 3rd but hopefull
+ y we will get to see a reasonably full moon on this &nbsp;Saturday evening 
+ peer paddle from Yalding back to the club (although &nbsp;if last year's mo
+ onlight paddle repeats itself then this could be a 'spot the moonlight' &nb
+ sp;rather than a moonlight paddle!!)</p><p>....but either way we will hopef
+ ully have a lovely midsummer evening paddle with good weather.</p><p>Meet a
+ t the club to load boats at 8.20pm, or at Yalding &nbsp;to be on the water 
+ for 9pm. &nbsp;I would anticipate getting back to the club about 11.30pm</p
+ ><p>Please message &nbsp;me directly via MCC 2023 &nbsp;if you are interest
+ ed in coming along or have any questions about the paddle and I will set up
+  a WhatsApp group to sort &nbsp;transport.&nbsp;</p>
+CONTACT:Trish Cadman
+DTSTAMP:20230907T104811Z
+DTSTART;TZID=Europe/London:20230701T210000
+DTEND;TZID=Europe/London:20230701T233000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

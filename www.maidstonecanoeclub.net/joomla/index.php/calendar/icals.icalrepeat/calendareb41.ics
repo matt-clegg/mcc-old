@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20220821T180000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:201e2c439993882dee0674aa715c539e
+CATEGORIES:Beginner Courses
+CREATED:20230403T185824
+SUMMARY:Junior Paddle Club
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>A weekly paddle with the emphasis on fun while learning new skills acros
+ s different craft. A high chance of getting wet!!!</p><p>Open to all Club m
+ embers from 8 - 16, our Junior Paddle Club is all about having fun on the w
+ ater! &nbsp;Make new friends, paddle new boats, get awesome at kayaking - a
+ ll at once!</p><p><strong>If this is your first time:</strong></p><ul><li>P
+ lease fill out the form below for your child.</li><li>There is a £45 once-o
+ ff training fee, payable online in advance. &nbsp;</li><li>If your child en
+ joys the training (they all do!) and wants to continue paddling with us, th
+ ey will need to become a member of both British Canoeing (£29 annually) and
+  Maidstone Canoe Club (£36 annually). &nbsp;After that, all sessions are fr
+ ee!</li></ul><p><strong>If your child has already completed the training:</
+ strong></p><ul><li>Just turn up and have fun!</li></ul><p>&nbsp;</p><p>All 
+ sessions are led by our fully-qualified and insured coaches. &nbsp;All our 
+ coaches and leaders hold an up-to-date DBS check. &nbsp;We provide all boat
+ s, paddles and safety equipment.</p><p>For suggestions on what to wear, <a 
+ href="https://www.maidstonecanoeclub.net/joomla/index.php?option=com_conten
+ t&amp;view=article&amp;id=1005&amp;Itemid=1427">please see this page</a>.</
+ p>
+CONTACT:john.simmonds@maidstonecanoeclub.net
+DTSTAMP:20230907T141752Z
+DTSTART;TZID=Europe/London:20230822T180000
+DTEND;TZID=Europe/London:20230822T193000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

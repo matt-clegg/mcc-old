@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20201015T080000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4cfe2e0aff3b7632223823f1be9cb0c8
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20210806T222949
+SUMMARY:Exe & Barle Camping Trip
+LOCATION:Exe Valley Caravan Site\, Mill House\, Bridgetown\, Dulverton\, TA22 9JN 
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p><strong style="font-size: 16px; color: #157918;">The famous Exe &amp; Ba
+ rle Camping Trip</strong></p><p>&nbsp;&nbsp;&nbsp;<img src="https://www.mai
+ dstonecanoeclub.net/joomla/index.php/photos/2016/exe-2016#!DSCF6584" alt=""
+  /></p><p>The annual trip to the River Exe and Barle is back on the calenda
+ r!!!</p><p>&nbsp;</p><p>A weekend of grade 1 &amp; 2 paddling in the beauti
+ ful Exmoor National Park, probably the first taste of whitewater for many c
+ lub members. A regular on the club calendar for 30 years, camping at the Ex
+ e Valley Campsite with our usual evening meal at "The Badgers Holt" Pub.<br
+  /><br />2 days paddling on the River Exe or Barle depending on water level
+ s and paddling ability. Suitable for those who have paddled grade 2 before 
+ or have done an Intro to Whitewater.<br /><br />Camping pitch fees are £6 a
+  night per person. Whilst most will arrive on the Friday usually some arriv
+ e on the Thursday to paddle on the Friday as well.<br /><br />Campsite addr
+ ess:&nbsp;<span style="font-style: normal; font-weight: normal; letter-spac
+ ing: normal; text-indent: 0px; text-transform: none; white-space: normal; w
+ ord-spacing: 0px; text-decoration: none; color: #000000; font-family: Verda
+ na, Arial, Helvetica, sans-serif; font-size: 13px; text-align: -webkit-cent
+ er; float: none;">Exe Valley Caravan Site, Mill House, Bridgetown, Dulverto
+ n, TA22 9JN&nbsp;</span></p><p>Have a look through our club photos to see w
+ hat is in store:</p><p>&nbsp;<a href="https://www.maidstonecanoeclub.net/jo
+ omla/index.php/photos/2014/exe-camping-weekend#!DSCF1707" target="_blank" r
+ el="noopener">https://www.maidstonecanoeclub.net/joomla/index.php/photos/20
+ 14/exe-camping-weekend#!DSCF1707</a></p><p><a href="https://www.maidstoneca
+ noeclub.net/joomla/index.php/photos/2018/exe-and-barle-weekend#!DSCF2498" t
+ arget="_blank" rel="noopener">https://www.maidstonecanoeclub.net/joomla/ind
+ ex.php/photos/2018/exe-and-barle-weekend#!DSCF2498</a></p>
+CONTACT:John Simmonds
+X-EXTRAINFO:Let me know if you are interested\n\nchairman@maidsonecanoeclub.net\n
+DTSTAMP:20230907T144937Z
+DTSTART;TZID=Europe/London:20211016T080000
+DTEND;TZID=Europe/London:20211017T170000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20161021T090000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a686d3c06716f7a89e77650f580edfb2
+CATEGORIES:Coaching
+CREATED:20170619T084330
+SUMMARY:3 star touring kayak course 
+LOCATION:yalding 
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<table class="contentpaneopen" style="border: 0px currentColor;"><tbody><tr
+  style="text-align: left;" valign="top"><td colspan="4"><table border="0" s
+ tyle="width: 100%;" cellpadding="0"><tbody><tr><td colspan="4" valign="top"
+  width="99%"><p>The course will cover:</p><ul><ul><li>Lifting, carrying and
+  launching</li></ul></ul><ul><ul><li>Efficient paddling forwards, backwards
+  and turning</li></ul></ul><ul><ul><li>Moving sideways more effectively</li
+ ></ul></ul><ul><ul><li>Support strokes, preventing a capsize</li></ul></ul>
+ <ul><ul><li>Dealing with the environment; wind, current etc</li></ul></ul><
+ ul><ul><li>Peer and self rescues</li></ul></ul><ul><ul><li>Towing</li></ul>
+ </ul><ul><ul><li>Risk management and awareness of others</li></ul></ul><ul>
+ <ul><li>Other theory such as: equipment, first aid, access, planning, navig
+ ation, etiquette etc.</li></ul></ul><p>the course will run on Sunday 22th 2
+ 07 october 09:0 to 16:00 training and Sunday 29th October &nbsp;2017 09:00 
+ to 16:00 assessment&nbsp; at yalding</p><p>Pre-requisites</p><p>For the tra
+ ining alone participants must either hold the 2 Star award or be at that le
+ vel and be a minimum age of 14. If you wish to pass the course over the wee
+ kend you will need to have evidence of at least 3 different flat-water jour
+ neys of about 3 hours duration (10km) each with at least one of these in an
+  open water environment. And also provide evidence of at least one session 
+ of about 3 hours duration in an alternative discipline.</p><p>cost of the c
+ ourse £70&nbsp;3 &nbsp;space left on the course</p></td></tr><tr><td colspa
+ n="4" valign="top" width="99%">&nbsp;</td></tr><tr><td colspan="4" valign="
+ top" width="99%">&nbsp;</td></tr><tr><td colspan="4" valign="top" width="99
+ %">&nbsp;</td></tr></tbody></table></td></tr><tr><td colspan="4" class="ev_
+ detail" style="text-align: left;" valign="top"><strong><span style="font-si
+ ze: medium;"></span></strong></td></tr><tr><td colspan="4" class="ev_detail
+ " style="text-align: left;" valign="top"><strong><span style="font-size: me
+ dium;"></span></strong></td></tr><tr><td colspan="4" class="ev_detail" styl
+ e="text-align: left;" valign="top">&nbsp;</td></tr></tbody></table>
+CONTACT:lee@maidstonecanoeclub.net 
+DTSTAMP:20230907T151845Z
+DTSTART;TZID=Europe/London:20171022T090000
+DTEND;TZID=Europe/London:20171022T160000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,175 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20171027T090000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bd11029d143ec01215d0abaf34197496
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20180905T093059
+SUMMARY:Yalding to the Club - Beginners Welcome!
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>The clocks go back on Sunday 28th October so, if you go by your body clo
+ ck rather than the one on your wall, you can gain an hour’s paddling on thi
+ s Sunday! To make the most of this I’m planning a slightly longer run, padd
+ ling from Yalding Lock back down to the Club.</p><p>The distance between Ya
+ lding &amp; the Club is approximately 8 miles. For comparison, a round trip
+  from the Club to East Farleigh Lock and back is about 6 miles, and to Alli
+ ngton Lock and back is around 3 miles. However, paddling from Yalding to th
+ e Club is all ‘downhill’ and we might have the benefit of some flow as well
+ , hopefully.&nbsp; There will also be the option to return to Yalding after
+  a shorter paddle, for those less-experienced who would like to turn back s
+ ooner.</p><p>Meet at the Club at 8:00/8:15am GMT (which should still feel l
+ ike 9am BST), leaving the Club at 8:30am to drive to Yalding. Alternatively
+ , meet at Yalding – by the lock (not weir pool) – by 8:45am. Boats can be u
+ nloaded at the roadside immediately adjacent to Yalding lock, but cars shou
+ ld then be moved along the road a bit, for parking.</p><p>I would expect us
+  to reach the Club by about 12:30/1:00pm. There’ll need to be a car shuffle
+  back to Yalding after the paddle.</p><p>As this is a longish paddle please
+  dress appropriately and bring a snack &amp; hot drink.</p><p>At Teston loc
+ k, there is usually a choice of using the canoe pass (helmet recommended) o
+ r portaging. The lock at East Farleigh will require a portage.</p><p>The tr
+ ip is suitable for younger members, providing they’ve completed a Club-to-E
+ ast Farleigh round-trip previously. The club <a href="http://www.maidstonec
+ anoeclub.net/joomla/index.php/club/news/732-new-junior-paddler-procedure-pl
+ ease-read">policy</a> on parents/carers ensuring that they’ve arranged an a
+ ccompanying Responsible Adult will apply.</p><p>Caution: Teston weirs can b
+ e dangerous; do not attempt to shoot the sloping weir or the pour-over weir
+ .</p>
+CONTACT:Steve Chinn, stevec@maidstonecanoeclub.net
+DTSTAMP:20230907T112019Z
+DTSTART;TZID=Europe/London:20181028T080000
+DTEND;TZID=Europe/London:20181028T130000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

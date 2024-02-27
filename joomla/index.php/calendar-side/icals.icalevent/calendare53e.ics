@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20180518T093000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c4e969d458f4440207f3ca6f66f54caf
+CATEGORIES:Coaching
+CREATED:20190304T152245
+SUMMARY:CANCELLED - Intro to Sea Kayaking
+LOCATION:Folkestone
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:This has been cancelled due to lack of numbers.&nbsp; Please contact Rob Da
+ vis -info@southeastkayaking.co.uk&nbsp;- if you would like to get out on th
+ e sea, he's trying to arrange an alternative date which is more palatable.W
+ e’re an island nation, and the sea is never far away! &nbsp;A kayak is the 
+ ideal way to explore the multitude of beaches and coves around Kent and the
+  South East, so why not join us on an “Intro to Sea Kayaking” day trip and 
+ see for yourself! &nbsp;Rob Davis will be running this coached session arou
+ nd the beautiful coastline of Folkestone. &nbsp;You'll cover the basics of 
+ paddling on the sea&nbsp;(in sea kayaks!)&nbsp;and will build your confiden
+ ce to go exploring around the South East. &nbsp;The exact location will dep
+ end on the weather on the day, but we’ll choose somewhere calm and easy for
+  your first trip. &nbsp;There might even be an ice cream afterwards!&nbsp;T
+ his is an ideal paddle to do if you're thinking of joining us on our regula
+ r trips to Poole or Scotland later in the year.&nbsp;This trip is suitable 
+ for anyone who has completed their beginner course (1* / Discover Award)&nb
+ sp;and is competent capsizing with a spray deck. &nbsp;You’ll need to use o
+ ne of the Club sea kayaks (speak to someone on the Committee), or Rob has s
+ ome boats he can loan (£10).&nbsp;Please contact Rob if you’d like to come 
+ on this trip.
+CONTACT:Rob Davis, info@southeastkayaking.co.uk
+DTSTAMP:20230907T143154Z
+DTSTART;TZID=Europe/London:20190519T093000
+DTEND;TZID=Europe/London:20190519T150000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

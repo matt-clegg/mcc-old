@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20170607T080000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f0cb7cb512898f7918d1320a7df5d7b0
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20171215T162047
+SUMMARY:River wye trip 
+LOCATION:Whitney Bridge Toll Bridge Cottage Whitney-on-Wye   Herefordshire HR3 6EW
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<table width="100%"><tbody><tr><td width="98%"><table width="100%"><tbody><
+ tr><td width="574"><p><em>Friday 8th June 2018&nbsp;To&nbsp;Sunday 10th Jun
+ e 2018</em></p></td><td width="7">&nbsp;</td><td width="7">&nbsp;</td><td w
+ idth="7">&nbsp;</td></tr></tbody></table></td></tr><tr><td width="98%"><p><
+ em>Touring trip to South Wales. &nbsp;This will be centred on the river Wye
+  and aimed at Touring paddlers but everyone looking for grade 1/2rivers. Ar
+ e welcome <br /> Saturday day 1 Glabury - </em><em>Whitney on Wye 10 miles<
+ /em><em><br /> Sunday day 2 Kerne Bridge - </em><em>Symonds Yet</em><em> 12
+  miles</em></p><p><em><span style="text-decoration: underline;">&nbsp;Pleas
+ e bring with you the following </span></em></p><p><em>Lunch or you can buy 
+ it there.</em></p><p><em>Camping kit, Tent</em></p><p><em>Paddle kit</em></
+ p><p><em>Camping fee </em><em>£8.00 per adult per night (£5 for under 12 ye
+ ars)</em></p><p><em>Money for pub&nbsp;&nbsp; </em></p><p><em>Food for BBQ 
+ Frday night </em><em> Bring own drink&nbsp;</em></p><p>&nbsp;</p><table><tb
+ ody><tr><td><p><strong><em>Breakfast menu – your choice of: </em></strong><
+ /p></td></tr></tbody></table><p><em>Breakfast bap filled with your choice o
+ f locally sourced bacon, sausage, free range egg, fresh tomato and chestnut
+  mushrooms plus unlimited selection of beverages incl. green tea, tea, frui
+ t tea, hot chocolate and coffee – delivered to your tent - £5.00 each.</em>
+ </p><p>Saturday options</p><p><em>Pub Menu to Follow will need orders and n
+ umber by Monday 21<sup>st</sup> May 2018 </em></p><p><em>Cook BBQ Menu done
+  by the campsite see menu below will need to know numbers by Monday 21<sup>
+ st</sup> May 2018&nbsp;</em><em>&nbsp;</em></p><p>&nbsp;<strong>Fully loade
+ d BBQ option - £15.00 per head to include</strong>:</p><p>Unlimited burger 
+ buns with variety of topping choices and choice of 100% Beef burger, chicke
+ n breast or grilled Halloumi (sheep’s milk cheese) PLUS grilled fish/prawns
+  Plus 2 BBQ chicken drumsticks PLUS stuffed mushrooms and stuffed jacket po
+ tatoes PLUS variety of mixed salads, dips and toppings and more if you have
+  any special diet requirements let me kown</p><p><em>&nbsp;</em><em>Bring o
+ wn drink&nbsp; </em><em>Can do both options </em></p><p>&nbsp;</p></td></tr
+ ></tbody></table>
+CONTACT:lee@maidstonecanoeclub.net 
+DTSTAMP:20230907T111625Z
+DTSTART;TZID=Europe/London:20180608T080000
+DTEND;TZID=Europe/London:20180610T170000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

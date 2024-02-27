@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20160705T160000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f98bb6ef4ad7cbacf33efdce738f2336
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20161122T091319
+SUMMARY:River Thames Camping Trip
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p style="margin: 0px; text-align: center;"><span style="margin: 0px; font-
+ family: 'Arial',sans-serif; font-size: 14pt;">River Thames (Upper Section)<
+ /span></p><p style="margin: 0px; text-align: center;"><span style="margin: 
+ 0px; font-family: 'Arial',sans-serif; font-size: 14pt;">Friday 7<sup>th</su
+ p> July to Monday 10<sup>th</sup> July 2017</span></p><p style="margin: 0px
+ ;"><span style="margin: 0px; font-family: 'Arial',sans-serif; font-size: 14
+ pt;"></span></p><p style="margin: 0px;"><span style="margin: 0px; font-fami
+ ly: 'Arial',sans-serif; font-size: 14pt;">I am organizing a four day 60 mil
+ e canoe paddle on the River Thames during July 2017.<span style="margin: 0p
+ x;">  </span>The River Thames is a river of great character and interest!</
+ span></p><p style="margin: 0px;"><span style="margin: 0px; font-family: 'Ar
+ ial',sans-serif; font-size: 14pt;">In order to book the campsites I need to
+  have an expression of interest. </span></p><p style="margin: 0px;"><span s
+ tyle="margin: 0px; font-family: 'Arial',sans-serif; font-size: 14pt;"></spa
+ n></p><p style="margin: 0px;"><strong><span style="margin: 0px; font-family
+ : 'Arial',sans-serif; font-size: 14pt;">The Plan</span></strong><span style
+ ="margin: 0px; font-family: 'Arial',sans-serif; font-size: 14pt;"> is to pa
+ ddle the upper section of the River Thames, Rushey Lock to Reading 60 miles
+  approximately leaving the lower section for the following year.</span></p>
+ <p style="margin: 0px;"><span style="margin: 0px; font-family: 'Arial',sans
+ -serif; font-size: 14pt;">Members can paddle, two three or the full four da
+ ys depending on their holiday commitments. </span></p><p style="margin: 0px
+ ;"><span style="margin: 0px; font-family: 'Arial',sans-serif; font-size: 14
+ pt;">Accommodation will be camping at the locks or on commercial campsites.
+ </span></p><p style="margin: 0px;"><span style="margin: 0px; font-family: '
+ Arial',sans-serif; font-size: 14pt;">Sea kayaks, open canoes or day boats w
+ ill be suitable for this trip. </span></p><p style="margin: 0px;"><span sty
+ le="margin: 0px; font-family: 'Arial',sans-serif; font-size: 14pt;">We will
+  transport equipment in the canoes/kayaks and will shuffle cars depending o
+ n the numbers. </span></p><p style="margin: 0px;"><span style="margin: 0px;
+  font-family: 'Arial',sans-serif; font-size: 14pt;">The paddle will be limi
+ ted to a maximum of 12 people to ensure we can be accommodated on the camps
+ ites, there are restrictions on some sites.</span></p><p style="margin: 0px
+ ;"><span style="margin: 0px; font-family: 'Arial',sans-serif; font-size: 14
+ pt;">Members will need to be paid up BCU members and have their cards on th
+ em or will have to pay a weekly licence fee for the Thames of £18.</span></
+ p><p style="margin: 0px;"><span style="margin: 0px; font-family: 'Arial',sa
+ ns-serif; font-size: 14pt;"></span></p><p style="margin: 0px;"><span style=
+ "margin: 0px; font-family: 'Arial',sans-serif; font-size: 14pt;">The Plan<s
+ pan style="margin: 0px;">  </span>(will be subject to change if we cannot b
+ ook the sites.)</span></p><p style="margin: 0px;"><span style="margin: 0px;
+  font-family: 'Arial',sans-serif; font-size: 14pt;">Thursday 6<sup>th</sup>
+  July camp at Rushey Lock from 4.00pm or arrive early Friday morning</span>
+ </p><p style="margin: 0px;"><span style="margin: 0px; font-family: 'Arial',
+ sans-serif; font-size: 14pt;"></span></p><p style="margin: 0px;"><span styl
+ e="margin: 0px; font-family: 'Arial',sans-serif; font-size: 14pt;">Friday 7
+ <sup>th</sup> July paddle 14 miles to Eynsham Lock camp overnight or join f
+ or the weekend.</span></p><p style="margin: 0px;"><span style="margin: 0px;
+  font-family: 'Arial',sans-serif; font-size: 14pt;"></span></p><p style="ma
+ rgin: 0px;"><span style="margin: 0px; font-family: 'Arial',sans-serif; font
+ -size: 14pt;">Saturday 8<sup>th</sup> July paddle 19 miles to Bridge House 
+ Campsite, camp overnight.</span></p><p style="margin: 0px;"><span style="ma
+ rgin: 0px; font-family: 'Arial',sans-serif; font-size: 14pt;"></span></p><p
+  style="margin: 0px;"><span style="margin: 0px; font-family: 'Arial',sans-s
+ erif; font-size: 14pt;">Sunday 9<sup>th</sup> July paddle 11miles to Bridge
+  Villa Caravan and Camping site.</span></p><p style="margin: 0px;"><span st
+ yle="margin: 0px; font-family: 'Arial',sans-serif; font-size: 14pt;">You ma
+ y wish to leave or camp and stay on for the Monday.</span></p><p style="mar
+ gin: 0px;"><span style="margin: 0px; font-family: 'Arial',sans-serif; font-
+ size: 14pt;"></span></p><p style="margin: 0px;"><span style="margin: 0px; f
+ ont-family: 'Arial',sans-serif; font-size: 14pt;">Monday 10<sup>th</sup> Ju
+ ly paddle 16 miles to Reading collect cars and leave for home.</span></p><p
+  style="margin: 0px;"><span style="margin: 0px; font-family: 'Arial',sans-s
+ erif; font-size: 14pt;"></span></p><p style="margin: 0px;"><span style="mar
+ gin: 0px; font-family: 'Arial',sans-serif; font-size: 14pt;">There are plen
+ ty of pubs on the Thames for the evenings and to reduce meal preparation an
+ d there are also towns on route to restock our supplies.</span></p><p style
+ ="margin: 0px;"><span style="margin: 0px; font-family: 'Arial',sans-serif; 
+ font-size: 14pt;"></span></p><p style="margin: 0px;"><span style="margin: 0
+ px; font-family: 'Arial',sans-serif; font-size: 14pt;">If you are intereste
+ d in this trip please email me with the days you would like to paddle. As I
+  have to pay a deposit to book the campsites I will need a £10 deposit to s
+ ecure your place. I am at the Christmas Party to collect<span style="margin
+ : 0px;">  </span>any monies. Thank you</span></p><p style="margin: 0px;"><s
+ pan style="margin: 0px; font-family: 'Arial',sans-serif; font-size: 14pt;">
+ </span></p><p> </p><p><span style="color: #ff0000;">To book a place e-mail 
+ Mike at:</span></p><p>michael lambourne <<a href="mailto:mike.lambourne@bti
+ nternet.com&gt;">mike.lambourne@btinternet.com></a>;</p>
+CONTACT:Michael Lambourne  
+DTSTAMP:20230907T151516Z
+DTSTART;TZID=Europe/London:20170706T160000
+DTEND;TZID=Europe/London:20170710T170000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

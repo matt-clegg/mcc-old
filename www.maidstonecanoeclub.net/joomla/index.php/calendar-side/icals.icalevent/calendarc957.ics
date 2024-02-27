@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150527T000000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:88eaa4e340b9264e26dbed92af21e8ff
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20151027T144520
+SUMMARY:Slovenia Trip
+LOCATION:Bovec\, Slovenia
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p style="padding: 8px 0px; margin: 0px; border: 0px; outline: #000000; fon
+ t-size: 13px; vertical-align: baseline; background-color: #ffffff; color: #
+ 414141; font-family: Verdana, Arial, Helvetica, sans-serif;">The dates are 
+ Friday 27th/Saturday 28th May to Saturday 4th/Sunday 5th June (actual dates
+  depend on departure times and travelling arrangements, still to be confirm
+ ed.) This is half term week in most schools.</p><p style="padding: 8px 0px;
+  margin: 0px; border: 0px; outline: #000000; font-size: 13px; vertical-alig
+ n: baseline; background-color: #ffffff; color: #414141; font-family: Verdan
+ a, Arial, Helvetica, sans-serif;">We will be staying in Bovec and there is 
+ one main river called the Soca, and if river levels are high enough, there 
+ is also the Koritnica. The Soca has sections of grade 2, 3, 4 and 5, so is 
+ suitable for anyone who has paddled some moving water. The Koritnica is a m
+ ixture of grade 2 and 3. I think it is probably about the same difficulty a
+ s the Dart Loop at a level when the water is lapping the ledge at Newbridge
+ . The water is really is turquoise!</p><p style="padding: 8px 0px; margin: 
+ 0px; border: 0px; outline: #000000; font-size: 13px; vertical-align: baseli
+ ne; background-color: #ffffff; color: #414141; font-family: Verdana, Arial,
+  Helvetica, sans-serif;">This trip was booked immediately on our return fro
+ m the Pyrenees, and we have filled our accommodation. However, several peop
+ le have expressed an interest in joining us, so we are investigating the po
+ ssibility of booking a second holiday house. </p><p style="padding: 8px 0px
+ ; margin: 0px; border: 0px; outline: #000000; font-size: 13px; vertical-ali
+ gn: baseline; background-color: #ffffff; color: #414141; font-family: Verda
+ na, Arial, Helvetica, sans-serif;">Please<a href="http://www.maidstonecanoe
+ club.net/joomla/index.php/504-slovenia-trip-may-2016"> see this article to 
+ read more</a> about this trip, and what we got up to last year!</p>
+CONTACT:Niki Norman, niki@maidstonecanoeclub.net
+DTSTAMP:20230907T090027Z
+DTSTART;TZID=Europe/London;VALUE=DATE:20160527
+DTEND;TZID=Europe/London;VALUE=DATE:20160608
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

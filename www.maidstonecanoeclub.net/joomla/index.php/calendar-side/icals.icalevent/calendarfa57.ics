@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20160705T160000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f98bb6ef4ad7cbacf33efdce738f2336
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20161122T091319
+SUMMARY:River Thames Camping Trip
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:River Thames (Upper Section)\nFriday 7th July to Monday 10th July 2017\n\nI
+  am organizing a four day 60 mile canoe paddle on the River Thames during J
+ uly 2017.  The River Thames is a river of great character and interest!\nIn
+  order to book the campsites I need to have an expression of interest. \n\n
+ The Plan is to paddle the upper section of the River Thames, Rushey Lock to
+  Reading 60 miles approximately leaving the lower section for the following
+  year.\nMembers can paddle, two three or the full four days depending on th
+ eir holiday commitments. \nAccommodation will be camping at the locks or on
+  commercial campsites.\nSea kayaks, open canoes or day boats will be suitab
+ le for this trip. \nWe will transport equipment in the canoes/kayaks and wi
+ ll shuffle cars depending on the numbers. \nThe paddle will be limited to a
+  maximum of 12 people to ensure we can be accommodated on the campsites, th
+ ere are restrictions on some sites.\nMembers will need to be paid up BCU me
+ mbers and have their cards on them or will have to pay a weekly licence fee
+  for the Thames of £18.\n\nThe Plan  (will be subject to change if we canno
+ t book the sites.)\nThursday 6th July camp at Rushey Lock from 4.00pm or ar
+ rive early Friday morning\n\nFriday 7th July paddle 14 miles to Eynsham Loc
+ k camp overnight or join for the weekend.\n\nSaturday 8th July paddle 19 mi
+ les to Bridge House Campsite, camp overnight.\n\nSunday 9th July paddle 11m
+ iles to Bridge Villa Caravan and Camping site.\nYou may wish to leave or ca
+ mp and stay on for the Monday.\n\nMonday 10th July paddle 16 miles to Readi
+ ng collect cars and leave for home.\n\nThere are plenty of pubs on the Tham
+ es for the evenings and to reduce meal preparation and there are also towns
+  on route to restock our supplies.\n\nIf you are interested in this trip pl
+ ease email me with the days you would like to paddle. As I have to pay a de
+ posit to book the campsites I will need a £10 deposit to secure your place.
+  I am at the Christmas Party to collect  any monies. Thank you\n\n\n\n \n\n
+ \nTo book a place e-mail Mike at:\n\n\nmichael lambourne ;\n
+CONTACT:Michael Lambourne  
+DTSTAMP:20230907T110843Z
+DTSTART;TZID=Europe/London:20170706T160000
+DTEND;TZID=Europe/London:20170710T170000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

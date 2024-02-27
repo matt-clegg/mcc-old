@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20190508T080000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:250a981b1b03918f6386d58cc3611ffb
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20200314T094936
+SUMMARY:Lakes District trip
+LOCATION:Gillside Farm Glenridding ullswater Cumbria CA11 0QQ
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:Programme for the lake Distinct weekend \nDescription of trip \nThis trip w
+ ill be a touring trip to the Lake District in Cumbria either travelling up 
+ on the Thursday or Friday we will be paddleing at total distance of 36km ov
+ er the weekend.\nWe will be staying at \nGillside Farm\n Glenridding ullswa
+ ter \nCumbria \nCA11 0QQ\n£9 per person per night + £2 per tent + £1 per ca
+ r per night.\nSaturday Plan\nWe will paddleing Ullswater Getting in at Pool
+ ey Bridge getting out at Pooley Bridge we will be padding a total distance 
+ of 26km seeing same lovely countryside and wildlife. \nSunday Plan \nWe wil
+ l be paddleing Derwentwater getting in at Kettlewell getting out at Kettlew
+ ell we will be paddleing a total distance of 10km seeing same lovely countr
+ yside and wildlife stopping at Keswick for lunch visiting St, Herbert’s isl
+ and, Rampshholme island and Lord’s island.\nBasic Kit list \nPaddleing kit,
+  Boat, Paddle, Camping kit, Clothes to be over the weekend, Money for the p
+ ub \nBasic First aid kit for yourself, Paddle snacks\nTravelling\nWhere pos
+ sible share cars work out between yourself who travelling with who.\nThis t
+ rip is a coach led trip have a max of 10 space got 3 spaces left on the tri
+ p this trip is for Explore Award and above\n
+CONTACT:lee@maidstonecanoeclub.net
+DTSTAMP:20230907T143805Z
+DTSTART;TZID=Europe/London:20200508T080000
+DTEND;TZID=Europe/London:20200510T170000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

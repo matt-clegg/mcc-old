@@ -1,0 +1,166 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20180606T080000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:daaffda3e1c3c30bcb8f31035a4dd197
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20181219T142004
+SUMMARY:River wye trip 
+LOCATION:Whitney Bridge Toll Bridge Cottage Whitney-on-Wye   Herefordshire HR3 6EW
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<table style="margin: auto 6.75pt; width: 100%; border-collapse: collapse;"
+ ><tbody><tr><td style="padding: 0cm; border: #000000; width: 98%;"><table s
+ tyle="width: 100%; border-collapse: collapse;"><tbody><tr><td style="paddin
+ g: 0.75pt; border: #000000; width: 574px;">&nbsp;</td><td style="padding: 0
+ .75pt; border: #000000; width: 7px;">&nbsp;</td><td style="padding: 0.75pt;
+  border: #000000; width: 7px;">&nbsp;</td><td style="padding: 0.75pt; borde
+ r: #000000; width: 7px;">&nbsp;</td></tr></tbody></table></td></tr><tr><td 
+ style="padding: 0cm; border: #000000; width: 98%;"><p style="margin: 0cm 0c
+ m 10pt; line-height: 19.8pt;"><span style="color: #414141; font-family: 'Ti
+ mes New Roman','serif'; font-size: 16pt;">Touring trip to South Wales. &nbs
+ p;This will be centred on the rive Wye and aimed at Touring paddle but ever
+ yone looking for grade 1/2rivers.<br /> Saturday day 1 <span style="color: 
+ #414141; line-height: 115%; font-family: 'Times New Roman','serif'; font-si
+ ze: 16pt;">Glabury - </span><span style="line-height: 115%; font-size: 13pt
+ ;">Whitney on Wye</span><br /> Sunday day&nbsp;<span style="color: #414141;
+  font-family: 'Times New Roman','serif'; font-size: 16pt;">&nbsp;&nbsp;&nbs
+ p;2&nbsp;&nbsp;Brdwardine-Bycross&nbsp;&nbsp;&nbsp;</span></span></p><p sty
+ le="margin: 0cm 0cm 10pt; line-height: 19.8pt;"><span style="color: #414141
+ ; font-family: 'Times New Roman','serif'; font-size: 16pt;"><span style="co
+ lor: #414141; font-family: 'Times New Roman','serif'; font-size: 16pt;">Thi
+ s trip is going to be in canoes but kayaks can come along as well, the cost
+  of canoe per&nbsp;person will be £20 that covers the hire and getting the 
+ boats down there. Please let me know if you need to use a canoe, has only g
+ ot limit amount, and if you are going in tandem please let me know who you'
+ ll be paddling with.</span></span></p><p style="margin: 0cm 0cm 10pt; line-
+ height: 19.8pt;"><span style="color: #414141; font-family: 'Times New Roman
+ ','serif'; font-size: 16pt;"><span style="color: #414141; font-family: 'Tim
+ es New Roman','serif'; font-size: 16pt;">Camp site fees are £8 per adult pe
+ r night, please bring BBQ food for Friday evening, money for pub on Saturda
+ y night, and camping kit. The pub menu will be sent out nearer the day. £20
+  is non refunderable as this will be used to pay for the trailer and boats.
+ &nbsp;&nbsp;</span></span></p></td></tr></tbody></table><p>&nbsp;</p>
+CONTACT:lee@maidstonecanoeclub.net
+DTSTAMP:20230907T143217Z
+DTSTART;TZID=Europe/London:20190607T080000
+DTEND;TZID=Europe/London:20190609T170000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

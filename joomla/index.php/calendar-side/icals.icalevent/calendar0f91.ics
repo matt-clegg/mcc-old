@@ -1,0 +1,204 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150904T093000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:be05a0119fb2031f84561d8100cab96c
+CATEGORIES:Coaching
+CREATED:20160705T103250
+SUMMARY:3 star touring kayak course
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p></p><h3>What is it?</h3><p>This is a two day training and assessment co
+ urse, aiming for the participants to try and acheive their 3 Star Touring A
+ ward. This is an ideal course for anyone wishing:</p><ul><li>To gain their 
+ 3 Star without having to paddle on moderate water</li><li>To learn more abo
+ ut journeying and paddling on trips</li><li>To gain their 3 Star without ha
+ ving to be able to complete an eskimo roll</li></ul><p>The course will cove
+ r:</p><ul><li>Lifting, carrying and launching</li><li>Efficient paddling fo
+ rwards, backwards and turning</li><li>Moving sideways more effectively</li>
+ <li>Support strokes, preventing a capsize</li><li>Dealing with the environm
+ ent; wind, current etc</li><li>Peer and self rescues</li><li>Towing</li><li
+ >Risk management and awareness of others</li><li>Other theory such as: equi
+ pment, first aid, access, planning, navigation, etiquette etc.</li></ul><p>
+ the course will run on <span style="color: #1f497d; font-family: 'Calibri',
+ 'sans-serif'; font-size: 10pt;">Sunday 4<sup>th</sup> 0930 to 1630 traning 
+ and </span><span style="color: #1f497d; font-family: 'Calibri','sans-serif'
+ ; font-size: 10pt;">Sunday 25<sup>th</sup> 0930 to 1630 assessment  at the 
+ club and yalling</span></p><h3>Pre-requisites</h3><p>For the training alone
+  participants must either hold the 2 Star award or be at that level and be 
+ a minimum age of 14. If you wish to pass the course over the weekend you wi
+ ll need to have evidence of at least 3 different flat-water journeys of abo
+ ut 3 hours duration (10km) each with at least one of these in an open water
+  environment. And also provide evidence of at least one session of about 3 
+ hours duration in an alternative discipline.</p><p>cost of the course £70</
+ p><p>you can have a look at the syllabus <a href="https://f58619eed67ecf47f
+ 9c5-69635130c45beb2524d5bafa9c042fe0.ssl.cf3.rackcdn.com/documents/3-Star-T
+ ouring-Kayak-Syllabus.pdf">https://f58619eed67ecf47f9c5-69635130c45beb2524d
+ 5bafa9c042fe0.ssl.cf3.rackcdn.com/documents/3-Star-Touring-Kayak-Syllabus.p
+ df</a></p><p> </p><p> </p><p><span style="color: #1f497d; font-family: 'Cal
+ ibri','sans-serif'; font-size: 10pt;"></span></p>
+CONTACT:lee@maidstonecanoeclub.net 
+DTSTAMP:20230907T090239Z
+DTSTART;TZID=Europe/London:20160904T093000
+DTEND;TZID=Europe/London:20160904T160000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

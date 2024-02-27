@@ -1,0 +1,445 @@
+body {
+	padding-bottom: 15px;
+}
+
+.clear-sep {
+	clear: both;
+}
+a:focus {
+	border: 0;
+	outline: 0;
+}
+/* anchors
+----------------------------------------------- */
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+.container_12, .container_16 {
+}
+
+#top-a-line {
+	height: 0px;
+}
+
+#top-modules, #main-content-handler, #nav-line, #bot-modules, #bottom-long{
+	padding: 14px 0px 10px 0px;
+}
+
+#nav-line {
+	padding: 0px;
+}
+
+#tab-modules {
+}
+
+#tmp-container {
+	width: 100%;
+	margin: 0 0%;
+}
+
+/* headings
+----------------------------------------------- */
+h1, h2, h3, h4, h5, h6 {
+	line-height:1.2em;
+}
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+	display: block;
+	height: 100%;
+	font-size: 100%;
+	text-decoration: none;
+}
+
+#top-background {
+	width: 100%;
+	height: 400px;
+	position: absolute;
+	z-index: 0;
+	top: 0px;
+	left: 0px;
+}
+
+#top-handler {
+	position: relative;
+	padding: 0px 0px;
+}
+
+#top {
+	margin: 0px auto;
+}
+
+#site-name-handler  {
+
+}
+
+#top-nav-handler {
+	padding-top: 0px;
+	position: absolute;
+}
+
+#sn-position {
+	position: relative;
+}
+#sn-position h1 {
+	position: absolute;
+	letter-spacing: -3px;
+}
+#sn-position h2 {
+	position: absolute;
+}
+#sn-position h1 a, #sn-position h1 a:hover {
+	text-decoration: none;
+}
+
+#log-panel {
+	float: right;
+	padding: 0px;
+}
+
+#LoginForm .modal-body .userdata {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+
+#LoginForm .modal-body .userdata label { display: inline-block;
+width: 40%;
+position: relative; }
+
+#LoginForm .modal-body ul {
+	padding: 0px;
+	margin: 0px;
+}
+
+#LoginForm .modal-body ul li {
+	padding: 0px;
+	margin: 0px;
+	background: none;
+}
+
+#log-panel a { text-decoration: none; white-space: nowrap; }
+#log-panel a:hover { text-decoration: underline; }
+
+a.open-register-form, a#v_register {
+	float: right;
+	font-size: 11px;
+	cursor: pointer;
+	margin: 0px 7px 0px 7px;
+	padding: 7px 0px;
+	text-decoration: none;
+}
+
+#search {
+	float: right;
+	padding: 8px 0px 0px 0px;
+	opacity: 0.5
+}
+
+#search:hover {
+	opacity: 1;
+}
+
+#cart_toggle {
+	float: left;
+	width: 16px;
+	height: 16px;
+	padding: 4px;
+	text-indent: -9999px;
+	z-index: 7000;
+	position: relative;
+	background-image: url(../images/cart-icon.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-right: 5px;
+}
+
+#cart_toggle:hover {
+	padding: 3px;
+}
+
+.carttoggle_active, .carttoggle_active:hover {
+	border-bottom: none !important;
+	padding: 3px !important;
+}
+
+#vmCartModule {
+	position: relative;
+}
+
+#vmCartModule #cart_handler {
+	position: absolute;
+	top: 22px;
+	left: 0px;
+	width: 293px;
+	z-index: 6999;
+	opacity: 1.0;
+	box-shadow: 1px 6px 8px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 1px 6px 8px rgba(0, 0, 0, 0.4);
+	-webkit-box-shadow: 1px 6px 8px rgba(0, 0, 0, 0.4);
+}
+
+#cart_slide {
+
+}
+
+#cart_handler .vm_cart_products {
+	padding: 12px 36px 14px 22px;
+}
+
+#cart_handler .vm_cart_products .product_row {
+	border-bottom: 1px solid #eeeeee;
+	padding: 4px 0px;
+	clear: both;
+}
+
+#vmCartModule .total_products, #vmCartModule .total {
+	line-height: 24px;
+	float: left;
+	margin-right: 7px;
+}
+
+#vmCartModule .show_cart {
+	line-height: 24px;
+}
+
+.total_products.empty {
+	text-align: right;
+	float: right !important;
+}
+
+/* layout swticher
+----------------------------------------------- */
+
+.w-site-width {
+	margin: 0px auto;
+}
+/* Breadcrumbs
+----------------------------------------------- */
+
+#breadcrumb-handler {
+	padding: 3px 0px 2px 0px;
+	margin-left: 0px;
+}
+/* page heading
+----------------------------------------------- */
+h2#page-heading {
+	font-weight:normal;
+	padding:.5em;
+	margin:0 0 10px 0;
+	border-bottom:1px solid #ccc;
+}
+/* table
+----------------------------------------------- */
+table {
+	width:100%;
+	margin-bottom:10px;
+}
+col.colC {
+	width:8em;
+}
+td {
+	padding: 8px 10px;
+	text-align:left;
+}
+thead th, table th {
+	padding: 8px 10px;
+	text-align:left;
+	font-weight: bold;
+	font-size: 100%;
+	background-image: url(../images/moduletable-h-bg.png);
+	background-position: 0 0;
+	background-repeat: repeat-x;
+}
+tbody th, tbody td {
+}
+tfoot th, tfoot td {
+	border-top:2px solid #ededed;
+}
+/* forms
+----------------------------------------------- */
+fieldset {
+	padding:10px 0px;
+	position:relative;
+	margin:10px 0px 10px 0px;
+	
+}
+legend {
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 30px;
+	padding: 0px 10px 0px 10px;
+	vertical-align: middle;
+	margin-left: 15px;
+}
+fieldset.login p {
+	margin-bottom:1em;
+	margin-top:0pt;
+}
+fieldset p label {
+	width:98%;
+}
+fieldset p input {
+	width:98%;
+}
+fieldset p select {
+	width:99%;
+}
+fieldset.login p label {
+	float:left;
+	line-height:2em;
+	margin-right:3%;
+	text-align:right;
+	width:32%;
+}
+fieldset.login p input {
+	width:60%;
+}
+fieldset.login input.button {
+	margin-left:35%;
+}
+form p.notice {
+	font-weight:bold;
+}
+input.search.text {
+	width:66%;
+}
+input.search.button {
+	width:28%;
+	margin-left:2%;
+}
+
+
+/* Modules Layout
+----------------------------------------------- */
+
+#footer {
+	margin: 0px auto;
+}
+#footer ul li a {
+	background: transparent !important;
+	text-decoration: none;
+}
+#footer ul li a:hover {
+	text-decoration: underline;
+}
+
+#footer #footer-line {
+}
+#footer-line {
+padding-top: 10px;
+}
+#footer #footer-line .moduletable_empty {
+	background: none;
+}
+#foo-left-right {
+	clear: both;
+}
+#footer-left {
+	float: left;
+	width: 50%;
+}
+#footer-right {
+	float: right;
+	width: 50%;
+}
+#bot-modules {
+}
+
+#bot-l {
+	float: left;
+	width: 10px;
+	height: 12px;
+	background: url(../images/bot-l-bg.html) no-repeat 0 0;
+}
+#bot-r {
+	float: right;
+	width: 10px;
+	height: 12px;
+	background: url(../images/bot-r-bg.html) no-repeat 0 0;
+}
+#bot-mid {
+	margin: 0px 10px;
+	height: 12px;
+	background: url(../images/bot-m-bg.html) repeat 0 0;
+}
+#lbOverlay {
+	z-index: 99999999999 !important;
+}
+#lbCenter, #lbBottomContainer {
+	z-index: 999999999999 !important;
+}
+
+#foo-left-right {
+	clear: both;
+	font-size: 90%;
+}
+.no-foo-lr-line {
+	border-top: 0px !important;
+}
+.moduletable_style2 {
+	border: none;
+}
+.moduletable_style2 h3 {
+font-weight: normal;
+font-size: 180%;
+line-height: 110%;
+padding: 7px 0px;
+margin: 0px;
+}
+
+#vertical_slide {
+	z-index: 999999;
+	opacity: 0.96;
+}
+
+img {
+	max-width: 100%;
+}
+
+#slideshow-handler {
+	position: relative;
+	margin: 0px auto 0px auto;
+}
+
+#search-position {
+	padding-top: 3px;
+	float: right;
+	padding-right: 10px;
+}
+
+#search-position .button {
+border: 0px;
+padding: 6px 5px 6px 25px;
+background: rgba(255, 255, 255, 0) url(../images/search-icon.png) no-repeat 5px center !important;
+margin: -2px 1px 1px 1px !important;
+font-size: 0px;
+box-shadow: none;
+-moz-box-shadow: none;
+-webkit-box-shadow: none;
+position: absolute;
+right: 15px;
+height: 28px;
+}
+
+#search-position form {
+	margin-bottom: 0px;
+}
+
+#search-position .search, #search-position .finder {
+	vertical-align: top;
+	text-align: right;
+	clear: both;
+}
+
+#search-position .inputbox {
+	margin-top: 2px;
+	margin-right: 5px;
+	min-height: none !important;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	height: 10px;
+	max-width: 160px;
+}

@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20220812T000000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9d5e70075fbec0840114137ce41e0208
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20230722T152500
+SUMMARY:Tonbridge to the club, Peer paddle
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p><span style="color: #414141; font-family: Arial, Helvetica, sans-serif; 
+ font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: norm
+ al; text-align: left; text-indent: 0px; text-transform: none; white-space: 
+ normal; word-spacing: 0px; background-color: #ffffff; text-decoration: none
+ ; float: none;">I am organising a paddle from Tonbridge back to Maidstone C
+ anoe Club on Sunday August 13th.</span></p><p><span style="color: #414141; 
+ font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-style: nor
+ mal; font-weight: 400; letter-spacing: normal; text-align: left; text-inden
+ t: 0px; text-transform: none; white-space: normal; word-spacing: 0px; backg
+ round-color: #ffffff; text-decoration: none; float: none;">Meet at the car 
+ park by Tonbridge swimming pool to be Otw at 9.30am.&nbsp;<span style="colo
+ r: #414141; font-family: Arial, Helvetica, sans-serif; font-size: 11px; fon
+ t-style: normal; font-weight: 400; letter-spacing: normal; text-align: left
+ ; text-indent: 0px; text-transform: none; white-space: normal; word-spacing
+ : 0px; background-color: #ffffff; text-decoration: none; float: none;">This
+  will be a long trip (of approx 16 miles) and is a peer paddle so you shoul
+ d be a competent paddler and confident in your ability to paddle this dista
+ nce.<span style="color: #414141; font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: nor
+ mal; text-align: left; text-indent: 0px; text-transform: none; white-space:
+  normal; word-spacing: 0px; background-color: #ffffff; text-decoration: non
+ e; float: none;">There are 7 canoe passes (grades 2 and 3),which can be be 
+ portaged if you prefer. <span style="color: #414141; font-family: Arial, He
+ lvetica, sans-serif; font-size: 11px; font-style: normal; font-weight: 400;
+  letter-spacing: normal; text-align: left; text-indent: 0px; text-transform
+ : none; white-space: normal; word-spacing: 0px; background-color: #ffffff; 
+ text-decoration: none; float: none;">I think the paddle will take approx 9 
+ hours so&nbsp;</span>I would anticipate being back at the club before 6pm.<
+ /span></span></span></p><p><span style="color: #414141; font-family: Arial,
+  Helvetica, sans-serif; font-size: 11px; font-style: normal; font-weight: 4
+ 00; letter-spacing: normal; text-align: left; text-indent: 0px; text-transf
+ orm: none; white-space: normal; word-spacing: 0px; background-color: #fffff
+ f; text-decoration: none; float: none;">You will need a packed lunch, and s
+ ufficient drinks and snacks to sustain you on the trip. A helmet will be ne
+ eded if you do intend to use the canoe shutes and a good sense of humour is
+  always useful if the going gets tough!&nbsp;</span></p><p><span style="col
+ or: #414141; font-family: Arial, Helvetica, sans-serif; font-size: 11px; fo
+ nt-style: normal; font-weight: 400; letter-spacing: normal; text-align: lef
+ t; text-indent: 0px; text-transform: none; white-space: normal; word-spacin
+ g: 0px; background-color: #ffffff; text-decoration: none; float: none;">I'l
+ l set up a group whatsapp to share info &amp; sort car shares so please sig
+ n up below if you'd like to come.&nbsp;</span></p><p>Trish Cadman</p>
+DTSTAMP:20230907T140507Z
+DTSTART;TZID=Europe/London;VALUE=DATE:20230813
+DTEND;TZID=Europe/London;VALUE=DATE:20230814
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

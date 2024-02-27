@@ -1,0 +1,269 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20121028T010000
+RDATE:20130331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20131027T010000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20141026T010000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20120723T173000
+RDATE:20121028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20130331T020000
+RDATE:20131027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20141026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:423cb8539676cf38f10e7b211c160595
+CATEGORIES:Coaching
+CREATED:20130423T084635
+SUMMARY:Beginner Course - Session 4
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<h3>Beginner's Course for Club Newcomers</h3><p>Paddle with us! &nbsp;If yo
+ u're thinking of joining Maidstone Canoe Club and learning to paddle, you'r
+ e in the right place! &nbsp;This 4-week Beginner's Course is designed to gi
+ ve you the basic skills to control the boat. &nbsp;Once you've completed th
+ e course, you'll have the confidence and abilities to join us on our trips,
+  tours, and regular paddles on the Medway and beyond.</p><p><strong style="
+ font-size: larger;">Please note that courses&nbsp;<em>must</em> be pre-book
+ ed. &nbsp;We are no longer running "open" sessions - all novice paddlers mu
+ st attend one of our Introductory Courses. &nbsp;Please see <a href="http:/
+ /www.maidstonecanoeclub.net/joomla/index.php/come-paddle/come-try" target="
+ _blank">this page</a> for details.</strong></p><p>Full details of the cours
+ es and how to get involved in paddling at the Club are <a href="http://www.
+ maidstonecanoeclub.net/joomla/index.php/come-paddle/come-try" target="_blan
+ k">available on this page</a> - please take a look if you haven't already d
+ one so.</p><p>Our courses cost £25, and are run by our friendly qualified c
+ oaches. &nbsp;They consist of four 2-hour sessions. &nbsp;<span style="font
+ -size: 13px; background-color: #ffffff;">(Note the cost is £25 for the whol
+ e course - not £25 per session!)</span></p><p>Your coaches for this Course 
+ will <span style="font-size: 13px; background-color: #ffffff;">be&nbsp;</sp
+ an><a href="http://www.maidstonecanoeclub.net/joomla/index.php?option=com_c
+ ontact&amp;view=contact&amp;catid=42:coaches&amp;id=28-niki-norman" target=
+ "_blank" style="font-size: 13px; background-color: #ffffff;">Niki Norman<sp
+ an style="font-size: 13px; background-color: #ffffff;">,&nbsp;</span></a><a
+  href="http://www.maidstonecanoeclub.net/joomla/index.php/component/contact
+ /contact/42-coaches/19-mark-corti" target="_blank" style="font-size: 13px; 
+ background-color: #ffffff;">Mark Corti</a><span style="font-size: 13px; bac
+ kground-color: #ffffff;">&nbsp;and&nbsp;</span><a href="http://www.maidston
+ ecanoeclub.net/joomla/index.php/component/contact/contact/42-coaches/29-row
+ an-speers" target="_blank" style="font-size: 13px; background-color: #fffff
+ f;">Rowan Speers</a><a href="http://www.maidstonecanoeclub.net/joomla/index
+ .php?option=com_contact&amp;view=contact&amp;catid=42:coaches&amp;id=28-nik
+ i-norman" target="_blank" style="font-size: 13px; background-color: #ffffff
+ ;"><span style="font-size: 13px; background-color: #ffffff;">.</span></a>&n
+ bsp; The dates for this course are:</p><p><table border="3" style="width: 2
+ 38px; border: 3px solid #000000;" center="" frame="border" rules="all" cell
+ padding="2"><tbody><tr><td><strong>Session 1</strong></td><td><strong>3rd J
+ uly</strong></td></tr><tr><td><strong>Session 2</strong></td><td><strong>10
+ th July</strong></td></tr><tr><td><strong>Session 3</strong></td><td><stron
+ g>17th July</strong></td></tr><tr><td><strong>Session 4</strong></td><td><s
+ trong>24th July</strong></td></tr></tbody></table><span style="line-height:
+  normal;"></span></p><p><span style="font-size: 13px; background-color: #ff
+ ffff;">Boats used for this session: general-purpose kayaks</span></p><p>If 
+ you can't attend one of the sessions, please let one of the coaches know an
+ d we'll try to fit you in another time. &nbsp;Please arrive at 5:30pm - we 
+ will aim to be on the water by 6:00pm.</p><p>If you'd like to attend this c
+ ourse, please fill out the form below to sign up. &nbsp;If you've <a href="
+ http://www.maidstonecanoeclub.net/joomla/index.php/come-paddle/come-try">go
+ t questions</a> or have any problems, please <a href="http://www.maidstonec
+ anoeclub.net/joomla/index.php/2012-05-01-19-15-08/contact-us">contact us</a
+ > and we'll do our best to help.</p><p>See you on the water!</p><p>&nbsp;</
+ p><h2>This course begins on Wednesday, 3rd July</h2>
+CONTACT:event.bookings@maidstonecanoeclub.net
+DTSTAMP:20230907T121527Z
+DTSTART;TZID=Europe/London:20130724T173000
+DTEND;TZID=Europe/London:20130724T200000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

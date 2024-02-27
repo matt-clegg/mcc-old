@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20170922T103000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1c72d5b80252745eda6e53ca74b8b852
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20180818T151608
+SUMMARY:Medway Valley
+LOCATION:Strood
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>Also on this day, a trip organised by Maridian Canoe Club</p><p><span st
+ yle="margin: 0px; color: black; font-size: 12pt;">Medway Valley Sunday 23rd
+  September 2018.</span></p><p><span style="margin: 0px; color: black; font-
+ size: 12pt;">Meet&nbsp;</span><span style="background: #e1ebf2; margin: 0px
+ ; color: #333333; font-size: 12pt;">at Strood Steps, Canal Road, Strood, ME
+ 2 4DR (18 miles) at 10.30.&nbsp;</span><span style="margin: 0px; color: #33
+ 3333; font-family: 'Trebuchet MS',sans-serif; font-size: 10pt;"><br /> </sp
+ an><span style="background: #e1ebf2; margin: 0px; color: #333333; font-size
+ : 12pt;">Please keep cars to a minimum as parking may be limited.&nbsp;</sp
+ an><span style="margin: 0px; color: #333333; font-family: 'Trebuchet MS',sa
+ ns-serif; font-size: 10pt;"><br /> </span><span style="background: #e1ebf2;
+  margin: 0px; color: #333333; font-size: 12pt;">The nearest toilets are at 
+ Strood Station, if open.</span><span style="margin: 0px; color: #333333; fo
+ nt-family: 'Trebuchet MS',sans-serif; font-size: 10pt;"><br /> </span><span
+  style="background: #e1ebf2; margin: 0px; color: #333333; font-size: 12pt;"
+ >Launch at 11.00 and head up river with the incoming tide passing under Roc
+ hester and Medway Bridges to Halling (4.5 miles) or Wouldham (5 miles) to h
+ ave lunch.</span><span style="margin: 0px; color: #333333; font-family: 'Tr
+ ebuchet MS',sans-serif; font-size: 10pt;"><br /> </span><span style="backgr
+ ound: #e1ebf2; margin: 0px; color: #333333; font-size: 12pt;">Please note t
+ here will be mud and debris on the shore when launching.</span><span style=
+ "margin: 0px; color: #333333; font-family: 'Trebuchet MS',sans-serif; font-
+ size: 10pt;"><br /> <br /> </span><span style="background: #e1ebf2; margin:
+  0px; color: #333333; font-size: 12pt;">High Water at Halling is at 12:59&n
+ bsp;</span><span style="margin: 0px; color: #333333; font-family: 'Trebuche
+ t MS',sans-serif; font-size: 10pt;"><br /> </span><span style="background: 
+ #e1ebf2; margin: 0px; color: #333333; font-size: 12pt;">Have lunch whilst t
+ ide turns.</span><span style="margin: 0px; color: #333333; font-family: 'Tr
+ ebuchet MS',sans-serif; font-size: 10pt;"><br /> </span><span style="backgr
+ ound: #e1ebf2; margin: 0px; color: #333333; font-size: 12pt;">Start return 
+ at 14.00&nbsp;</span><span style="margin: 0px; color: #333333; font-family:
+  'Trebuchet MS',sans-serif; font-size: 10pt;"><br /> </span><span style="ba
+ ckground: #e1ebf2; margin: 0px; color: #333333; font-size: 12pt;">I plan to
+  arrive back at Strood Steps by 16.00&nbsp;</span></p><p><span style="backg
+ round: #e1ebf2; margin: 0px; color: #333333; font-size: 12pt;">The get out 
+ at Strood is very muddy, so please bring water and cloths to wash and wipe 
+ mud off boats and yourselves.</span></p><p><span style="background: #e1ebf2
+ ; margin: 0px; color: #333333; font-size: 12pt;">Full details at:-</span></
+ p><p><span style="background: #e1ebf2; margin: 0px; color: #333333; font-fa
+ mily: 'Trebuchet MS',sans-serif; font-size: 10pt;"><a href="http://www.meri
+ diancanoeclub.com/phpBB3/viewtopic.php?f=4&amp;t=1628"><span style="margin:
+  0px; font-family: 'Calibri',sans-serif; font-size: 12pt;">http://www.merid
+ iancanoeclub.com/phpBB3/viewtopic.php?f=4&amp;t=1628</span></a></span></p>
+CONTACT:Tim Harlow  tjharlow@hotmail.com
+DTSTAMP:20230907T111954Z
+DTSTART;TZID=Europe/London:20180923T103000
+DTEND;TZID=Europe/London:20180923T160000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

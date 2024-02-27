@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20161126T093000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c834b88e8b72858c0cc499edfb6113be
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20171113T202001
+SUMMARY:Midweek Paddle
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p style="margin: 0px 0px 11px; text-align: center;"><span style="margin: 0
+ px; line-height: 107%; font-family: 'Arial',sans-serif; font-size: 14pt;">M
+ idweek Paddlers</span></p><p style="margin: 0px 0px 11px;"><span style="mar
+ gin: 0px; line-height: 107%; font-family: 'Arial',sans-serif; font-size: 14
+ pt;">Calling all paddlers who have free time in the week and fancy a paddle
+ .</span></p><p style="margin: 0px 0px 11px;"><span style="margin: 0px; line
+ -height: 107%; font-family: 'Arial',sans-serif; font-size: 14pt;">I am plan
+ ning to organise regular canoe trips on a Monday up until Christmas. (We ca
+ n review its success in the new year). </span></p><p style="margin: 0px 0px
+  11px;"><span style="margin: 0px; line-height: 107%; font-family: 'Arial',s
+ ans-serif; font-size: 14pt;">The paddle will be for adults as children shou
+ ld be in school. The canoeing standard needed: you should be able to paddle
+  in a straight line. Time will be given to novice paddlers to help develop 
+ their skills.</span></p><p style="margin: 0px 0px 11px;"><span style="margi
+ n: 0px; line-height: 107%; font-family: 'Arial',sans-serif; font-size: 14pt
+ ;">The plan is to meet at the clubhouse for 9.30 am on a Monday to confirm 
+ the paddle based on the weather and river conditions. The aim will be to do
+  a linear paddle by shuffling cars to the start and finish points. Paddlers
+  will need to take a packed lunch and should consider a hot drink as well a
+ s wearing appropriate clothing. The finish time will vary but is likely to 
+ be between 1.30 and 3.00.</span></p><p style="margin: 0px 0px 11px;"><span 
+ style="margin: 0px; line-height: 107%; font-family: 'Arial',sans-serif; fon
+ t-size: 14pt;">The first Midweek paddle has been arranged for Monday 20<sup
+ >th</sup> November 2017, meet at the clubhouse for 9.30. We plan to paddle 
+ from above Teston to the Clubhouse using the chute at Teston depending on t
+ he river conditions. Please bring a packed lunch. You can use a club boat i
+ f you are a member and do not have a suitable canoe.</span></p><p style="ma
+ rgin: 0px 0px 11px;"><span style="margin: 0px; line-height: 107%; font-fami
+ ly: 'Arial',sans-serif; font-size: 14pt;">If you would like more details pl
+ ease email me: </span><a><span style="margin: 0px; line-height: 107%; font-
+ family: 'Arial',sans-serif; font-size: 14pt;">mlambourne250@gmail.com</span
+ ></a><span style="margin: 0px; line-height: 107%; font-family: 'Arial',sans
+ -serif; font-size: 14pt;"> or 07949184250</span></p><p style="margin: 0px 0
+ px 11px;"><span style="margin: 0px; line-height: 107%; font-family: 'Arial'
+ ,sans-serif; font-size: 14pt;">Happy paddling</span></p><p style="margin: 0
+ px 0px 11px;"><span style="margin: 0px; line-height: 107%; font-family: 'Ar
+ ial',sans-serif; font-size: 14pt;">Mike</span></p>
+CONTACT:Michael Lambourne  
+DTSTAMP:20230907T151910Z
+DTSTART;TZID=Europe/London:20171127T093000
+DTEND;TZID=Europe/London:20171127T140000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,247 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20130329T090000
+RDATE:20130331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20131027T010000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20141026T010000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20130331T020000
+RDATE:20131027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20141026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:da9bb61833ffc307987f58676274e092
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20140317T093625
+SUMMARY:Medway Estuary Paddle 
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nPaddle from the Strand to the Russian Sub at Strood organised by Tim Ha
+ rlow of Maridian CC. Unfortunately I will not be able to make this one as I
+  am sea paddling that weekend but details are below  Geoff\nwith winter as 
+ good as gone I am eager to start some Medway Estuary trips and looking thro
+ ugh the tide tables we can fit one in on Sunday 30th March based on one of 
+ the Discover Your Estuary Trails\nhttp://www.discoveryourestuary.com/canoet
+ rails/canoetrailfour.html\nhttp://www.discoveryourestuary.com/CanoeTrail-4.
+ pdf\nexcept we will not visit Nor Marsh or Darnett Island as we hope to vis
+ it them later this year on other trips but will extend this trip to the sub
+ marine.\nMeet at The Strand Car Park, Gillingham, ME7 1TT at 10.15 and laun
+ ch by 11. (High Water 13.27.)\nA chart of the trip is at http://www.visitmy
+ harbour.com/harbours/north-kent-swale-medway/medway-marinas/chart/1FFF5C48A
+ E531/medway-gillingham-and-rochester-2012-chart\n \nWe will cross the shipp
+ ing lane and paddle (for 1.5 miles) across and against the tide to Folly Po
+ int by Hoo Fort on Hoo Salt Marsh.\nWith the tide now with us, we head nort
+ h then east behind Hoo Salt Marsh to Hoo (Port Werburgh) Marina where we re
+ join the Medway and continue following the north shore up river to Upnor an
+ d its castle and on to Chatham where the Medway does a sharp U-bend and hea
+ ds north to Rochester then Strood where the submarine is moored (just befor
+ e Rochester Bridge).\nThis is 8.5 miles from The Strand.\n \nWe will get ou
+ t on the north shore and eat our packed lunches. High Water is at 13.22 so 
+ we will start the return trip about 14.00. As soon it is safe to do so, we 
+ will cross the river and follow the south shore back to The Strand, Gilling
+ ham, a distance of 5.5 miles.\n \nThe total trip is 14 miles.\nI plan to re
+ turn to The Strand by 16.00.\nPaddlers should be of a 2* standard for this 
+ trip.\nImportant.\nThis Sunday is the day after the clocks have moved forwa
+ rd one hour for BST so please take note and set your alarms accordingly.\nB
+ ritish Summer Time and tide wait for no man! \nCould you check my check my 
+ tide calculations?\nRochester tide table\nhttp://www.visitmyharbour.com/tid
+ es/79/uk-tables/rochester-stroodpier-tide-tables\nChatham Tide tables (Subt
+ ract 2 minutes for Gillingham)\nhttp://www.visitmyharbour.com/tides/78/uk-t
+ ables/chatham-lockapproaches-tide-tables\nThe trip can be shortened by 2.88
+  miles by paddling directly north from The Strand to Hoo (Port Werburgh) Ma
+ rina thus avoiding going around Hoo Salt Marsh.\nSomething to consider if w
+ e have bad weather on the day.\nI have posted details of this trip on the M
+ eridian website at\nhttp://www.meridiancanoeclub.com/phpBB3/viewtopic.php?f
+ =4&t=1255&p=4873#p4873\n \nIf you have any questions, please get back to me
+ .\nTim Harlow\nMeridian Canoe Club\n \n
+DTSTAMP:20230907T122000Z
+DTSTART;TZID=Europe/London:20140330T100000
+DTEND;TZID=Europe/London:20140330T160000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

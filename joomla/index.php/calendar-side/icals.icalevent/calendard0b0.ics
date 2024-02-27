@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20201119T000000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:848c2ab6acd911c8b0834430689dfbc7
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20211024T130536
+SUMMARY:Easier WW Trip
+LOCATION:Tyddyn Bychan Cefn Brith Cerrigydrudion Corwen LL21 9TS
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>We're staying at the Tyddyn Bychan bunkhouse (<a href="https://www.tyddy
+ nbychan.co.uk/"></a><a href="https://www.tyddynbychan.co.uk">https://www.ty
+ ddynbychan.co.uk</a>) in N Wales for the weekend of 20/21st November, with 
+ the aim of running an easier (grade 2/3) whitewater trip. &nbsp;This will b
+ e suitable if you’ve done an Intro to WW course or are at similar standard.
+  &nbsp;Rivers TBC but might include Llugwy, Conwy, Dee, Lower Tryweryn, Sei
+ ont, etc. &nbsp;Cost will be £52 including breakfasts. &nbsp;</p><div><div>
+ &nbsp;</div><div>We’ve got a couple of river leaders lined up so less-confi
+ dent paddlers can be fully supported - more experienced paddlers can form a
+  separate self-contained group if they’d like.</div><div>&nbsp;</div><div>P
+ lease <a href="mailto:mark@maidstonecanoeclub.net">contact Mark</a> to conf
+ irm your space - if you're not on the whitewater mailing list and would lik
+ e to be, drop me a line also.</div></div>
+CONTACT:Mark Corti, mark@maidstonecanoeclub.net
+DTSTAMP:20230907T145038Z
+DTSTART;TZID=Europe/London;VALUE=DATE:20211120
+DTEND;TZID=Europe/London;VALUE=DATE:20211122
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

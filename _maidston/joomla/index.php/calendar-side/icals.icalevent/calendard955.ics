@@ -1,0 +1,215 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20141226T084500
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6718c7d22f958eefece54ef27b717b91
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20151130T092251
+SUMMARY:Canterbury Stour Trip
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\nPost-Christmas paddle through old Canterbury.\n\n\nFor those of you tha
+ t have not run this section of river I would thoroughly recommend consideri
+ ng it.\nThe river runs through the old Canterbury and you get to experience
+  the old Canterbury and some of it’s history.  The river from memory has th
+ ree weirs which are usually OK to run.\n\nI will run the proposed section o
+ f river before the Sunday to access any restrictions that may pose a hazard
+ .  All are welcome with basic river skills.\n\nYou will need to have suitab
+ le paddling clothing as we have had swimmers on previous years and the wate
+ r will be cold.  The only other requirement is, that you follow river leade
+ rship instruction when required.\n\nCome and paddle through Canterbury and 
+ on down the Stour to Fordwich to work off the Christmas mince pies. At the 
+ end we will find a pub (George & Dragon, Fordwich) to help us put the calor
+ ies back on again! The total distance is approximately 6 to 8 km.\n\nArrang
+ ements:-\n\n08:45 Meet at the MCC Clubhouse, Maidstone.\n09:00 Leave Clubho
+ use and travel to Canterbury.\n10:00 Arrive in the childrens playing area W
+ hitehall Road (GR143577) where we find access to the water (Parking is pay 
+ and display and has 6ft 6” barrier at entrance – parking free outside barri
+ er!)\nChange into paddling gear while drivers car shuttle downstream to For
+ dwich\n11:00 Begin the tour.We will pass through (at times it seems like un
+ der) Canterbury. Water conditions will determine whether we portage or padd
+ le the barrier in the City. Later, we arrive at a re-developed mill. (We wi
+ ll consider weir-shooting/portaging opportunities etc on the day). On down 
+ through Kings school playing fields before one last drop, finally reaching 
+ egress and pub. (GR179598)\n13:30 Change in pub car park (situated across t
+ he road from the pub) and retire to the hostelry for a sherbert. Note: This
+  is subject to Pub approval which will be sought nearer the time. (George &
+  Dragon, Fordwich. Tel 01227 710661)\n??:?? Leave for home or clubhouse.\n\
+ nThe tour is best suited to polyethylene kayaks. We have had swimmers in th
+ e past so please ensure you bring suitable paddling gear. Cag’s thermals et
+ c. Please note. Head protection will be required. Portaging features may be
+  an option (except for the last drop which is near the end of the paddle an
+ yway (and there is an alternative route if preferred).\n
+CONTACT:Paul Hignell, phignall@gmail.com
+DTSTAMP:20230907T123524Z
+DTSTART;TZID=Europe/London:20151227T084500
+DTEND;TZID=Europe/London:20151227T140000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

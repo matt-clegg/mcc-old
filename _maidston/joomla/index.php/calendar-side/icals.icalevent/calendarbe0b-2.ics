@@ -1,0 +1,223 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20160622T080000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c9a0854840d3049b86df1cbd8e438386
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20161101T223222
+SUMMARY:River wye trip 
+LOCATION:Whitney Bridge Toll Bridge Cottage Whitney-on-Wye   Herefordshire HR3 6EW
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<div><span style="font-family: Times New Roman; font-size: small;"> </span>
+ <span style="font-family: Times New Roman;"> </span><span style="font-famil
+ y: Times New Roman;"> </span><span style="font-family: Times New Roman;"> <
+ /span><span style="font-family: Times New Roman;"> </span><table style="tex
+ t-align: left;" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top"
+  style="padding: 0cm 9pt; border: #000000; text-align: left; background-col
+ or: transparent;"><span style="font-family: Times New Roman; font-size: sma
+ ll;"> </span><p style="line-height: 19.8pt; margin-top: 0cm; margin-right: 
+ 0cm; margin-bottom: 10pt;"><span style="color: #414141; font-family: 'Times
+  New Roman','serif'; font-size: 16pt;">Touring trip to South Wales.  This w
+ ill be centred on the river Wye and aimed at Touring paddlers but everyone 
+ looking for grade 1/2rivers. Are   welcome Saturday day 1 Glabury - </span>
+ <span style="font-size: 13pt;"><span style="font-family: Times New Roman;">
+ Whitney on Wye 10 miles</span></span><span style="color: #414141; font-fami
+ ly: 'Times New Roman','serif'; font-size: 16pt;"> Sunday day 2 Ross on wye 
+ - </span><span style="font-size: 16pt;"><span style="font-family: Calibri;"
+ >Symonds Yat</span></span><span style="color: #414141; font-family: 'Times 
+ New Roman','serif'; font-size: 16pt;"> 13 miles</span></p><span style="font
+ -family: Times New Roman; font-size: small;"> </span><p style="line-height:
+  19.8pt; margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt;"><span st
+ yle="text-decoration: underline;"><span style="color: #414141; font-family:
+  'Times New Roman','serif'; font-size: 16pt;"> Please bring with you the fo
+ llowing </span></span></p><span style="font-family: Times New Roman; font-s
+ ize: small;"> </span><p style="line-height: 19.8pt; margin-top: 0cm; margin
+ -right: 0cm; margin-bottom: 10pt;"><span style="color: #414141; font-family
+ : 'Times New Roman','serif'; font-size: 16pt;">Lunch or you can buy it ther
+ e.</span></p><span style="font-family: Times New Roman; font-size: small;">
+  </span><p style="line-height: 19.8pt; margin-top: 0cm; margin-right: 0cm; 
+ margin-bottom: 10pt;"><span style="color: #414141; font-family: 'Times New 
+ Roman','serif'; font-size: 16pt;">Camping kit 1- 2 man Tent only as campsit
+ e is small</span></p><span style="font-family: Times New Roman; font-size: 
+ small;"> </span><p style="line-height: 19.8pt; margin-top: 0cm; margin-righ
+ t: 0cm; margin-bottom: 10pt;"><span style="color: #414141; font-family: 'Ti
+ mes New Roman','serif'; font-size: 16pt;">Paddle kit</span></p><span style=
+ "font-family: Times New Roman; font-size: small;"> </span><p style="line-he
+ ight: 19.8pt; margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt;"><sp
+ an style="color: #414141; font-family: 'Times New Roman','serif'; font-size
+ : 16pt;">Camping fee </span><span style="font-size: 14pt;"><span style="fon
+ t-family: Calibri;">£8.00 per adult per night (£5 for under 12 years)</span
+ ></span><span style="color: #414141; font-family: 'Times New Roman','serif'
+ ; font-size: 16pt;"> </span></p><span style="font-family: Times New Roman; 
+ font-size: small;"> </span><p style="line-height: 19.8pt; margin-top: 0cm; 
+ margin-right: 0cm; margin-bottom: 10pt;"><span style="color: #414141; font-
+ family: 'Times New Roman','serif'; font-size: 16pt;">Money for pub   </span
+ ></p><span style="font-family: Times New Roman; font-size: small;"> </span>
+ <p style="line-height: 19.8pt; margin-top: 0cm; margin-right: 0cm; margin-b
+ ottom: 10pt;"><span style="color: #414141; font-family: 'Times New Roman','
+ serif'; font-size: 16pt;">Food for BBQ Friday night </span></p><span style=
+ "font-family: Times New Roman; font-size: small;"> </span><p style="margin-
+ top: 0cm; margin-right: 0cm; margin-bottom: 0pt;"><strong><span style="font
+ -size: 16pt;"><span style="font-family: Calibri;">Breakfast menu &ndash; yo
+ ur choice of: </span></span></strong></p><span style="font-family: Times Ne
+ w Roman; font-size: small;"> </span></td></tr></tbody></table><span style="
+ font-family: Times New Roman; font-size: small;"> </span></div><p><span sty
+ le="font-family: Times New Roman; font-size: small;"> </span><span style="l
+ ine-height: 115%; font-family: 'Calibri','sans-serif'; font-size: 16pt;">Br
+ eakfast bap filled with your choice of locally sourced bacon, sausage, free
+  range egg, fresh tomato and chestnut mushrooms plus unlimited selection of
+  beverages incl. green tea, tea, fruit tea, hot chocolate and coffee &ndash
+ ; delivered to your tent - £5.00 each PLEASE EMAIL ME Order by Wednesday 21
+ <sup>st</sup> June if you would like this.</span></p>
+CONTACT:lee@maidstonecanoeclub.net  
+DTSTAMP:20230907T151453Z
+DTSTART;TZID=Europe/London:20170623T080000
+DTEND;TZID=Europe/London:20170625T170000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

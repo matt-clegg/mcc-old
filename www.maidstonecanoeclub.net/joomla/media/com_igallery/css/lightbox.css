@@ -1,0 +1,506 @@
+/*
+**************
+TO ADJUST THE MARGIN AND PADDING OF ANY IMAGES in the gallery html
+please see components/com_igallery/helpers/utility.php
+The margin and padding of the images are in percentages. These percentages are
+caculated in the php before the html is output.
+*****************
+*/
+
+/* LIGHTBOX WRAPPER BIT */
+
+	/*this is the dark background div when the lightbox shows, the javascript makes it transparent,
+	if it appears below a drop down menu, put another 0 onto the end of z index*/
+	div.lbox_dark{
+	position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+	z-index: 10100;
+    }
+
+	/*the white wrapper for all the lightbox stuff, if it appears below a drop down menu,
+	put another 0 onto the end of z index*/
+	div.lbox_white{
+	position: absolute;
+	padding: 20px;
+	z-index: 10200;
+	}
+
+/* LIGHTBOX GALLERY THUMBS BIT */
+
+	div.lbox_thumbs_arrow_wrapper{
+	float: left;
+	position: relative;
+	}
+
+	div.lbox_thumb_up_arrow_wrapper{
+	position: absolute;
+	width: 100%;
+	height: 12%;
+	max-height: 36px;
+	background-color: rgba(240,240,240,0.6);
+	display: none;
+	cursor: pointer;
+	z-index: 2;
+    border-bottom: 1px solid rgba(255,255,255,0.6);
+	}
+
+	div.lbox_thumb_up_arrow_child{
+	width: 100%;
+	height: 100%;
+	background: url('../images/up_arrow.png') no-repeat center center;
+	}
+
+	div.lbox_thumb_down_arrow_wrapper{
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+	height: 12%;
+	max-height: 36px;
+	background-color: rgba(240,240,240,0.6);
+	display: none;
+	cursor: pointer;
+	z-index: 2;
+    border-top: 1px solid rgba(255,255,255,0.6);
+	}
+
+	div.lbox_thumb_down_arrow_child{
+	width: 100%;
+	height: 100%;
+	background: url('../images/down_arrow.png') no-repeat center center;
+	}
+
+	div.lbox_thumb_left_arrow_wrapper{
+	position: absolute;
+	width: 12%;
+	height: 100%;
+	max-width: 36px;
+	background-color: rgba(240,240,240,0.6);
+	display: none;
+	cursor: pointer;
+	z-index: 2;
+	border-right: 1px solid rgba(255,255,255,0.6);
+	}
+
+	div.lbox_thumb_left_arrow_child{
+	width: 100%;
+	height: 100%;
+	background: url('../images/left_arrow.png') no-repeat center center;
+	}
+
+	div.lbox_thumb_right_arrow_wrapper{
+	position: absolute;
+	width: 12%;
+	height: 100%;
+	right: 0px;
+    max-width: 36px;
+	background-color: rgba(240,240,240,0.6);
+	display: none;
+	cursor: pointer;
+	z-index: 2;
+	border-left: 1px solid rgba(255,255,255,0.6);
+	}
+
+	div.lbox_thumb_right_arrow_child{
+	width: 100%;
+	height: 100%;
+	background: url('../images/right_arrow.png') no-repeat center center;
+	}
+
+	/*this div holds the lbox thumb table.
+	The lbox thumb table scrolls inside it*/
+	div.lbox_thumb_container{
+	direction: ltr;
+    min-height: 0%;
+	}
+
+	/*this table holds all the thumbs.*/
+	table.lbox_thumb_table{
+    max-width: none;
+	}
+
+    table.lbox_thumb_table_below{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    table.lbox_thumb_table_above{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+	/*these table cells hold one thumb each.*/
+	table.lbox_thumb_table td{
+    margin: 0px !important;
+    padding: 0px !important;
+    border: none;
+	}
+	
+	/*the thumbnail that is active */
+	table.lbox_thumb_table td.active_thumb{
+	}
+
+/*the rest of the thumbs will have inactive as the class*/
+	table.lbox_thumb_table td.inactive_thumb{
+	}
+
+	/*stop firefox putting a dotted border around the thumb, which gives it an overflow */
+	table.lbox_thumb_table td a{
+	outline: none;
+	}
+
+    /*stop J17 defualt template from giving thumbs a blue background on hover */
+    table.lbox_thumb_table a:hover, table.lbox_thumb_table a:active, table.lbox_thumb_table a:focus{
+        background-color: transparent !important;
+    }
+
+	/*the thumbnail image*/
+	table.lbox_thumb_table td img{
+    display: block;
+	}
+
+/* LIGHTBOX GALLERY DESCRIPTIONS BIT */
+
+	/*the div that holds all the image description divs*/
+	div.lbox_des_container{
+	float: left;
+	}
+
+	/*each image description is wrapped in one of these*/
+	div.lbox_des_container div.des_div{
+	margin: 5px;
+	}
+	
+/* LIGHTBOX LARGE IMAGE BIT */
+
+	/*this keeps the large image and slideshow buttons together*/
+	div.lbox_image_slideshow_wrapper{
+	float: left;
+	}
+
+	/*this is the div that houses the big lightbox image*/
+	div.lbox_large_image{
+    position: relative;
+    float: left;
+    cursor: pointer;
+	}
+    
+	/*the lightbox image itself*/
+	div.lbox_large_image .large_img{
+	}
+
+
+/* LIGHTBOX GALLERY SLIDESHOW BIT */
+
+	/*this holds the 3 slideshow buttons below the image*/
+	div.lbox_slideshow_buttons{
+	float: left;
+    margin: 5px 5px 0px 0px;
+	}
+
+	/*the three slideshow images*/
+	div.lbox_slideshow_buttons div{
+	cursor: pointer;
+	width: 30px;
+	height: 18px;
+	margin-right: 1px;
+	float: left;
+	border: 1px solid rgba(0, 0, 0, 0.17);
+    border-radius: 2px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+	}
+
+	div.lbox_slideshow_buttons div.ig_slideshow_rewind{
+	background: url('../images/rewind.png') no-repeat center center;
+	}
+
+	div.lbox_slideshow_buttons div.ig_slideshow_play{
+	background: url('../images/play.png') no-repeat center center;
+	}
+
+	div.lbox_slideshow_buttons div.ig_slideshow_pause{
+	background: url('../images/pause.png') no-repeat center center;
+	}
+
+	div.lbox_slideshow_buttons div.ig_slideshow_forward{
+	background: url('../images/forward.png') no-repeat center center;
+	}
+
+	/*left/right slideshow buttons*/
+	div.lbox_large_image span.left_overlay_slideshow_notmobile{
+    position: absolute;
+    display: block;
+    z-index: 10700;
+    left: 1%;
+    cursor: pointer;
+    padding: 4%;
+    width: 32px;
+    height: 32px;
+    box-sizing: content-box;
+    background: url('../images/left-side-arrow.png') no-repeat center center;
+	}
+
+	div.lbox_large_image span.right_overlay_slideshow_notmobile{
+    position: absolute;
+    display: block;
+    z-index: 10700;
+    right: 1%;
+    cursor: pointer;
+    padding: 4%;
+    width: 32px;
+    height: 32px;
+    box-sizing: content-box;
+    background: url('../images/right-side-arrow.png') no-repeat center center;
+	}
+
+    div.lbox_large_image span.left_overlay_slideshow_mobile{
+    position: absolute;
+    display: block;
+    z-index: 10700;
+    left: 1%;
+    cursor: pointer;
+    padding: 5% 5% 5% 2%;
+    width: 64px;
+    height: 64px;
+    box-sizing: content-box;
+    background: url('../images/left-side-arrow-64.png') no-repeat center center;
+    }
+
+    div.lbox_large_image span.right_overlay_slideshow_mobile{
+    position: absolute;
+    display: block;
+    z-index: 10700;
+    right: 1%;
+    cursor: pointer;
+    padding: 5% 2% 5% 5%;
+    width: 64px;
+    height: 64px;
+    box-sizing: content-box;
+    background: url('../images/right-side-arrow-64.png') no-repeat center center;
+    }
+	
+/* DOWNLOAD BUTTON BIT */
+
+	/*this holds the download button*/
+	div.lbox_download_button{
+	float: left;
+    cursor: pointer;
+	width: 30px;
+	height: 18px;
+	padding-right: 3px;
+	border: 1px solid rgba(0, 0, 0, 0.17);
+    border-radius: 2px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+    background: url('../images/download.png') no-repeat center center;
+    margin: 5px 5px 0px 0px;
+	}
+
+	div.lbox_download_button a{
+	display: block;
+	width: 30px;
+	height: 18px;
+	}
+
+	div.lbox_download_button a:hover{
+	background-color: transparent!important;
+	}
+
+/*SHARE LIKE BIT*/
+	div.lbox_facebook_share{
+	float: left;
+    position: relative;
+    margin: 5px 5px 0px 0px;
+    height: 21px;
+    line-height: normal;
+	}
+
+    div.lbox_facebook_share iframe{
+    max-width: none !important;
+    }
+	
+/*PLUS ONE BIT*/
+	div.lbox_plus_one_div{
+	float: left;
+    margin: 5px 5px 0px 0px;
+    position:relative;
+    width: 62px;
+    height: 21px;
+    line-height: normal;
+	}
+
+/*TWITTER BUTTON BIT*/
+div.lbox_twitter_button{
+    float: left;
+    position:relative;
+    margin: 5px 5px 0px 0px;
+    width: 82px;
+    height: 21px;
+    line-height: normal;
+}
+
+div.lbox_twitter_button iframe{
+    position: absolute!important;
+    top: 0px;
+    left: 0px;
+}
+
+/*PINTEREST BUTTON BIT*/
+div.lbox_pinterest{
+    float: left;
+    position:relative;
+    margin: 5px 5px 0px 0px;
+    width: 41px;
+    height: 21px;
+    line-height: normal;
+}
+
+/*REPORT IMAGE BIT*/
+	div.lbox_report{
+	float: left;
+    font-size: 12px;
+    text-align: center;
+    padding: 1px 3px 0px 3px;
+	height: 17px;
+	border: 1px solid rgba(0, 0, 0, 0.17);
+    border-radius: 2px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+    margin: 5px 5px 0px 0px;
+	}
+
+	div.lbox_report a{
+    color: #6c6c6c;
+    text-decoration: none;
+    }
+	
+	div.lbox_report form{
+	width: 400px;
+	}
+/*IMAGE AUTHOR BIT*/
+div.lbox_image_author{
+    float: left;
+    font-size: 12px;
+    text-align: center;
+    padding: 1px 4px 0px 4px;
+    height: 17px;
+    border: 1px solid rgba(0, 0, 0, 0.17);
+    border-radius: 2px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+    margin: 5px 5px 0px 0px;
+    line-height: normal!important;
+    font-family: arial!important;
+}
+
+/*IMAGE HITS BIT*/
+div.lbox_image_hits{
+    float: left;
+    font-size: 12px;
+    text-align: center;
+    padding: 1px 4px 0px 4px;
+    height: 17px;
+    border: 1px solid rgba(0, 0, 0, 0.17);
+    border-radius: 2px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+    margin: 5px 5px 0px 0px;
+    line-height: normal!important;
+    font-family: arial!important;
+}
+	
+/*IMAGE NUMBERING BIT*/
+	div.lbox_img_numbering{
+	float: left;
+    font-size: 12px;
+    text-align: center;
+	width: 30px;
+	padding-top: 1px;
+	height: 17px;
+	border: 1px solid rgba(0, 0, 0, 0.17);
+    border-radius: 2px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+    margin: 5px 5px 0px 0px;
+    line-height: normal!important;
+    font-family: arial!important;
+	}
+	
+/* LIGHTBOX TAGS BIT */
+
+	/*the div that holds all the tags divs*/
+	div.lbox_tags_container{
+	float: left;
+	margin: 5px 0px;
+	}
+
+	/*each tag block is wrapped in one of these*/
+	div.lbox_tags_container div.tags_div{
+	}
+	
+/*FACEBOOK COMMENTS BIT*/
+	div.lbox_fbcomments{
+    position: relative;
+    clear: both;
+	}
+
+    div.lbox_fbcomments .fb_iframe_widget, div.lbox_fbcomments span:first-child,  div.lbox_fbcomments .fb_iframe_widget span:first-child, div.lbox_fbcomments .fb_iframe_widget iframe{
+        width: 100% !important;
+    }
+
+    div.lbox_fbcomments_below{
+        padding-top: 5px;
+    }
+
+    div.lbox_fbcomments_left{
+        padding-right: 5px;
+    }
+
+    div.lbox_fbcomments_right{
+        padding-left: 5px;
+    }
+	
+/*JCOMMENTS BIT*/
+	div.lbox_jcomments_wrapper{
+	float: left;	
+}
+
+/* LIGHTBOX CLOSE IMAGE */
+
+	div.lbox_white a.closeImage{
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	top: -16px;
+	right: -16px;
+	background-image: url('../images/close-corner.png');
+	}
+
+	div.lbox_white a.closeImage:hover{
+	background-color: transparent;
+	}
+
+/*RATINGS BIT */
+.lbox_ratings_container{
+    float: left;
+    margin: 5px 5px 0px 0px;
+	overflow:hidden;
+	max-width: 500px;
+}
+
+/* GREY BORDER SHADOW STYLE */
+.lbox_white_grey-border-shadow div.lbox_large_image .large_img{
+    display: block;
+    box-shadow: inset 1px 1px 0 #cccccc,inset -1px 1px 0 #cccccc, inset 1px -1px 0 #cccccc, inset -1px -1px 0 #cccccc;
+}
+
+.lbox_white_grey-border-shadow table.lbox_thumb_table td img{
+    box-shadow: inset 1px 1px 0 #cccccc, inset -1px 1px 0 #cccccc, inset 1px -1px 0 #cccccc, inset -1px -1px 0 #cccccc, 4px 4px 4px rgba(202, 202, 202, 0.8);
+    border-collapse: separate;
+}
+
+.lbox_white_grey-border-shadow .lbox_des_container{
+    background-color: rgba(230,230,230,0.2);
+    box-shadow: inset 1px 1px 0 #cccccc,inset -1px 1px 0 #cccccc, inset 1px -1px 0 #cccccc, inset -1px -1px 0 #cccccc;
+}
+
+/*PLAIN STYLE */
+.lbox_white_plain table.lbox_thumb_table td:first-child img{
+    margin-left: 0px;
+}

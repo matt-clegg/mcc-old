@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20201008T100000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a6422b1c0a657dca9da1183a20e8fc3f
+CATEGORIES:Coaching
+CREATED:20210821T143429
+SUMMARY:Kids-Only Beginner Course - Sessions 1 & 2
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>This is our Kids-Only Beginner Course! &nbsp;Open to all kids aged 8 - 1
+ 1 - loads of fun, games and getting wet - plus you'll learn to paddle and b
+ e able to join our legendary Junior Paddle Club!</p><p>Please note all cour
+ ses must be pre-booked - all novice paddlers must attend one of our beginne
+ r courses. &nbsp;Full details of the courses and how to get involved in pad
+ dling (including how to join the Club if you're already an experience paddl
+ er) are <a href="http://maidstonecanoeclub.net/joomla/index.php?option=com_
+ content&amp;view=article&amp;id=199&amp;Itemid=151">available on this page<
+ /a> - please take a look if you haven't already.</p><p>Our courses cost £45
+  for children, and are run by our friendly qualified coaches. &nbsp;They co
+ nsist of 8 hours coaching time - either 4 x two-hour sessions, 2 x four-hou
+ r sessions, or occasionally 1 x eight-hour session<span style="color: #4141
+ 41; font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-style:
+  normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: 
+ left; text-indent: 0px; text-transform: none; white-space: normal; widows: 
+ 2; word-spacing: 0px; background-color: #ffffff; float: none;"></span>- and
+  follow the syllabus for the nationally-recognised&nbsp;<a href="https://go
+ paddling.info/discover-awards/" target="_blank" rel="noopener">British Cano
+ eing Discover Award</a>.</p><p>Your coaches for this course will be <a href
+ ="https://www.maidstonecanoeclub.net/joomla/index.php?option=com_contact&am
+ p;view=contact&amp;id=62&amp;catid=42&amp;Itemid=415">John Simmonds</a> and
+ &nbsp;<a href="https://www.maidstonecanoeclub.net/joomla/index.php?option=c
+ om_contact&amp;view=contact&amp;id=21&amp;catid=42&amp;Itemid=415">Lee Hort
+ on</a>.&nbsp; &nbsp; The dates for this course are:</p><h3>Sessions 1 &amp;
+  2 : Saturday 9th October</h3><h3>Sessions 3 &amp; 4 : Sunday 10th October<
+ /h3><p>Please arrive at 9:30am - we will aim to be on the water by 10:00am.
+ &nbsp; Please make sure you've read our "<a href="https://www.maidstonecano
+ eclub.net/joomla/index.php?option=com_content&amp;view=article&amp;id=1005&
+ amp;Itemid=1427">What to Wear</a>" page, and <strong>please bring a snack</
+ strong>! &nbsp;(Snacks should be OK to be put in a damp pocket - either in 
+ some kind of waterproof wrapper, like a cereal bar or a packet of crisps, o
+ r fruit or similar)</p><p>If you'd like to attend the course, please fill o
+ ut the form below to sign up. &nbsp;If you've <a href="http://maidstonecano
+ eclub.net/joomla/index.php?option=com_content&amp;view=article&amp;id=199&a
+ mp;Itemid=151">got questions</a> or have any problems, please <a href="http
+ ://maidstonecanoeclub.net/joomla/index.php?option=com_alfcontact&amp;view=a
+ lfcontact&amp;Itemid=157">contact us</a> and we'll do our best to help.</p>
+ <p>See you on the water!</p><h3>This course begins on&nbsp;Saturday 9th Oct
+ ober</h3><p>&nbsp;</p>
+DTSTAMP:20230907T144922Z
+DTSTART;TZID=Europe/London:20211009T100000
+DTEND;TZID=Europe/London:20211009T130000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

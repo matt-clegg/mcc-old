@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20151227T084500
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b655b14101747a06a05f71b2a6d52f1b
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20161123T150315
+SUMMARY:Post-Christmas Paddle through Old Canterbury.
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>For those of you that have not run this section of river I would thoroug
+ hly recommend considering it.</p><p>The river runs through the old Canterbu
+ ry and you get to experience the old Canterbury and some of it&rsquo;s hist
+ ory.  The river from memory has three weirs which are usually OK to run.</p
+ ><p> </p><p>I will run the proposed section of river before the Sunday to a
+ ccess any restrictions that may pose a hazard.  All are welcome with basic 
+ river skills.</p><p> </p><p>You will need to have suitable paddling clothin
+ g as we have had swimmers on previous years and the water will be cold.  Th
+ e only other requirement is, that you follow river leadership instruction w
+ hen required.</p><p> </p><p>Come and paddle through Canterbury and on down 
+ the Stour to Fordwich to work off the Christmas mince pies. At the end we w
+ ill find a pub (George & Dragon, Fordwich) to help us put the calories back
+  on again! The total distance is approximately 6 to 8 km.</p><p> </p><p>Arr
+ angements:-</p><p> </p><p>08:45 Meet at the MCC Clubhouse, Maidstone.</p><p
+ >09:00 Leave Clubhouse and travel to Canterbury.</p><p>10:00 Arrive in the 
+ childrens playing area Whitehall Road (GR143577) where we find access to th
+ e water (Parking is pay and display and has 6ft 6&rdquo; barrier at entranc
+ e &ndash; parking free outside barrier!)</p><p>Change into paddling gear wh
+ ile drivers car shuttle downstream to Fordwich</p><p>11:00 Begin the tour.W
+ e will pass through (at times it seems like under) Canterbury. Water condit
+ ions will determine whether we portage or paddle the barrier in the City. L
+ ater, we arrive at a re-developed mill. (We will consider weir-shooting/por
+ taging opportunities etc on the day). On down through Kings school playing 
+ fields before one last drop, finally reaching egress and pub. (GR179598)</p
+ ><p>13:30 Change in pub car park (situated across the road from the pub) an
+ d retire to the hostelry for a sherbert. Note: This is subject to Pub appro
+ val which will be sought nearer the time. (George & Dragon, Fordwich. Tel 0
+ 1227 710661)</p><p>??:?? Leave for home or clubhouse.</p><p> </p><p>The tou
+ r is best suited to polyethylene kayaks. We have had swimmers in the past s
+ o please ensure you bring suitable paddling gear. Cag&rsquo;s thermals etc.
+  Please note. Head protection will be required. Portaging features may be a
+ n option (except for the last drop which is near the end of the paddle anyw
+ ay (and there is an alternative route if preferred).</p>
+CONTACT:Paul Hignell, phignall@gmail.com
+DTSTAMP:20230907T124315Z
+DTSTART;TZID=Europe/London:20161227T084500
+DTEND;TZID=Europe/London:20161227T143000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

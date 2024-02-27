@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20151210T190000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5e92cd6300c1548b650b3e28342b5d6f
+CATEGORIES:Social Events
+CREATED:20161114T230158
+SUMMARY:MCC Christmas Party 2016
+LOCATION:At the Clubhouse
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p style="text-align: center;"><span style="font-size: 16pt; line-height: 1
+ 07%; font-family: 'Comic Sans MS';">Maidstone Canoe Club Christmas Party wi
+ ll take place on</span></p><p style="text-align: center;"><strong><span sty
+ le="text-decoration: underline;"><span style="font-size: 20pt; line-height:
+  107%; font-family: 'Comic Sans MS';">Saturday 10th December at the Clubhou
+ se.</span></span></strong></p><p style="text-align: center;"><span style="t
+ ext-decoration: underline;"><strong><span style="font-size: 16pt; line-heig
+ ht: 107%; font-family: 'Comic Sans MS';">Starting at 7.00pm.</span></strong
+ ></span></p><p style="text-align: center;"><span style="text-decoration: un
+ derline;"><span style="font-size: 16pt; line-height: 107%; font-family: 'Co
+ mic Sans MS';">Tickets are just £5.00 per person and this includes a buffet
+  supper.</span></span></p><p style="text-align: center;"><strong><span styl
+ e="text-decoration: underline;"><span style="font-size: 18pt; line-height: 
+ 107%; font-family: 'Comic Sans MS'; color: red;">Please bring your own drin
+ ks.</span></span></strong></p><p style="text-align: center;"><span style="f
+ ont-size: 16pt; line-height: 107%; font-family: 'Comic Sans MS';">The club 
+ will be transformed into Christmas Wonderland, or something like it, and we
+  will have the best Christmas music ever.</span></p><p style="text-align: c
+ enter;"><span style="font-size: 16pt; line-height: 107%; font-family: 'Comi
+ c Sans MS';">There will be a raffle with a fabulous prize. If you have some
+ thing you can donate for the raffle, so there are a few more prizes, it wou
+ ld be much appreciated.</span></p><p><span style="font-size: 16pt; line-hei
+ ght: 107%; font-family: 'Comic Sans MS';">Tickets can be purchased from the
+  club website or directly from Geoff. You will need to buy your ticket by T
+ hursday 1st December to give us time to order the food. (These are not real
+  tickets - more like a list!)</span></p>
+CONTACT:niki@maidstonecanoeclub.net
+DTSTAMP:20230907T090433Z
+DTSTART;TZID=Europe/London:20161210T190000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

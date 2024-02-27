@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20200423T083000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:48f50c1d2d72158c91d1922d555c8b89
+CATEGORIES:Coaching
+CREATED:20210326T201609
+SUMMARY:Explore Award - Independent Paddling - Course 1 Training
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>The Explore Award is the next step&nbsp;after&nbsp;the Beginner Course.&
+ nbsp; It replaces the old 2* award, and is suitable for anyone who's done t
+ he old 1*, Discover Award, or Beginner Course.&nbsp; The focus of this is t
+ o build the skills needed to paddle independently and to be a confident mem
+ ber of a paddling group.&nbsp; It will also build the foundations for other
+  paddle disciplines - whether that's sea kayaking, touring, white water, or
+  anything else.</p><p>We'll talk about:</p><ul><li>planning a trip, taking 
+ into account the weather, environment, and water conditions</li><li>new ski
+ lls and paddle strokes for new situations</li><li>efficient paddling to pre
+ pare you for longer journeys</li><li>and lots more!</li></ul><p><strong>Tim
+ e:</strong> This is a two-day course, running on&nbsp;Saturday&nbsp;Septemb
+ er 24th April and&nbsp;Saturday May 1st.&nbsp; You'll need to come to both 
+ days to&nbsp;complete&nbsp;the course.</p><p><strong>Cost</strong>: Free!&n
+ bsp; Maidstone Canoe Club doesn't charge for coaching to members.&nbsp; Bri
+ tish Canoeing charge £6 to get the certificate, payable on the day.</p><p><
+ strong>Food:</strong> Please bring lunch with you, as well as a drink and s
+ nacks for on the water.</p>
+CONTACT:Lee Horton, lee@maidstonecanoeclub.net
+DTSTAMP:20230907T144530Z
+DTSTART;TZID=Europe/London:20210424T083000
+DTEND;TZID=Europe/London:20210424T160000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

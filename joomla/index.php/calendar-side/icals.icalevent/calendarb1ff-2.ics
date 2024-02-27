@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20210601T000000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2aeb75cea2d19ffa82b06d2c1b4e4118
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20220322T095524
+SUMMARY:Peer Paddling trip and wild camping at “Studen Kladenets” reservoir in Bulgaria.
+LOCATION:Bulgaria\, Studen Kladenets reservoir.
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:\n\n\nPeer Paddling trip and wild camping at “Studen Kladenets” reservoir i
+ n Bulgaria.02 - 05 June 2022 (Queen’s jubilee bank holidays)- 2nd of JuneTr
+ aveling to Bulgaria - From London Gatwick to Sofia airport. From there we w
+ ill have a shuttle to the campsite with a stop for lunch at some local rest
+ aurant and also shopping some snacks drinks and other necessities. The esti
+ mated shuttle time is around 4h so we are supposed to be at the camp around
+  7:00 pm.\nCamping: We will set up our camp on the shore in the middle of t
+ he large water reservoir, we could explore a different direction every day.
+  We are camping in nature with access only to some water fountains. All act
+ ivities are done with respect to the environment, including trash collectio
+ n, going to the toilet etc. There is a chance that we may set our camp next
+  to a hunting hut. In that case, there may be some extras like a wooden she
+ lter in which we could eat.\n- 3rd of JuneWe will have a chance to paddle a
+ nd visit a small chapel and a hidden pond with a waterfall. On the way back
+  we could stop for a late lunch at a local tavern and hopefully enjoy some 
+ fish or grilled meat and cold drinks.\n- 4th of June\nWe will go in the opp
+ osite direction and visit some more nice sites and visit another tavern for
+  lunch.\n- 5th of June\nWe will visit the ancient&nbsp;Thracian&nbsp;city o
+ f Perperikon&nbsp;and also the oldest city in Europe, Plovdiv. From Plovdiv
+  we are flying back to the UK and we suppose to arrive back at Gatwick airp
+ ort same day.\nImportant: We are about to join an event organised by a loca
+ l adventure club “Biala Zvezda” and there may be other participants, includ
+ ing families. The lake gives a chance to enjoy unique sights and a rich nat
+ ural environment. We set-up a stationary camp in a picturesque area with a 
+ lot of wildlife. We could meet roe deer, hinds and stags, hares. If we look
+  up, we often see circling vultures and their nesting places.\nThe cost of 
+ the trip:\n\n&nbsp;£150 which covers:\n- The shuttles from and to the airpt
+ orts\n - Breakfast and dinner for 3 days\n - All camping gear like tents, t
+ ables, chairs ect. (Everyone must bring their own sleeping bag and mat.) \n
+  - All Gear required for paddling.\n\n Additional costs that everyone must 
+ cover: \n - Flights tickets\n - Lunch and drinks at the venues (prices are 
+ very fair in BG)\n- Drinks and Snacks\n- Travel insurance\n\n\nIf you are i
+ nterested in joining that trip please contact me for more information.\n
+CONTACT:georgi@hebar.co.uk
+X-EXTRAINFO:https://www.youtube.com/watch?v=1qgzE_fRLA0&ab_channel=AlexMarkov
+DTSTAMP:20230907T145531Z
+DTSTART;TZID=Europe/London;VALUE=DATE:20220602
+DTEND;TZID=Europe/London;VALUE=DATE:20220606
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

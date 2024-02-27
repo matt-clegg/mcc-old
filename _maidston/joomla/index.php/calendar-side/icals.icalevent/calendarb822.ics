@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20220512T100000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a8a078c1796881a525cab3875682b7e3
+CATEGORIES:Paddles, Trips & Tours
+CREATED:20220729T144127
+SUMMARY:River Avon Weekend Evesham to Pershore and Pershore to Eckington
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<p>This is a scenic paddle along the Avon likely to be from Evesham to Pers
+ hore which is 10 miles then Pershore to Eckington Bridge at 9 miles if you 
+ would like to on Sunday.</p><p>Since we will be there Saturday and Sunday i
+ t will be best to stay Friday and enjoy a long paddle on Saturday with anot
+ her opportunity for a shorter paddle on Sunday.</p><p>It's a peer paddle so
+  all welcome if you feel comfortable on moving water that can reach grade 1
+  (quite placid)</p><p>It'll be fun with the odd little feature to chute and
+  glorious Worcestershire countryside.</p><p>We'll look at accommodation and
+  boat shuttles nearer the time.</p><p>Sign up if you want to come along for
+  a relaxed paddle with stops on the way.</p><p>Contact Claire if you need m
+ ore information 07585 003794</p><p>&nbsp;See link for trail:&nbsp;<a href="
+ https://www.britishcanoeing.org.uk/uploads/documents/River_Avon-_Vale_of_Ev
+ esham.pdf?_ga=2.45952035.66493144.1675341515-681914289.1675341515" target="
+ _blank" rel="noopener">https://www.britishcanoeing.org.uk/uploads/documents
+ /River_Avon-_Vale_of_Evesham.pdf?_ga=2.45952035.66493144.1675341515-6819142
+ 89.1675341515</a>&nbsp;</p><p>Link to Travelodge in Tewkesbury:&nbsp;<a hre
+ f="https://www.travelodge.co.uk/hotels/401/Tewkesbury-hotel?checkIn=12/05/2
+ 023&amp;checkOut=14/05/2023&amp;rooms" target="_blank" rel="noopener">https
+ ://www.travelodge.co.uk/hotels/401/Tewkesbury-hotel?checkIn=12/05/2023&amp;
+ checkOut=14/05/2023&amp;rooms</a>&nbsp;</p><p>Link to campsite in Evesham:&
+ nbsp;<a href="https://www.campsites.co.uk/search/campsites-in-worcestershir
+ e/evesham/bredon-vale-caravan-and-camping" target="_blank" rel="noopener">h
+ ttps://www.campsites.co.uk/search/campsites-in-worcestershire/evesham/bredo
+ n-vale-caravan-and-camping</a></p>
+DTSTAMP:20230907T135931Z
+DTSTART;TZID=Europe/London:20230513T100000
+DTEND;TZID=Europe/London;VALUE=DATE:20230515
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

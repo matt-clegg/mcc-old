@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jEvents 2.0 for Joomla//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:20131027T010000
+RDATE:20140330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20141026T010000
+RDATE:20150329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20151025T010000
+RDATE:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20161030T010000
+RDATE:20170326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20171029T010000
+RDATE:20180325T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20181028T010000
+RDATE:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20191027T010000
+RDATE:20200329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20201025T010000
+RDATE:20210328T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20211031T010000
+RDATE:20220327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20221030T010000
+RDATE:20230326T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20231029T010000
+RDATE:20240331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20241027T010000
+RDATE:20250330T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:STANDARD
+DTSTART:20251026T010000
+RDATE:20260329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:Europe/London GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20130621T093000
+RDATE:20131027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20140330T020000
+RDATE:20141026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20150329T020000
+RDATE:20151025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+RDATE:20161030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20170326T020000
+RDATE:20171029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20180325T020000
+RDATE:20181028T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+RDATE:20191027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20200329T020000
+RDATE:20201025T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20210328T020000
+RDATE:20211031T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20220327T020000
+RDATE:20221030T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20230326T020000
+RDATE:20231029T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+RDATE:20241027T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RDATE:20251026T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:Europe/London BST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:691785cf8cdd075f39ca372004d9e1e0
+CATEGORIES:Coaching
+CREATED:20140224T113928
+SUMMARY:Beginner Course (Canoe) - Session 3
+LOCATION:Maidstone Canoe Club\, Mill Meadow\, St Peter's St\, Maidstone\, ME16 0SN
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:<h3>Beginner's Course for Club Newcomers - Canoe</h3><p><strong>IMPORTANT: 
+ The first session of this course is on a <em>Saturday</em> (7th June). &nbs
+ p;The remaining sessions are on <em>Sundays</em> (15th, 22nd, 29th June)</s
+ trong></p><p>Paddle with us! &nbsp;If you're thinking of joining Maidstone 
+ Canoe Club and learning to paddle, you're in the right place! &nbsp;This 4-
+ week Beginner's Course is designed to give you the basic skills to control 
+ the boat. &nbsp;Once you've completed the course, you'll have the confidenc
+ e and abilities to join us on our trips, tours, and regular paddles on the 
+ Medway and beyond.</p><p>This course will be primarily based in Canadian-st
+ yle open canoes rather than kayaks, although you will get the opportunity t
+ o try other craft.</p><p><strong style="font-size: larger;">Please note tha
+ t courses&nbsp;<em>must</em> be pre-booked. &nbsp;We are no longer running 
+ "open" sessions - all novice paddlers must attend one of our Introductory C
+ ourses. &nbsp;Please see <a href="http://www.maidstonecanoeclub.net/joomla/
+ index.php/come-paddle/come-try" target="_blank">this page</a> for details.<
+ /strong></p><p><strong style="font-size: larger;">This course date is only 
+ open to participants 14 years of age and older. &nbsp;Please choose another
+  date if you're bringing children younger than this.</strong></p><p><span s
+ tyle="font-size: 13px; line-height: 20px;">Full details of the courses and 
+ how to get involved in paddling at the Club are </span><a href="http://www.
+ maidstonecanoeclub.net/joomla/index.php/come-paddle/come-try" target="_blan
+ k" style="font-size: 13px; line-height: 20px;">available on this page</a><s
+ pan style="font-size: 13px; line-height: 20px;"> - please take a look if yo
+ u haven't already done so.</span></p><p>Our courses cost £40, and are run b
+ y our friendly qualified coaches. &nbsp;They consist of four 2-hour session
+ s. &nbsp;</p><p><span style="font-size: 13px;">Your coaches for this Course
+  will be </span><a href="http://www.maidstonecanoeclub.net/joomla/index.php
+ ?option=com_contact&amp;view=contact&amp;catid=42:coaches&amp;id=23-paul-tu
+ cker&amp;Itemid=415">Paul Tucker</a><span style="font-size: 13px;"> and <a 
+ href="http://www.maidstonecanoeclub.net/joomla/index.php?option=com_contact
+ &amp;view=contact&amp;catid=42:coaches&amp;id=26-jamie-mcconville&amp;Itemi
+ d=415">Jamie McConville</a>.&nbsp; The dates for this course are:</span></p
+ ><p><table style="width: 352px; border: 3px solid #000000; height: 259px;" 
+ center="" frame="border" rules="all" border="3" cellpadding="2"><tbody><tr>
+ <td><h6><strong>Session 1</strong></h6></td><td><h6><strong>&nbsp; &nbsp; S
+ aturday 7th June</strong></h6></td></tr><tr><td><h6><strong>Session 2</stro
+ ng></h6></td><td><h6><strong>&nbsp; &nbsp; Sunday 15th June</strong></h6></
+ td></tr><tr><td><h6><strong>Session 3</strong></h6></td><td><h6><strong>&nb
+ sp; &nbsp; Sunday 22nd June</strong></h6></td></tr><tr><td><h6><strong>Sess
+ ion 4</strong></h6></td><td><h6><strong>&nbsp; &nbsp; Sunday 29th June</str
+ ong></h6></td></tr></tbody></table><span style="line-height: normal;"></spa
+ n></p><p>If you can't attend one of the sessions, please let one of the coa
+ ches know and we'll try to fit you in another time. &nbsp;Please arrive at 
+ 9:30am - we will aim to be on the water by 10:00am.</p><p>If you'd like to 
+ attend this course, please fill out the form below to sign up. &nbsp;If you
+ 've <a href="http://www.maidstonecanoeclub.net/joomla/index.php/come-paddle
+ /come-try">got questions</a> or have any problems, please <a href="http://w
+ ww.maidstonecanoeclub.net/joomla/index.php/2012-05-01-19-15-08/contact-us">
+ contact us</a> and we'll do our best to help.</p><p>See you on the water!</
+ p><p>&nbsp;</p><h2>This course begins on Saturday, 7th June</h2>
+CONTACT:event.bookings@maidstonecanoeclub.net
+DTSTAMP:20230907T084529Z
+DTSTART;TZID=Europe/London:20140622T093000
+DTEND;TZID=Europe/London:20140622T120000
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
